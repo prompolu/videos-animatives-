@@ -1,0 +1,56 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 60,
+  "language": "fr",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 7,
+      "name": "Aluminium sur mesure",
+      "theme": "dark"
+    },
+    {
+      "start": 7,
+      "end": 15,
+      "name": "De la mesure à la pose",
+      "theme": "light"
+    },
+    {
+      "start": 15,
+      "end": 24,
+      "name": "Fenêtres et portes",
+      "theme": "steel"
+    },
+    {
+      "start": 24,
+      "end": 33,
+      "name": "Façades, vérandas, garde-corps",
+      "theme": "warm"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "name": "Pourquoi l’aluminium",
+      "theme": "dark"
+    },
+    {
+      "start": 43,
+      "end": 51,
+      "name": "Parlons de votre projet",
+      "theme": "light"
+    },
+    {
+      "start": 51,
+      "end": 60,
+      "name": "Contact",
+      "theme": "dark"
+    }
+  ],
+  "company": "VOTRE ENTREPRISE",
+  "website": "www.votre-site.com",
+  "illustrations": "original procedural 2D drawings (tools/render_video.py)",
+  "voiceover": "none",
+  "music": "original synthesized instrumental"
+}

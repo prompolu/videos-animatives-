@@ -1,0 +1,237 @@
+{
+  "_comment": "Edit this file, then re-run tools/render_video.py. Empty phone hides the phone line. Set logo to a PNG path (relative to aluminium/) to replace the drawn mark.",
+  "company": {
+    "fr": "VOTRE ENTREPRISE",
+    "en": "YOUR COMPANY"
+  },
+  "website": {
+    "fr": "www.votre-site.com",
+    "en": "www.your-website.com"
+  },
+  "phone": "",
+  "logo": "",
+  "colors": {
+    "accent": "#2A86C2",
+    "accent_light": "#8CC8EE",
+    "dark": "#1B2026",
+    "dark_2": "#33404B"
+  },
+  "text": {
+    "fr": {
+      "category": "FENÊTRES  ·  PORTES  ·  FAÇADES",
+      "footer": "MENUISERIE ALUMINIUM",
+      "s1_pill": "MENUISERIE ALUMINIUM",
+      "s1_title": "L’aluminium\nsur mesure.",
+      "s1_sub": "Fenêtres, portes et façades\npour particuliers et professionnels.",
+      "s2_title": "De la mesure à la pose.",
+      "s2_sub": "Un accompagnement complet pour votre projet.",
+      "steps": [
+        [
+          "Prise de mesures",
+          "Sur place, au millimètre."
+        ],
+        [
+          "Conception",
+          "Plans et conseils adaptés."
+        ],
+        [
+          "Fabrication",
+          "Profilés coupés et assemblés."
+        ],
+        [
+          "Pose",
+          "Installation et finitions soignées."
+        ]
+      ],
+      "s3_title": "Fenêtres et portes.",
+      "s3_sub": "Coulissantes, battantes ou portes d’entrée : tout sur mesure.",
+      "s3_cards": [
+        [
+          "Fenêtre coulissante",
+          "Grandes ouvertures, glissement fluide"
+        ],
+        [
+          "Fenêtre battante",
+          "Ouverture à la française"
+        ],
+        [
+          "Porte d’entrée",
+          "Design et sécurité"
+        ]
+      ],
+      "s4_title": "Façades, vérandas, garde-corps.",
+      "s4_sub": "Le verre et l’aluminium pour des espaces plus lumineux.",
+      "s4_cards": [
+        [
+          "Mur rideau",
+          "Façades vitrées"
+        ],
+        [
+          "Véranda",
+          "Plus de lumière, plus d’espace"
+        ],
+        [
+          "Garde-corps",
+          "Verre et aluminium"
+        ]
+      ],
+      "s5_title": "Pourquoi l’aluminium ?",
+      "s5_sub": "Un matériau durable, moderne et responsable.",
+      "benefits": [
+        [
+          "Durable",
+          "Résiste à la corrosion et aux intempéries."
+        ],
+        [
+          "Léger et solide",
+          "De grandes baies, des profilés fins."
+        ],
+        [
+          "Isolant",
+          "Profilés à rupture de pont thermique."
+        ],
+        [
+          "Recyclable",
+          "Recyclable à l’infini."
+        ],
+        [
+          "Peu d’entretien",
+          "Un simple nettoyage suffit."
+        ],
+        [
+          "Sur mesure",
+          "Toutes dimensions, couleurs RAL."
+        ]
+      ],
+      "s6_pill": "VOTRE PROJET",
+      "s6_title": "Parlons de\nvotre projet.",
+      "s6_sub": "Demandez votre devis\npersonnalisé.",
+      "s7_tagline": "Fenêtres, portes et façades en aluminium,\nsur mesure.",
+      "s7_cta": "DEMANDEZ VOTRE DEVIS",
+      "phone_label": "Tél.",
+      "scene_names": [
+        "Aluminium sur mesure",
+        "De la mesure à la pose",
+        "Fenêtres et portes",
+        "Façades, vérandas, garde-corps",
+        "Pourquoi l’aluminium",
+        "Parlons de votre projet",
+        "Contact"
+      ],
+      "sheet": [
+        "60 s · Full HD · 16:9 · 30 i/s",
+        "Menuiserie aluminium",
+        "Illustrations animées originales",
+        "Musique instrumentale originale"
+      ]
+    },
+    "en": {
+      "category": "WINDOWS  ·  DOORS  ·  FAÇADES",
+      "footer": "ALUMINIUM JOINERY",
+      "s1_pill": "ALUMINIUM JOINERY",
+      "s1_title": "Aluminium,\nmade to measure.",
+      "s1_sub": "Windows, doors and façades\nfor homes and businesses.",
+      "s2_title": "From measuring to installation.",
+      "s2_sub": "Complete support for your project.",
+      "steps": [
+        [
+          "Measuring",
+          "On site, to the millimetre."
+        ],
+        [
+          "Design",
+          "Plans and tailored advice."
+        ],
+        [
+          "Fabrication",
+          "Profiles cut and assembled."
+        ],
+        [
+          "Installation",
+          "Careful fitting and finishing."
+        ]
+      ],
+      "s3_title": "Windows & doors.",
+      "s3_sub": "Sliding, casement or entrance doors, all made to measure.",
+      "s3_cards": [
+        [
+          "Sliding window",
+          "Wide openings, smooth gliding"
+        ],
+        [
+          "Casement window",
+          "Classic inward opening"
+        ],
+        [
+          "Entrance door",
+          "Design and security"
+        ]
+      ],
+      "s4_title": "Façades, verandas, railings.",
+      "s4_sub": "Glass and aluminium for brighter spaces.",
+      "s4_cards": [
+        [
+          "Curtain wall",
+          "Glazed façades"
+        ],
+        [
+          "Veranda",
+          "More light, more space"
+        ],
+        [
+          "Railing",
+          "Glass and aluminium"
+        ]
+      ],
+      "s5_title": "Why aluminium?",
+      "s5_sub": "A durable, modern and sustainable material.",
+      "benefits": [
+        [
+          "Durable",
+          "Resists corrosion and weather."
+        ],
+        [
+          "Light & strong",
+          "Large openings, slim profiles."
+        ],
+        [
+          "Insulating",
+          "Thermally broken profiles."
+        ],
+        [
+          "Recyclable",
+          "Endlessly recyclable."
+        ],
+        [
+          "Low upkeep",
+          "A simple wipe is enough."
+        ],
+        [
+          "Made to measure",
+          "Any size, any RAL colour."
+        ]
+      ],
+      "s6_pill": "YOUR PROJECT",
+      "s6_title": "Let’s talk about\nyour project.",
+      "s6_sub": "Ask for your\npersonalised quote.",
+      "s7_tagline": "Aluminium windows, doors and façades,\nmade to measure.",
+      "s7_cta": "REQUEST YOUR QUOTE",
+      "phone_label": "Tel.",
+      "scene_names": [
+        "Aluminium, made to measure",
+        "From measuring to installation",
+        "Windows & doors",
+        "Façades, verandas, railings",
+        "Why aluminium",
+        "Let’s talk about your project",
+        "Contact"
+      ],
+      "sheet": [
+        "60 s · Full HD · 16:9 · 30 fps",
+        "Aluminium joinery",
+        "Original animated illustrations",
+        "Original instrumental music"
+      ]
+    }
+  }
+}

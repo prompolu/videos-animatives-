@@ -1,0 +1,56 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 60,
+  "language": "en",
+  "scenes": [
+    {
+      "start": 0,
+      "end": 7,
+      "name": "Aluminium, made to measure",
+      "theme": "dark"
+    },
+    {
+      "start": 7,
+      "end": 15,
+      "name": "From measuring to installation",
+      "theme": "light"
+    },
+    {
+      "start": 15,
+      "end": 24,
+      "name": "Windows & doors",
+      "theme": "steel"
+    },
+    {
+      "start": 24,
+      "end": 33,
+      "name": "Façades, verandas, railings",
+      "theme": "warm"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "name": "Why aluminium",
+      "theme": "dark"
+    },
+    {
+      "start": 43,
+      "end": 51,
+      "name": "Let’s talk about your project",
+      "theme": "light"
+    },
+    {
+      "start": 51,
+      "end": 60,
+      "name": "Contact",
+      "theme": "dark"
+    }
+  ],
+  "company": "YOUR COMPANY",
+  "website": "www.your-website.com",
+  "illustrations": "original procedural 2D drawings (tools/render_video.py)",
+  "voiceover": "none",
+  "music": "original synthesized instrumental"
+}
