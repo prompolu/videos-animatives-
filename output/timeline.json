@@ -13,7 +13,7 @@
     {
       "start": 7,
       "end": 15,
-      "name": "Des produits pour les professionnels",
+      "name": "Plus de 320 produits au catalogue",
       "theme": "light"
     },
     {
@@ -25,13 +25,13 @@
     {
       "start": 24,
       "end": 33,
-      "name": "Hygiène cosmétique",
+      "name": "Bases cosmétiques",
       "theme": "cosmetic"
     },
     {
       "start": 33,
       "end": 43,
-      "name": "La confiance des entreprises",
+      "name": "Ils nous font confiance",
       "theme": "dark"
     },
     {
@@ -47,9 +47,14 @@
       "theme": "dark"
     }
   ],
-  "brand_status": "provisional",
-  "product_images": "original generic illustrations, not a verified catalogue",
-  "client_claim": "provided by user; verify before external release",
+  "brand_status": "official website logo",
+  "product_images": "8 original medical hygiene and cosmetic-base photos from official catalogue",
+  "product_count_claim": "Plus de 320 produits au catalogue Saraproc — user-provided, whole catalogue",
+  "client_claim": "7 reference logos displayed under Ils nous font confiance on official website",
+  "asset_sources": [
+    "assets/site/brand-client-sources.json",
+    "assets/site/products/product-sources.json"
+  ],
   "voiceover": "not recorded",
   "music": "original synthesized instrumental"
 }

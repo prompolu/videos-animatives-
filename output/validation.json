@@ -1,25 +1,97 @@
 {
-  "full_decode_checks": "both files decoded by FFmpeg without reported errors",
   "files": [
     {
       "file": "saraproc-maroc-60s-musique.mp4",
-      "duration": 60.0,
-      "dimensions": "1920x1080",
+      "duration": 60,
       "frames": 1800,
+      "dimensions": "1920x1080",
       "fps": 30,
-      "video_codec": "h264",
-      "audio_codec": "aac",
-      "bytes": 5010399
+      "full_decode": "passed",
+      "audio": "AAC stereo 48kHz",
+      "bytes": 5966718,
+      "sha256": "9619b0cc76f46b3a93037f79a3e4f6f245fc1107016d8e3280a8efc2ab0206c3"
     },
     {
       "file": "saraproc-maroc-60s-sans-son.mp4",
-      "duration": 60.0,
-      "dimensions": "1920x1080",
+      "duration": 60,
       "frames": 1800,
+      "dimensions": "1920x1080",
       "fps": 30,
-      "video_codec": "h264",
-      "audio_codec": null,
-      "bytes": 3510087
+      "full_decode": "passed",
+      "audio": null,
+      "bytes": 4466422,
+      "sha256": "fbcb327c49eb1968398a2b574d3f84a15a02f1302219752308ed3b57ae854141"
     }
-  ]
+  ],
+  "source_assets": [
+    {
+      "file": "assets/site/branding/saraproc-logo.png",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V0XKFT4HTQGFBW7WA1WD1N.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V12Z3BB635VBKJ7G5CRH5T.png",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V15KT38682KJNTP95YQJDG.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V18KZ1AS57DEJZPBBZXAMH.png",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V1BMEJXFYRGBATBKS2M741.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V1CH3BS2BAJ85D0W2ECDNT.png",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/clients/01M4V1H9J51YC38STQXNFM6Z7X.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/branding/logo_footer.png",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/bioma-cidex-d1-scrub-5-pcmx-cg.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/dermo-cidex.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/germacid-e4-blend-quadrizymes.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/germa-surf-ndd.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/bioma-luxury-soap-melt-pour.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/bioma-luxury-hair-care-free-sulfate.jpg",
+      "original_sha256_matches": true
+    },
+    {
+      "file": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+      "original_sha256_matches": true
+    }
+  ],
+  "zip_matches_current_exports": true
 }

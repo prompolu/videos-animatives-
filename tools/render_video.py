@@ -4,7 +4,8 @@
 Render: python3 tools/render_video.py
 Review frames first: python3 tools/render_video.py --stills
 Requires Python, Pillow, NumPy, FFmpeg, and the system Open Sans/Nimbus fonts.
-All product drawings and the wordmark are provisional illustrations.
+Uses the original logo, product photos, and reference logos from the official site.
+All source assets are retained unchanged under assets/site for offline rendering.
 """
 from __future__ import annotations
 
@@ -14,6 +15,7 @@ import json
 import math
 from pathlib import Path
 import subprocess
+from zipfile import ZipFile, ZIP_DEFLATED
 
 import numpy as np
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -22,8 +24,8 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "output"
 W, H, FPS, DURATION = 1920, 1080, 30, 60
 NAVY = "#102F3B"
-TEAL = "#138E8C"
-MINT = "#BCEDE1"
+TEAL = "#26547F"
+MINT = "#D9E8F8"
 IVORY = "#F5F7F3"
 GRAY = "#61787D"
 WHITE = "#FFFFFF"
@@ -35,10 +37,10 @@ FONT_PATHS = {
 }
 SCENES = [
     {"start": 0, "end": 7, "name": "L’hygiène inspire la confiance", "theme": "dark"},
-    {"start": 7, "end": 15, "name": "Des produits pour les professionnels", "theme": "light"},
+    {"start": 7, "end": 15, "name": "Plus de 320 produits au catalogue", "theme": "light"},
     {"start": 15, "end": 24, "name": "Hygiène médicale", "theme": "medical"},
-    {"start": 24, "end": 33, "name": "Hygiène cosmétique", "theme": "cosmetic"},
-    {"start": 33, "end": 43, "name": "La confiance des entreprises", "theme": "dark"},
+    {"start": 24, "end": 33, "name": "Bases cosmétiques", "theme": "cosmetic"},
+    {"start": 33, "end": 43, "name": "Ils nous font confiance", "theme": "dark"},
     {"start": 43, "end": 51, "name": "Rencontrons-nous au salon", "theme": "light"},
     {"start": 51, "end": 60, "name": "Saraproc Maroc · Contact", "theme": "dark"},
 ]
@@ -116,7 +118,7 @@ def pill(im, text, xy, age=4, dark=False, delay=.4, width=None):
     card = Image.new("RGBA", (width, 60))
     d = ImageDraw.Draw(card)
     d.rounded_rectangle((0, 0, width-1, 59), 30,
-                        fill=(35, 78, 88, 255) if dark else (226, 241, 235, 255))
+                        fill=(38, 69, 105, 255) if dark else (226, 235, 246, 255))
     paste(card, sprite, ((width-sprite.width)/2, (60-sprite.height)/2-1))
     paste(im, card, (xy[0], xy[1]+15*(1-p)), p)
 
@@ -125,27 +127,26 @@ def pill(im, text, xy, age=4, dark=False, delay=.4, width=None):
 def background(theme):
     y, x = np.mgrid[0:H, 0:W]
     if theme == "dark":
-        a, b = np.array(rgb("#0C2633")), np.array(rgb("#1C5059"))
+        a, b = np.array(rgb("#10263F")), np.array(rgb("#26547F"))
         glow = np.exp(-(((x-1530)/900)**2 + ((y-400)/800)**2))*.75
     elif theme == "medical":
-        a, b = np.array(rgb("#F1F7F3")), np.array(rgb("#D2EEE7"))
+        a, b = np.array(rgb("#F3F6FA")), np.array(rgb("#D9E8F8"))
         glow = np.exp(-(((x-1400)/700)**2 + ((y-500)/650)**2))*.9
     elif theme == "cosmetic":
         a, b = np.array(rgb("#F8F6F1")), np.array(rgb("#E4E2F2"))
         glow = np.exp(-(((x-1450)/850)**2 + ((y-500)/700)**2))*.88
     else:
-        a, b = np.array(rgb(IVORY)), np.array(rgb("#DDEFE6"))
+        a, b = np.array(rgb(IVORY)), np.array(rgb("#E0EAF7"))
         glow = np.exp(-(((x-1450)/850)**2 + ((y-470)/750)**2))*.65
     result = a[None, None, :]*(1-glow[..., None]) + b[None, None, :]*glow[..., None]
     return Image.fromarray(np.uint8(result), "RGB")
 
 
 def header(im, dark, age, scene):
-    color = WHITE if dark else NAVY
-    txt(im, "SARAPROC", (110, 65), 34, color, "bold", tracking=1)
-    txt(im, "M A R O C", (113, 106), 16, MINT if dark else TEAL)
+    logo = fitted_asset("assets/site/branding/" + ("logo_footer.png" if dark else "saraproc-logo.png"), 235, 113)
+    paste(im, logo, (112, 34))
     txt(im, "HYGIÈNE MÉDICALE  /  COSMÉTIQUE", (1285, 84), 20,
-        "#A6C8CA" if dark else GRAY, tracking=1)
+        "#AFC6E0" if dark else GRAY, tracking=1)
     d = ImageDraw.Draw(im)
     d.line((112, 985, 1808, 985), fill="#36555F" if dark else "#D5E1DB", width=1)
     txt(im, "SARAPROC MAROC  ·  HYGIÈNE PROFESSIONNELLE", (110, 1010), 17,
@@ -169,7 +170,7 @@ def sparkle(im, x, y, radius, color, alpha=1):
 def orbits(im, center, age, dark=False, scale=1):
     x, y = center
     d = ImageDraw.Draw(im)
-    ring = "#3E6A70" if dark else "#C0DDD2"
+    ring = "#466990" if dark else "#C0D2E7"
     for r in [240, 310, 375]:
         r *= scale
         d.ellipse((int(x-r), int(y-r), int(x+r), int(y+r)), outline=ring, width=1)
@@ -180,135 +181,107 @@ def orbits(im, center, age, dark=False, scale=1):
         d.ellipse((px-5, py-5, px+5, py+5), fill=MINT if dark else TEAL)
 
 
-@functools.lru_cache(maxsize=10)
-def product(kind):
-    # Draw at twice the delivery size for smooth illustrated contours.
-    s = 2
-    im = Image.new("RGBA", (460*s, 760*s))
-    d = ImageDraw.Draw(im)
-    def rr(box, radius, fill, outline=None, width=1):
-        d.rounded_rectangle(tuple(int(v*s) for v in box), int(radius*s), fill,
-                            outline, int(width*s))
-    def el(box, fill, outline=None, width=1):
-        d.ellipse(tuple(int(v*s) for v in box), fill, outline, int(width*s))
-    def ln(points, fill, width):
-        d.line([(int(x*s), int(y*s)) for x, y in points], fill, int(width*s))
-    def pt(text, x, y, size, color, weight="regular"):
-        f = font(int(size*s), weight)
-        d.text((x*s, y*s), text, font=f, fill=color, anchor="mt")
-    shadow = Image.new("RGBA", im.size)
+PHOTO_PRODUCTS = {
+    "gel": ("biomaseptol-gel-hydoalcoolique.jpg", "BIOMASEPTOL", "Hygiène des mains"),
+    "scrub": ("bioma-cidex-d1-scrub-5-pcmx-cg.jpg", "BIOMA CIDEX D1 SCRUB", "Hygiène des mains"),
+    "dermo": ("dermo-cidex.jpg", "DERMO-CIDEX", "Crème protectrice des mains"),
+    "instrument": ("germacid-e4-blend-quadrizymes.jpg", "GERMACID E4", "Entretien des instruments"),
+    "surface": ("germa-surf-ndd.jpg", "GERMA-SURF NDD", "Sols, surfaces et matériel"),
+    "soap": ("bioma-luxury-soap-melt-pour.jpg", "BIOMA luxury SOAP", "Base pour savon"),
+    "hair": ("bioma-luxury-hair-care-free-sulfate.jpg", "BIOMA luxury HAIR CARE", "Base pour shampooing"),
+    "cream": ("bioma-luxury-ec-90-full-care-make-cream.jpg", "BIOMA luxury EC 90", "Base pour crème"),
+}
+CLIENTS = json.loads((ROOT / "assets/site/brand-client-sources.json").read_text())["clients"]
+
+
+@functools.lru_cache(maxsize=80)
+def fitted_asset(path, width, height, viewport=None):
+    # Originals stay unchanged. Camera viewports omit empty backdrop in the film.
+    with Image.open(ROOT / path) as original:
+        result = original.convert("RGBA")
+    if viewport is not None:
+        l, t, r, b = viewport
+        result = result.crop((round(l*result.width), round(t*result.height),
+                              round(r*result.width), round(b*result.height)))
+    factor = min(width/result.width, height/result.height)
+    return result.resize((max(1, round(result.width*factor)), max(1, round(result.height*factor))),
+                         Image.Resampling.LANCZOS)
+
+
+@functools.lru_cache(maxsize=80)
+def photo_card(path, width, height, title, subtitle="", logo=False):
+    card = Image.new("RGBA", (width+24, height+32))
+    shadow = Image.new("RGBA", card.size)
     sd = ImageDraw.Draw(shadow)
-    sd.ellipse((54*s, 692*s, 421*s, 735*s), fill=(13, 48, 56, 40))
-    shadow = shadow.filter(ImageFilter.GaussianBlur(17*s))
-    im.alpha_composite(shadow)
-    d = ImageDraw.Draw(im)
-    if kind == "medical":
-        rr((85, 218, 376, 697), 66, "#FDFEFE", "#D2E0DC", 2)
-        rr((99, 238, 132, 650), 14, "#EEF5F1")
-        rr((159, 166, 302, 240), 16, "#E3EDE9", "#CEDBD8", 2)
-        rr((200, 113, 255, 173), 7, "#E8F1EE", "#C9DAD4", 2)
-        rr((176, 87, 359, 121), 11, "#EDF6F1", "#C9DAD4", 2)
-        rr((325, 104, 364, 137), 5, "#E1EEEA")
-        rr((113, 358, 348, 535), 17, "#D7EEE7")
-        rr((113, 358, 348, 406), 14, TEAL)
-        d.rectangle((113*s, 385*s, 348*s, 407*s), fill=TEAL)
-        pt("HYGIÈNE", 230, 374, 18, WHITE, "bold")
-        # A neutral sparkle, without certification or pharmaceutical symbols.
-        for a in [0, math.pi/2]:
-            xx, yy = math.cos(a)*16, math.sin(a)*16
-            ln([(230-xx, 450-yy), (230+xx, 450+yy)], TEAL, 3)
-        pt("MÉDICALE", 230, 486, 19, NAVY, "bold")
-        ln([(181, 594), (280, 594)], "#CCDDD6", 3)
-        ln([(204, 607), (257, 607)], "#E3EDE8", 2)
-    elif kind == "cosmetic":
-        rr((114, 269, 356, 698), 42, "#FEFCF9", "#DBD8DE", 2)
-        rr((135, 290, 152, 655), 9, "#F3EEE8")
-        rr((168, 202, 300, 290), 15, "#C9C9DA", "#B2B5C9", 2)
-        rr((205, 154, 262, 217), 9, "#E6E4ED", "#C2C1D0", 2)
-        rr((187, 127, 338, 165), 9, "#F3F1F6", "#C6C5D2", 2)
-        rr((310, 149, 339, 184), 5, "#DCD9E6")
-        rr((139, 386, 333, 555), 15, "#E9E5F0")
-        el((218, 415, 255, 452), "#B0A6C5")
-        pt("HYGIÈNE", 236, 474, 18, NAVY, "bold")
-        pt("COSMÉTIQUE", 236, 508, 14, "#696782")
-    elif kind == "jar":
-        rr((44, 446, 417, 690), 59, "#FFFEFC", "#DAD7E2", 2)
-        rr((38, 407, 423, 488), 28, "#B8B6CC", "#A8A7BE", 2)
-        rr((50, 413, 411, 444), 15, "#D3D0E0")
-        rr((75, 513, 106, 650), 14, "#F5F2F3")
-        el((211, 535, 251, 575), "#D8D2E6")
-        pt("HYGIÈNE", 231, 592, 19, NAVY, "bold")
-        pt("COSMÉTIQUE", 231, 626, 14, "#77718B")
-    return im.resize((460, 760), Image.Resampling.LANCZOS)
+    sd.rounded_rectangle((12, 20, width+10, height+20), 24, fill=(12, 35, 60, 35))
+    card.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(8)))
+    d = ImageDraw.Draw(card)
+    d.rounded_rectangle((6, 3, width+5, height+2), 23, fill=WHITE,
+                        outline="#DBE4EF", width=1)
+    photo_height = height-(59 if logo else 109)
+    viewport = None
+    if "/products/" in path:
+        if "dermo-cidex.jpg" in path:
+            viewport = (.41, .16, .65, .81)
+        elif "bioma-luxury-" in path:
+            viewport = (.26, .17, .73, .90)
+        else:
+            viewport = (.20, .16, .82, .83)
+    elif logo and "01M4V1BMEJXFYRGBATBKS2M741" in path:
+        viewport = (.07, .28, .95, .56)
+    pic = fitted_asset(path, width-36, photo_height-24, viewport)
+    paste(card, pic, (6+(width-pic.width)/2, 14+(photo_height-pic.height)/2))
+    title_size = 21 if logo else (27 if width>400 else 21)
+    while text_sprite(title, title_size, NAVY, "bold").width > width-30:
+        title_size -= 1
+    txt(card, title, (width/2+6, height-(38 if logo else 81)),
+        title_size, NAVY, "bold", center=True)
+    if subtitle:
+        subtitle_size = 23 if width>400 else 18
+        while text_sprite(subtitle, subtitle_size, GRAY).width > width-30:
+            subtitle_size -= 1
+        txt(card, subtitle, (width/2+6, height-41), subtitle_size, GRAY, center=True)
+    return card
 
 
-@functools.lru_cache(maxsize=100)
-def scaled_product(kind, scale):
-    im = product(kind)
-    return im.resize((int(im.width*scale), int(im.height*scale)), Image.Resampling.LANCZOS)
+def product_card(key, width, height):
+    filename, name, subtitle = PHOTO_PRODUCTS[key]
+    return photo_card("assets/site/products/"+filename, width, height, name, subtitle)
 
 
-def prod(im, kind, xy, scale, age, delay=.35, float_phase=0):
-    p = ease((age-delay)/1.1)
-    sprite = scaled_product(kind, scale)
-    drift = math.sin(age*.85+float_phase)*7
-    paste(im, sprite, (xy[0], xy[1]+45*(1-p)+drift), p)
+def float_card(im, card, xy, age, delay=.3, phase=0):
+    p = ease((age-delay)/.85)
+    paste(im, card, (xy[0], xy[1]+30*(1-p)+4*math.sin(age*.8+phase)), p)
 
 
-def hero(im, age, dark=False, focus=None):
-    orbits(im, (1435, 510), age, dark, .94)
-    if focus == "medical":
-        prod(im, "medical", (1080, 156), 1.04, age, .3)
-        prod(im, "medical", (1445, 350), .65, age, .6, 1)
-        sparkle(im, 1655, 330, 25, TEAL, ease((age-.8)/.7))
-    elif focus == "cosmetic":
-        prod(im, "cosmetic", (1120, 150), 1.01, age, .3)
-        prod(im, "jar", (1420, 300), .86, age, .6, 1)
-        sparkle(im, 1660, 340, 23, "#B2A9CC", ease((age-.8)/.7))
-    else:
-        prod(im, "cosmetic", (1330, 205), .87, age, .6, 1.5)
-        prod(im, "medical", (1080, 170), .98, age, .3)
-        prod(im, "jar", (1445, 403), .65, age, .9, 3)
-        sparkle(im, 1695, 300, 23, MINT if dark else TEAL,
-                 ease((age-1.1)/.7))
+def photo_hero(im, age, dark=False):
+    orbits(im, (1435, 530), age, dark, .95)
+    float_card(im, product_card("gel", 386, 530), (1035, 285), age, .25)
+    float_card(im, product_card("soap", 314, 306), (1455, 230), age, .5, 1)
+    float_card(im, product_card("hair", 314, 306), (1455, 570), age, .75, 2)
+    sparkle(im, 1762, 196, 20, MINT if dark else TEAL, ease((age-.9)/.7))
 
 
-def building(im, x, y, radius, dark=True, variant=0, alpha=1):
-    s = radius*2+6
-    icon = Image.new("RGBA", (s, s))
-    d = ImageDraw.Draw(icon)
-    c = radius+3
-    d.ellipse((3, 3, s-4, s-4), fill="#1D4853" if dark else "#E8F3ED",
-              outline="#4C7B7D" if dark else "#A3C9BA", width=2)
-    fg = MINT if dark else TEAL
-    bw = int(radius*.75)
-    top, bottom = int(c-radius*.55), int(c+radius*.55)
-    d.rounded_rectangle((c-bw//2, top, c+bw//2, bottom), 3, outline=fg, width=3)
-    for row in range(3):
-        for col in range(2):
-            xx = c-bw*.28+col*bw*.40
-            yy = top+radius*.22+row*radius*.27
-            d.rectangle((xx, yy, xx+radius*.13, yy+radius*.10), fill=fg)
-    d.line((c, bottom, c, bottom-radius*.22), fill=fg, width=3)
-    paste(im, icon, (x-c, y-c), alpha)
+def product_gallery(im, age, cosmetic=False):
+    keys = ["soap", "hair", "cream"] if cosmetic else ["gel", "surface", "instrument"]
+    for j, key in enumerate(keys):
+        card = product_card(key, 520, 470)
+        if not cosmetic and j>0 and age>4.6:
+            # Show the other two medical references without inventing product types.
+            alternative = product_card("scrub" if j==1 else "dermo", 520, 470)
+            card = Image.blend(card, alternative, ease((age-4.6)/.6))
+        float_card(im, card, (136+j*564, 416), age, .45+j*.18, j)
 
 
-def network(im, age):
-    cx, cy = 1450, 520
-    orbits(im, (cx, cy), age, True, .92)
-    d = ImageDraw.Draw(im)
-    for j, (dx, dy, r) in enumerate([(-230, -175, 61), (190, -220, 72),
-                                    (260, 90, 61), (10, 290, 67), (-255, 130, 72)]):
-        p = ease((age-.6-j*.17)/1.1)
-        d.line((cx, cy, cx+dx*p, cy+dy*p), fill="#54878A", width=2)
-        building(im, cx+dx, cy+dy, r, alpha=p)
-    p = ease((age-.2)/1)
-    badge = Image.new("RGBA", (270, 270))
-    bd = ImageDraw.Draw(badge)
-    bd.ellipse((3, 3, 267, 267), fill="#E0F6EA", outline="#A9E3D1", width=4)
-    txt(badge, "S", (135, 52), 140, TEAL, "bold", center=True)
-    paste(im, badge, (cx-135, cy-135), p)
-    sparkle(im, 1668, 694, 16, MINT, p)
+def client_wall(im, age):
+    for i, client in enumerate(CLIENTS):
+        if i<4:
+            x, y = 207+i*385, 414
+        else:
+            x, y = 400+(i-4)*385, 654
+        # Company references are exactly those displayed on the official site.
+        card = photo_card(client["local_path"], 350, 200, client["name"], logo=True)
+        float_card(im, card, (x, y), age, .6+i*.12, i)
 
 
 def render_scene(index, age):
@@ -323,48 +296,48 @@ def render_scene(index, age):
         lines(im, "L’hygiène inspire\nla confiance.", (105, 344), 98, fg, age, .3, 112)
         lines(im, "Des produits pour les professionnels\ndu médical et de la cosmétique.",
               (110, 620), 35, muted, age, .9, 52, "regular")
-        hero(im, age, True)
+        photo_hero(im, age, True)
     elif index == 1:
-        pill(im, "SARAPROC MAROC", (110, 225), age, False, .1)
-        lines(im, "Des produits d’hygiène\npour les\nprofessionnels.", (105, 339), 83, fg, age, .3, 95)
-        lines(im, "Deux univers.\nUne même attention à l’hygiène.",
-              (110, 681), 34, muted, age, 1, 51, "regular")
-        hero(im, age)
+        pill(im, "LA RICHESSE DU CATALOGUE", (110, 225), age, False, .1)
+        lines(im, "Plus de", (108, 340), 77, fg, age, .25)
+        lines(im, "320", (100, 436), 206, TEAL, age, .45, 210)
+        lines(im, "produits", (110, 648), 79, fg, age, .65)
+        lines(im, "au catalogue Saraproc.", (110, 757), 35, muted, age, .9,
+              weight="regular")
+        lines(im, "Focus : hygiène médicale et cosmétique.", (110, 844), 27,
+              TEAL, age, 1.1, weight="regular")
+        photo_hero(im, age)
     elif index == 2:
-        pill(im, "UNIVERS MÉDICAL", (110, 225), age, False, .1)
-        lines(im, "L’hygiène\nmédicale.", (104, 355), 114, fg, age, .3, 124)
-        lines(im, "Des produits pour les besoins\ndes professionnels du secteur médical.",
-              (110, 665), 33, muted, age, .9, 51, "regular")
-        hero(im, age, focus="medical")
+        lines(im, "L’hygiène médicale.", (960, 228), 88, fg, age, .2, center=True)
+        lines(im, "Des produits pour les mains, les surfaces et les instruments.",
+              (960, 342), 32, muted, age, .6, weight="regular", center=True)
+        product_gallery(im, age)
     elif index == 3:
-        pill(im, "UNIVERS COSMÉTIQUE", (110, 225), age, False, .1)
-        lines(im, "L’hygiène\ncosmétique.", (104, 355), 110, fg, age, .3, 124)
-        lines(im, "Des produits pour les besoins\ndes professionnels de la cosmétique.",
-              (110, 665), 33, muted, age, .9, 51, "regular")
-        hero(im, age, focus="cosmetic")
+        lines(im, "L’univers cosmétique.", (960, 228), 88, fg, age, .2, center=True)
+        lines(im, "Des bases pour savon, shampooing et crème.",
+              (960, 342), 34, muted, age, .6, weight="regular", center=True)
+        product_gallery(im, age, cosmetic=True)
     elif index == 4:
-        pill(im, "UNE RELATION DE CONFIANCE", (110, 225), age, True, .1)
-        lines(im, "La confiance\ndes grandes entreprises\nau Maroc.",
-              (105, 340), 83, fg, age, .3, 102)
-        lines(im, "Saraproc Maroc,\naux côtés des professionnels.",
-              (110, 699), 33, muted, age, 1, 50, "regular")
-        network(im, age)
+        lines(im, "Ils nous font confiance.", (960, 228), 88, fg, age, .2, center=True)
+        lines(im, "Saraproc Maroc, aux côtés des professionnels.",
+              (960, 342), 32, muted, age, .6, weight="regular", center=True)
+        client_wall(im, age)
     elif index == 5:
         pill(im, "À VOTRE RENCONTRE", (110, 225), age, False, .1)
         lines(im, "Parlons de\nvos besoins.", (105, 342), 101, fg, age, .3, 113)
         lines(im, "Retrouvons-nous au Salon\ninternational de l’hygiène.",
               (110, 620), 39, TEAL, age, .9, 58, "regular")
-        hero(im, age)
+        photo_hero(im, age)
     else:
         # Closing card is held long enough to read and type the website.
         p = ease((age-.15)/1)
         d = ImageDraw.Draw(im)
-        for r in [160, 250, 350]:
-            d.ellipse((960-r, 450-r*.6, 960+r, 450+r*.6), outline="#2B515A", width=1)
-        txt(im, "SARAPROC MAROC", (960, 300+20*(1-p)), 102, WHITE,
-            "bold", p, tracking=2, center=True)
+        for r in [260, 350, 440]:
+            d.ellipse((960-r, 425-r*.6, 960+r, 425+r*.6), outline="#365A83", width=1)
+        logo = fitted_asset("assets/site/branding/logo_footer.png", 564, 260)
+        paste(im, logo, (960-logo.width/2, 210+20*(1-p)), p)
         lines(im, "L’hygiène médicale et cosmétique\nau service des professionnels.",
-              (960, 476), 44, "#C4E4DD", age, .6, 66, "regular", True)
+              (960, 531), 41, "#D2E1F4", age, .6, 62, "regular", True)
         cp = ease((age-1.1)/.8)
         card = Image.new("RGBA", (724, 106))
         cd = ImageDraw.Draw(card)
@@ -372,9 +345,9 @@ def render_scene(index, age):
         txt(card, "saraprocmaroc.com", (344, 32), 39, NAVY, "bold", center=True)
         cd.line((630, 52, 671, 52), fill=NAVY, width=3)
         cd.line((659, 39, 672, 52, 659, 65), fill=NAVY, width=3)
-        paste(im, card, (598, 700+20*(1-cp)), cp)
-        txt(im, "ÉCHANGEONS SUR VOS BESOINS", (960, 852), 21,
-            "#A9CAC9", tracking=3, opacity=cp, center=True)
+        paste(im, card, (598, 730+20*(1-cp)), cp)
+        txt(im, "ÉCHANGEONS SUR VOS BESOINS", (960, 887), 21,
+            "#B1C9E5", tracking=3, opacity=cp, center=True)
     return im
 
 
@@ -413,7 +386,7 @@ def make_stills():
     x, y = 800, 1512
     d.text((x+30, y+35), "SARAPROC MAROC", font=font(39, "bold"), fill=NAVY)
     for k, line in enumerate(["60 secondes · Full HD · 16:9", "Hygiène médicale et cosmétique",
-                              "Identité et illustrations provisoires", "Références clients à confirmer"]):
+                              "Logo et photos issus du site officiel", "7 références clients du site officiel"]):
         d.text((x+30, y+115+k*47), line, font=font(25), fill=GRAY)
     sheet.save(OUT / "storyboard-saraproc.jpg", quality=93)
     frame(5).save(OUT / "affiche-saraproc.jpg", quality=94)
@@ -426,7 +399,7 @@ def render():
            "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "pipe:0",
            "-an", "-c:v", "libx264", "-preset", "fast", "-crf", "19", "-threads", "3",
            "-pix_fmt", "yuv420p", "-movflags", "+faststart", "-metadata",
-           "title=Saraproc Maroc — Hygiène médicale et cosmétique — Maquette", str(video)]
+           "title=Saraproc Maroc — Plus de 320 produits — Hygiène médicale et cosmétique", str(video)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
     try:
         for i in range(FPS*DURATION):
@@ -441,17 +414,24 @@ def render():
     if proc.wait():
         raise RuntimeError("FFmpeg video render failed")
     music = ROOT / "assets/saraproc-original-60s.wav"
+    exports = [video]
     if music.exists():
         subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "warning", "-y",
                         "-i", str(video), "-i", str(music), "-map", "0:v:0", "-map", "1:a:0",
                         "-c:v", "copy", "-c:a", "aac", "-b:a", "192k", "-t", "60",
                         "-movflags", "+faststart", str(OUT/"saraproc-maroc-60s-musique.mp4")], check=True)
+        exports.append(OUT/"saraproc-maroc-60s-musique.mp4")
     (OUT / "timeline.json").write_text(json.dumps({"width": W, "height": H, "fps": FPS,
-        "duration": DURATION, "scenes": SCENES, "brand_status": "provisional",
-        "product_images": "original generic illustrations, not a verified catalogue",
-        "client_claim": "provided by user; verify before external release",
+        "duration": DURATION, "scenes": SCENES, "brand_status": "official website logo",
+        "product_images": "8 original medical hygiene and cosmetic-base photos from official catalogue",
+        "product_count_claim": "Plus de 320 produits au catalogue Saraproc — user-provided, whole catalogue",
+        "client_claim": "7 reference logos displayed under Ils nous font confiance on official website",
+        "asset_sources": ["assets/site/brand-client-sources.json", "assets/site/products/product-sources.json"],
         "voiceover": "not recorded", "music": "original synthesized instrumental"},
         ensure_ascii=False, indent=2)+"\n")
+    with ZipFile(OUT/"Saraproc-Maroc-videos.zip", "w", ZIP_DEFLATED) as archive:
+        for exported in exports:
+            archive.write(exported, arcname=exported.name)
     print("Export complete:", video, flush=True)
 
 

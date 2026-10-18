@@ -1,0 +1,167 @@
+{
+  "source_site": "https://www.saraprocmaroc.com/",
+  "downloaded_at": "2026-10-18",
+  "selection_scope": "Medical hygiene plus cosmetic soap/shampoo/cream bases; no agricultural chemicals.",
+  "products": [
+    {
+      "product_name": "BIOMASEPTOL GEL HYDOALCOOLIQUE",
+      "short_label": "Gel hydroalcoolique",
+      "category": "Hygiène en milieu médical > Hygiène des mains",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydoalcoolique",
+      "original_asset_url": "https://saraprocmaroc.com/storage/1039/8-01.jpg",
+      "local_path": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577",
+      "bytes": 1111567,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Professional medical hygiene product as classified by manufacturer.",
+      "product_page_evidence": "Gel hydro alcoolique pour le traitement hygiénique et la désinfection chirurgicale des mains et avant bras par friction sans eau.",
+      "dimensions_px": [
+        3087,
+        2908
+      ]
+    },
+    {
+      "product_name": "BIOMA CIDEX D1 SCRUB 5% PCMX- CG",
+      "short_label": "Lavage hygiénique des mains",
+      "category": "Hygiène en milieu médical > Hygiène des mains",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/bioma-cidex-d1-scrub-5-pcmx-cg",
+      "original_asset_url": "https://saraprocmaroc.com/storage/1036/12-01.jpg",
+      "local_path": "assets/site/products/bioma-cidex-d1-scrub-5-pcmx-cg.jpg",
+      "sha256": "f9d41d14a1b5506cb6c4dd36c43ede7fd8c9796e469d286997805ba84cd8d624",
+      "bytes": 902875,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Professional medical hygiene product as classified by manufacturer.",
+      "product_page_evidence": "Savon antiseptique pour lavage hygiénique et la désinfection chirurgicale des mains et avant bras en milieux médical. Usage réservé aux professionnels.",
+      "dimensions_px": [
+        3087,
+        2908
+      ]
+    },
+    {
+      "product_name": "DERMO-CIDEX",
+      "short_label": "Crème protectrice des mains",
+      "category": "Hygiène en milieu médical > Hygiène des mains",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/dermo-cidex",
+      "original_asset_url": "https://saraprocmaroc.com/storage/1034/5-01.jpg",
+      "local_path": "assets/site/products/dermo-cidex.jpg",
+      "sha256": "7afc92fc30483a557d1335e28ab22aa4aa94ccf08d65133aa679c3c65e11382d",
+      "bytes": 653257,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Professional medical hygiene product as classified by manufacturer.",
+      "product_page_evidence": "Crème protectrice, réparatrice et apaisante pour les soins des mains en cabinet médical ou en milieu hospitalier après lavages et désinfection fréquents.",
+      "dimensions_px": [
+        3087,
+        2908
+      ]
+    },
+    {
+      "product_name": "GERMACID E4 BLEND QUADRIZYMES",
+      "short_label": "Traitement des instruments",
+      "category": "Hygiène en milieu médical > Traitement des instruments médico-chirurgicaux",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes",
+      "original_asset_url": "https://saraprocmaroc.com/storage/1128/26-01.jpg",
+      "local_path": "assets/site/products/germacid-e4-blend-quadrizymes.jpg",
+      "sha256": "91c240ddf11fe989984ec236c35cf875c5383c3885b11148e8a3da05935e523d",
+      "bytes": 614745,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Professional medical hygiene product as classified by manufacturer.",
+      "product_page_evidence": "Détergent quadri-enzymatique conçu pour le nettoyage consolidé et la pré-désinfection du matériel chirurgical, médical et du matériel d’endoscopie.",
+      "dimensions_px": [
+        3087,
+        2908
+      ]
+    },
+    {
+      "product_name": "GERMA-SURF NDD",
+      "short_label": "Sols, surfaces et matériel médical",
+      "category": "Hygiène en milieu médical > Hygiène des sols, surfaces et matériel médical",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/germa-surf-ndd",
+      "original_asset_url": "https://saraprocmaroc.com/storage/1142/24--01.jpg",
+      "local_path": "assets/site/products/germa-surf-ndd.jpg",
+      "sha256": "fadd7c53ae2ce0864cdb866fd7e32c381a6613d8f141f6abd0595f1bd5c3d4be",
+      "bytes": 1500437,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Professional medical hygiene product as classified by manufacturer.",
+      "product_page_evidence": "Triple action : détergent, désinfection et désodorisation destiné aux nettoyages fréquents de tous types de sols et de surfaces lavables en milieu hospitalier.",
+      "dimensions_px": [
+        3087,
+        2908
+      ]
+    },
+    {
+      "product_name": "BIOMA luxury soap (MELT & POUR)",
+      "short_label": "Base de savon glycériné",
+      "category": "Matière première cosmétique > Les bases cosmétiques neutres et naturelles",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/bioma-luxury-soap-melt-pour",
+      "original_asset_url": "https://saraprocmaroc.com/storage/744/BASE-SAVON-GLYCERINE.jpg",
+      "local_path": "assets/site/products/bioma-luxury-soap-melt-pour.jpg",
+      "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a",
+      "bytes": 447914,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Cosmetic formulation base; do not imply retail finished product.",
+      "product_page_evidence": "Base savon transparente idéale pour réaliser très rapidement et très facilement vos savons personnalisés.",
+      "dimensions_px": [
+        4920,
+        3163
+      ]
+    },
+    {
+      "product_name": "BIOMA luxury HAIR CARE Free sulfate",
+      "short_label": "Base de shampooing sans sulfate",
+      "category": "Matière première cosmétique > Les bases cosmétiques neutres et naturelles",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/bioma-luxury-hair-care-free-sulfate",
+      "original_asset_url": "https://saraprocmaroc.com/storage/746/BASE-CHAMPOING.jpg",
+      "local_path": "assets/site/products/bioma-luxury-hair-care-free-sulfate.jpg",
+      "sha256": "26dede546b15d2df1f10349c0bf7ea84b0f1b522c86e9abe85703b7b64bf8586",
+      "bytes": 426034,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Cosmetic formulation base; do not imply retail finished product.",
+      "product_page_evidence": "Base de shampoing neutre concentrée sans sulfate, sans alcool, doux et efficace.",
+      "dimensions_px": [
+        4920,
+        3163
+      ]
+    },
+    {
+      "product_name": "BIOMA luxury EC 90 (Full care/ make cream)",
+      "short_label": "Base cosmétique pour crème",
+      "category": "Matière première cosmétique > Les bases cosmétiques neutres et naturelles",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles",
+      "category_evidence": "Listed on the cited category page under this product name with the same image URL and product link.",
+      "source_page": "https://www.saraprocmaroc.com/boutique/bioma-luxury-ec-90-full-care-make-cream",
+      "original_asset_url": "https://saraprocmaroc.com/storage/748/BASE-CREM.jpg",
+      "local_path": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+      "sha256": "d0697bcaf1227463f589541127b11f8d7757ad7e3e9c33f741a52e5e7438ab28",
+      "bytes": 449028,
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Cosmetic formulation base; do not imply retail finished product.",
+      "product_page_evidence": "Base crème neutre pour réalisation et personnalisation des crèmes cosmétiques hydratantes nourrissantes pour le visage et le corps.",
+      "dimensions_px": [
+        4920,
+        3163
+      ]
+    }
+  ]
+}
