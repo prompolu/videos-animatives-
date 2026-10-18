@@ -1,0 +1,55 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "duration": 60,
+  "scenes": [
+    {
+      "start": 0,
+      "end": 7,
+      "name": "L’hygiène inspire la confiance",
+      "theme": "dark"
+    },
+    {
+      "start": 7,
+      "end": 15,
+      "name": "Des produits pour les professionnels",
+      "theme": "light"
+    },
+    {
+      "start": 15,
+      "end": 24,
+      "name": "Hygiène médicale",
+      "theme": "medical"
+    },
+    {
+      "start": 24,
+      "end": 33,
+      "name": "Hygiène cosmétique",
+      "theme": "cosmetic"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "name": "La confiance des entreprises",
+      "theme": "dark"
+    },
+    {
+      "start": 43,
+      "end": 51,
+      "name": "Rencontrons-nous au salon",
+      "theme": "light"
+    },
+    {
+      "start": 51,
+      "end": 60,
+      "name": "Saraproc Maroc · Contact",
+      "theme": "dark"
+    }
+  ],
+  "brand_status": "provisional",
+  "product_images": "original generic illustrations, not a verified catalogue",
+  "client_claim": "provided by user; verify before external release",
+  "voiceover": "not recorded",
+  "music": "original synthesized instrumental"
+}

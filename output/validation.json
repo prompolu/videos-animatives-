@@ -1,0 +1,25 @@
+{
+  "full_decode_checks": "both files decoded by FFmpeg without reported errors",
+  "files": [
+    {
+      "file": "saraproc-maroc-60s-musique.mp4",
+      "duration": 60.0,
+      "dimensions": "1920x1080",
+      "frames": 1800,
+      "fps": 30,
+      "video_codec": "h264",
+      "audio_codec": "aac",
+      "bytes": 5010399
+    },
+    {
+      "file": "saraproc-maroc-60s-sans-son.mp4",
+      "duration": 60.0,
+      "dimensions": "1920x1080",
+      "frames": 1800,
+      "fps": 30,
+      "video_codec": "h264",
+      "audio_codec": null,
+      "bytes": 3510087
+    }
+  ]
+}
