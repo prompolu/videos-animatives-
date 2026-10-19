@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "duration": 15,
+  "frames": 450,
+  "audio": "AAC stereo 48 kHz",
+  "video_bitstream_unchanged": true,
+  "full_decode": "passed",
+  "loudness_lufs": -18.48,
+  "true_peak_dbtp": -4.83,
+  "sha256": "f8c63a27e96ec18b4e012183abe53d8fc1df7090129469f96cb033c0e4719fa6"
+}
