@@ -55,3 +55,9 @@ Reproduction : `python premium_sound.py`, après le rendu vidéo. Dépendance su
 `output/Prompolu_Infinity_15s_sans_piano.mp4` : ambiance d’air chaude et discrète, six mouvements sonores doux adaptés aux transitions, petites réflexions diffuses et fondus d’entrée/sortie. Aucun piano, clavier, instrument tonal, mélodie, rythme de batterie ni voix. Sons originaux synthétisés localement, sans échantillon tiers dans cette variante.
 
 Reproduction : `python no_piano_sound.py`. Nécessite seulement les dépendances Python du projet et FFmpeg. Niveau visé à −23 LUFS et plafond −3 dBTP pour une présence discrète. Le script vérifie le décodage audio/vidéo, les 450 images, les 15 secondes, les canaux stéréo et la conservation exacte du flux vidéo ; rapport dans output/no-piano-audio-validation.json. Aucune écoute humaine n’est revendiquée.
+
+## Variante avec les effets fournis
+
+`output/Prompolu_Infinity_15s_effets_fournis.mp4` utilise uniquement les deux MP3 fournis par l’utilisateur : `dragon-studio-simple-whoosh-382724.mp3` sur les six transitions, et `alexis_gaming_cam-cinematic-bass-boom-free-370400.mp3` sur la signature finale à 12,9 s. Aucun piano, musique, voix ni autre effet ajouté. Le pic d’énergie de chaque whoosh est aligné sur le centre du raccord ; les niveaux et le panoramique sont légèrement adaptés. Le boom de 7,6 s est raccourci pour tenir dans le plan final, avec un fondu doux de 0,7 s à la fin du film.
+
+Sources originales conservées dans assets/audio/supplied ; noms d’auteurs repris des noms de fichiers, provenance : fichiers téléversés par l’utilisateur. Les positions et empreintes des sources sont dans assets/audio/supplied-effects-cues.json. Reproduction : `python supplied_effects.py`. Mixage stéréo 48 kHz, normalisation mesurée en deux passes, vidéo copiée sans réencodage. Rapport technique : output/supplied-effects-validation.json. Le contrôle audio est technique ; aucune écoute humaine n’est revendiquée.
