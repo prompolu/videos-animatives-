@@ -33,3 +33,7 @@ Le contrôle visuel se fonde sur les images représentatives et les séquences d
 Mise à jour : logo extrait affiché sur les sept plans, version agrandie en fermeture ; site prompolu.com ajouté sur le plan final.
 
 Extraction du logo reproductible : `python extract_logo.py` (nécessite Poppler/pdftoppm). Le PNG transparent déjà livré suffit au rendu ; aucun outil génératif n’intervient dans cette extraction.
+
+Transitions révisées : six raccords distincts de 24 images (0,8 s), accélération quintique à vitesse et accélération nulles aux extrémités. Fond et logo restent ancrés. Types et durée modifiables dans timeline.json ; fonctions dans render.py. Zoom de détail, glissement horizontal, passage vertical, révélation latérale à bord doux, révélation radiale et recul vers le logo. Aucun changement de durée : 450 images.
+
+Les textes ont des pistes indépendantes : sortie douce, intervalle bref, puis entrée de la phrase suivante. Ils ne sont ni découpés par les masques de transition ni superposés en fondu.
