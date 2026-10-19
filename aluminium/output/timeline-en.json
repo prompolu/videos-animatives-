@@ -1,56 +1,112 @@
 {
   "width": 1920,
   "height": 1080,
-  "fps": 30,
+  "fps": 60,
   "duration": 60,
   "language": "en",
+  "bpm": 120,
   "scenes": [
     {
       "start": 0,
-      "end": 7,
-      "name": "Aluminium, made to measure",
-      "theme": "dark"
+      "end": 4,
+      "name": "Hook"
     },
     {
-      "start": 7,
-      "end": 15,
-      "name": "From measuring to installation",
-      "theme": "light"
+      "start": 4,
+      "end": 10,
+      "name": "Premium"
     },
     {
-      "start": 15,
-      "end": 24,
-      "name": "Windows & doors",
-      "theme": "steel"
+      "start": 10,
+      "end": 16,
+      "name": "Supplier to joiners"
     },
     {
-      "start": 24,
-      "end": 33,
-      "name": "Façades, verandas, railings",
-      "theme": "warm"
+      "start": 16,
+      "end": 19,
+      "name": "Sliding"
     },
     {
-      "start": 33,
+      "start": 19,
+      "end": 22,
+      "name": "Casement"
+    },
+    {
+      "start": 22,
+      "end": 25,
+      "name": "Doors"
+    },
+    {
+      "start": 25,
+      "end": 28,
+      "name": "Curtain wall"
+    },
+    {
+      "start": 28,
+      "end": 31,
+      "name": "Aluminium cladding"
+    },
+    {
+      "start": 31,
+      "end": 34,
+      "name": "Stacbond"
+    },
+    {
+      "start": 34,
+      "end": 37,
+      "name": "Kitchens"
+    },
+    {
+      "start": 37,
+      "end": 40,
+      "name": "Wardrobes"
+    },
+    {
+      "start": 40,
       "end": 43,
-      "name": "Why aluminium",
-      "theme": "dark"
+      "name": "Roller shutters"
     },
     {
       "start": 43,
-      "end": 51,
-      "name": "Let’s talk about your project",
-      "theme": "light"
+      "end": 46,
+      "name": "Pergolas"
     },
     {
-      "start": 51,
+      "start": 46,
+      "end": 52,
+      "name": "10 ranges"
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "name": "Call to joiners"
+    },
+    {
+      "start": 56,
       "end": 60,
-      "name": "Contact",
-      "theme": "dark"
+      "name": "Contact"
     }
   ],
+  "transitions": {
+    "4": "zoom",
+    "10": "wipe",
+    "16": "push",
+    "19": "push",
+    "22": "push",
+    "25": "push_up",
+    "28": "push",
+    "31": "push",
+    "34": "push_up",
+    "37": "push",
+    "40": "push",
+    "43": "push",
+    "46": "zoom",
+    "52": "wipe",
+    "56": "zoom"
+  },
   "company": "PROMPOLU ALUMINIUM",
   "website": "prompolu.com",
-  "illustrations": "original procedural 2D drawings (tools/render_video.py)",
+  "illustrations": "original procedural 2D drawings (tools/art.py)",
   "voiceover": "none",
-  "music": "original synthesized instrumental"
+  "music": "original synthesized 120 BPM cue synced to cuts"
 }

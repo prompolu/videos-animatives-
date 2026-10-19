@@ -27,7 +27,7 @@ def main():
             assert len(videos) == 1, path.name
             v = videos[0]
             assert (v["width"], v["height"], v["r_frame_rate"], v["nb_read_frames"]) == (
-                1920, 1080, "30/1", "1800"), v
+                1920, 1080, "60/1", "3600"), v
             assert v["codec_name"] == "h264", v["codec_name"]
             assert abs(float(data["format"]["duration"]) - 60) < 0.05, data["format"]
             assert len(audios) == (1 if version == "musique" else 0), audios
@@ -37,8 +37,8 @@ def main():
             decode = subprocess.run(["ffmpeg", "-xerror", "-v", "error", "-i", str(path), "-f", "null", "-"],
                                     text=True, capture_output=True, check=True)
             assert not decode.stderr.strip(), decode.stderr
-            report["files"].append({"file": path.name, "language": lang, "duration": 60, "frames": 1800,
-                                    "dimensions": "1920x1080", "fps": 30, "full_decode": "passed",
+            report["files"].append({"file": path.name, "language": lang, "duration": 60, "frames": 3600,
+                                    "dimensions": "1920x1080", "fps": 60, "full_decode": "passed",
                                     "audio": "AAC stereo 48kHz" if audios else None,
                                     "bytes": path.stat().st_size, "sha256": digest(path.read_bytes())})
             print("Validated export:", path.name, flush=True)

@@ -4,49 +4,49 @@
       "file": "aluminium-60s-fr-musique.mp4",
       "language": "fr",
       "duration": 60,
-      "frames": 1800,
+      "frames": 3600,
       "dimensions": "1920x1080",
-      "fps": 30,
+      "fps": 60,
       "full_decode": "passed",
       "audio": "AAC stereo 48kHz",
-      "bytes": 5242222,
-      "sha256": "74598cbae3e66d69b3e2740c26b56213c2d179baa6046f9a07e944cc64b7dfc5"
+      "bytes": 15185998,
+      "sha256": "95ae52127b9d85292233c9377478fe27eea579c73ed74a43ec1e6fe35df1d5a2"
     },
     {
       "file": "aluminium-60s-fr-sans-son.mp4",
       "language": "fr",
       "duration": 60,
-      "frames": 1800,
+      "frames": 3600,
       "dimensions": "1920x1080",
-      "fps": 30,
+      "fps": 60,
       "full_decode": "passed",
       "audio": null,
-      "bytes": 3742710,
-      "sha256": "ae7fd6595c23bee34f9e19758c46b075a718c7c318872aa6bdc31d33668d09a6"
+      "bytes": 13125656,
+      "sha256": "05aafdd61830b0e85833f86918a5d34e0636bea88f54e3fe3bace998eb19ca3c"
     },
     {
       "file": "aluminium-60s-en-musique.mp4",
       "language": "en",
       "duration": 60,
-      "frames": 1800,
+      "frames": 3600,
       "dimensions": "1920x1080",
-      "fps": 30,
+      "fps": 60,
       "full_decode": "passed",
       "audio": "AAC stereo 48kHz",
-      "bytes": 5205406,
-      "sha256": "0e6f9a020353b191936f0e8e03e81c39ab5bfda497946918ef028262c4e0d476"
+      "bytes": 14947416,
+      "sha256": "62b9e6d0ecda6b2309f2eeb2b32eac60b554814e4181593f1d1565224f9b6fac"
     },
     {
       "file": "aluminium-60s-en-sans-son.mp4",
       "language": "en",
       "duration": 60,
-      "frames": 1800,
+      "frames": 3600,
       "dimensions": "1920x1080",
-      "fps": 30,
+      "fps": 60,
       "full_decode": "passed",
       "audio": null,
-      "bytes": 3705894,
-      "sha256": "318a2eb65742e98b9738ebc880e9d354414fbd5b69d9c19fa57ab64eb3e329e7"
+      "bytes": 12887074,
+      "sha256": "bdf7c27de97102fae2a8c7378d3b66b85813ff0da0b6e20a84875cf75dac0866"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "_comment": "Edit this file, then re-run tools/render_video.py. Empty phone hides the phone line. Set logo to \"\" to fall back to the drawn window mark and the company name in text.",
+  "_comment": "Edit this file, then re-run tools/render_video.py. Empty phone hides the phone line on the closing card.",
   "company": {
     "fr": "PROMPOLU ALUMINIUM",
     "en": "PROMPOLU ALUMINIUM"
@@ -25,220 +25,180 @@
   },
   "text": {
     "fr": {
-      "category": "FENÊTRES  ·  PORTES  ·  FAÇADES",
-      "footer": "MENUISERIE SUR MESURE",
-      "s1_pill": "MENUISERIE ALUMINIUM",
-      "s1_title": "L’aluminium\nsur mesure.",
-      "s1_sub": "Fenêtres, portes et façades\npour particuliers et professionnels.",
-      "s2_title": "De la mesure à la pose.",
-      "s2_sub": "Un accompagnement complet pour votre projet.",
-      "steps": [
+      "category": "PROFILÉS ALUMINIUM HAUT DE GAMME",
+      "hook": [
+        "Profilés.",
+        "Systèmes.",
+        "Haut de gamme."
+      ],
+      "s2_pill": "FOURNISSEUR POUR MENUISIERS",
+      "s2_title": "L’aluminium\nhaut de gamme.",
+      "s2_sub": "Profilés et systèmes aluminium\npour les menuisiers professionnels.",
+      "s3_title": "Nous fournissons, vous fabriquez.",
+      "chain": [
         [
-          "Prise de mesures",
-          "Sur place, au millimètre."
+          "Prompolu",
+          "Profilés et systèmes haut de gamme"
         ],
         [
-          "Conception",
-          "Plans et conseils adaptés."
+          "Le menuisier",
+          "Fabrique et pose sur mesure"
         ],
         [
-          "Fabrication",
-          "Profilés coupés et assemblés."
-        ],
-        [
-          "Pose",
-          "Installation et finitions soignées."
+          "Le client final",
+          "Un ouvrage durable et élégant"
         ]
       ],
-      "s3_title": "Fenêtres et portes.",
-      "s3_sub": "Coulissantes, battantes ou portes d’entrée : tout sur mesure.",
-      "s3_cards": [
-        [
-          "Fenêtre coulissante",
-          "Grandes ouvertures, glissement fluide"
-        ],
-        [
-          "Fenêtre battante",
-          "Ouverture à la française"
-        ],
-        [
-          "Porte d’entrée",
-          "Design et sécurité"
-        ]
+      "groups": [
+        "MENUISERIE",
+        "FAÇADE",
+        "AGENCEMENT & EXTÉRIEUR"
       ],
-      "s4_title": "Façades, vérandas, garde-corps.",
-      "s4_sub": "Le verre et l’aluminium pour des espaces plus lumineux.",
-      "s4_cards": [
+      "products": [
+        [
+          "Coulissant",
+          "Systèmes pour baies coulissantes"
+        ],
+        [
+          "Battant",
+          "Fenêtres ouvrant à la française"
+        ],
+        [
+          "Portes",
+          "Profilés pour portes"
+        ],
         [
           "Mur rideau",
           "Façades vitrées"
         ],
         [
-          "Véranda",
-          "Plus de lumière, plus d’espace"
+          "Bardage aluminium",
+          "Habillage de façade"
         ],
         [
-          "Garde-corps",
-          "Verre et aluminium"
+          "Stacbond",
+          "Panneaux composites aluminium"
+        ],
+        [
+          "Cuisines",
+          "Profilés pour l’agencement"
+        ],
+        [
+          "Dressings",
+          "Portes et cadres aluminium"
+        ],
+        [
+          "Volets roulants",
+          "Protection et occultation"
+        ],
+        [
+          "Pergolas",
+          "Espaces extérieurs"
         ]
       ],
-      "s5_title": "Pourquoi l’aluminium ?",
-      "s5_sub": "Un matériau durable, moderne et responsable.",
-      "benefits": [
-        [
-          "Durable",
-          "Résiste à la corrosion et aux intempéries."
-        ],
-        [
-          "Léger et solide",
-          "De grandes baies, des profilés fins."
-        ],
-        [
-          "Isolant",
-          "Profilés à rupture de pont thermique."
-        ],
-        [
-          "Recyclable",
-          "Recyclable à l’infini."
-        ],
-        [
-          "Peu d’entretien",
-          "Un simple nettoyage suffit."
-        ],
-        [
-          "Sur mesure",
-          "Toutes dimensions, couleurs RAL."
-        ]
-      ],
-      "s6_pill": "VOTRE PROJET",
-      "s6_title": "Parlons de\nvotre projet.",
-      "s6_sub": "Demandez votre devis\npersonnalisé.",
-      "s7_tagline": "Fenêtres, portes et façades en aluminium,\nsur mesure.",
-      "s7_cta": "DEMANDEZ VOTRE DEVIS",
+      "recap_title": "10 gammes. Un seul partenaire.",
+      "cta_pill": "ESPACE PROFESSIONNELS",
+      "cta_title": "Menuisiers,\nparlons de vos projets.",
+      "cta_sub": "Contactez-nous pour vos prochains chantiers.",
+      "end_tagline": "Profilés et systèmes aluminium haut de gamme\npour les menuisiers.",
+      "end_cta": "MENUISIERS, CONTACTEZ-NOUS",
       "phone_label": "Tél.",
-      "scene_names": [
-        "Aluminium sur mesure",
-        "De la mesure à la pose",
-        "Fenêtres et portes",
-        "Façades, vérandas, garde-corps",
-        "Pourquoi l’aluminium",
-        "Parlons de votre projet",
-        "Contact"
-      ],
-      "sheet": [
-        "60 s · Full HD · 16:9 · 30 i/s",
-        "Logo et couleurs Prompolu",
-        "Illustrations animées originales",
-        "Musique instrumentale originale"
-      ]
+      "scene_labels": {
+        "hook": "Accroche",
+        "intro": "Haut de gamme",
+        "chain": "Fournisseur des menuisiers",
+        "recap": "10 gammes",
+        "cta": "Appel aux menuisiers",
+        "end": "Contact"
+      }
     },
     "en": {
-      "category": "WINDOWS  ·  DOORS  ·  FAÇADES",
-      "footer": "MADE-TO-MEASURE JOINERY",
-      "s1_pill": "ALUMINIUM JOINERY",
-      "s1_title": "Aluminium,\nmade to measure.",
-      "s1_sub": "Windows, doors and façades\nfor homes and businesses.",
-      "s2_title": "From measuring to installation.",
-      "s2_sub": "Complete support for your project.",
-      "steps": [
+      "category": "PREMIUM ALUMINIUM PROFILES",
+      "hook": [
+        "Profiles.",
+        "Systems.",
+        "Premium quality."
+      ],
+      "s2_pill": "SUPPLIER TO JOINERS",
+      "s2_title": "Premium\naluminium.",
+      "s2_sub": "Aluminium profiles and systems\nfor professional joiners.",
+      "s3_title": "We supply, you build.",
+      "chain": [
         [
-          "Measuring",
-          "On site, to the millimetre."
+          "Prompolu",
+          "Premium profiles and systems"
         ],
         [
-          "Design",
-          "Plans and tailored advice."
+          "The joiner",
+          "Fabricates and installs to measure"
         ],
         [
-          "Fabrication",
-          "Profiles cut and assembled."
-        ],
-        [
-          "Installation",
-          "Careful fitting and finishing."
+          "The end client",
+          "A durable, elegant result"
         ]
       ],
-      "s3_title": "Windows & doors.",
-      "s3_sub": "Sliding, casement or entrance doors, all made to measure.",
-      "s3_cards": [
-        [
-          "Sliding window",
-          "Wide openings, smooth gliding"
-        ],
-        [
-          "Casement window",
-          "Classic inward opening"
-        ],
-        [
-          "Entrance door",
-          "Design and security"
-        ]
+      "groups": [
+        "JOINERY",
+        "FAÇADE",
+        "INTERIORS & OUTDOOR"
       ],
-      "s4_title": "Façades, verandas, railings.",
-      "s4_sub": "Glass and aluminium for brighter spaces.",
-      "s4_cards": [
+      "products": [
+        [
+          "Sliding",
+          "Systems for sliding bays"
+        ],
+        [
+          "Casement",
+          "Inward-opening windows"
+        ],
+        [
+          "Doors",
+          "Door profile systems"
+        ],
         [
           "Curtain wall",
           "Glazed façades"
         ],
         [
-          "Veranda",
-          "More light, more space"
+          "Aluminium cladding",
+          "Façade cladding"
         ],
         [
-          "Railing",
-          "Glass and aluminium"
+          "Stacbond",
+          "Aluminium composite panels"
+        ],
+        [
+          "Kitchens",
+          "Profiles for fitted furniture"
+        ],
+        [
+          "Wardrobes",
+          "Aluminium doors and frames"
+        ],
+        [
+          "Roller shutters",
+          "Protection and shading"
+        ],
+        [
+          "Pergolas",
+          "Outdoor living"
         ]
       ],
-      "s5_title": "Why aluminium?",
-      "s5_sub": "A durable, modern and sustainable material.",
-      "benefits": [
-        [
-          "Durable",
-          "Resists corrosion and weather."
-        ],
-        [
-          "Light & strong",
-          "Large openings, slim profiles."
-        ],
-        [
-          "Insulating",
-          "Thermally broken profiles."
-        ],
-        [
-          "Recyclable",
-          "Endlessly recyclable."
-        ],
-        [
-          "Low upkeep",
-          "A simple wipe is enough."
-        ],
-        [
-          "Made to measure",
-          "Any size, any RAL colour."
-        ]
-      ],
-      "s6_pill": "YOUR PROJECT",
-      "s6_title": "Let’s talk about\nyour project.",
-      "s6_sub": "Ask for your\npersonalised quote.",
-      "s7_tagline": "Aluminium windows, doors and façades,\nmade to measure.",
-      "s7_cta": "REQUEST YOUR QUOTE",
+      "recap_title": "10 ranges. One partner.",
+      "cta_pill": "FOR PROFESSIONALS",
+      "cta_title": "Joiners,\nlet’s talk about your projects.",
+      "cta_sub": "Get in touch for your next jobs.",
+      "end_tagline": "Premium aluminium profiles and systems\nfor joiners.",
+      "end_cta": "JOINERS, GET IN TOUCH",
       "phone_label": "Tel.",
-      "scene_names": [
-        "Aluminium, made to measure",
-        "From measuring to installation",
-        "Windows & doors",
-        "Façades, verandas, railings",
-        "Why aluminium",
-        "Let’s talk about your project",
-        "Contact"
-      ],
-      "sheet": [
-        "60 s · Full HD · 16:9 · 30 fps",
-        "Prompolu logo and colours",
-        "Original animated illustrations",
-        "Original instrumental music"
-      ]
+      "scene_labels": {
+        "hook": "Hook",
+        "intro": "Premium",
+        "chain": "Supplier to joiners",
+        "recap": "10 ranges",
+        "cta": "Call to joiners",
+        "end": "Contact"
+      }
     }
   }
 }

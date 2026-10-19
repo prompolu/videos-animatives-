@@ -1,56 +1,112 @@
 {
   "width": 1920,
   "height": 1080,
-  "fps": 30,
+  "fps": 60,
   "duration": 60,
   "language": "fr",
+  "bpm": 120,
   "scenes": [
     {
       "start": 0,
-      "end": 7,
-      "name": "Aluminium sur mesure",
-      "theme": "dark"
+      "end": 4,
+      "name": "Accroche"
     },
     {
-      "start": 7,
-      "end": 15,
-      "name": "De la mesure à la pose",
-      "theme": "light"
+      "start": 4,
+      "end": 10,
+      "name": "Haut de gamme"
     },
     {
-      "start": 15,
-      "end": 24,
-      "name": "Fenêtres et portes",
-      "theme": "steel"
+      "start": 10,
+      "end": 16,
+      "name": "Fournisseur des menuisiers"
     },
     {
-      "start": 24,
-      "end": 33,
-      "name": "Façades, vérandas, garde-corps",
-      "theme": "warm"
+      "start": 16,
+      "end": 19,
+      "name": "Coulissant"
     },
     {
-      "start": 33,
+      "start": 19,
+      "end": 22,
+      "name": "Battant"
+    },
+    {
+      "start": 22,
+      "end": 25,
+      "name": "Portes"
+    },
+    {
+      "start": 25,
+      "end": 28,
+      "name": "Mur rideau"
+    },
+    {
+      "start": 28,
+      "end": 31,
+      "name": "Bardage aluminium"
+    },
+    {
+      "start": 31,
+      "end": 34,
+      "name": "Stacbond"
+    },
+    {
+      "start": 34,
+      "end": 37,
+      "name": "Cuisines"
+    },
+    {
+      "start": 37,
+      "end": 40,
+      "name": "Dressings"
+    },
+    {
+      "start": 40,
       "end": 43,
-      "name": "Pourquoi l’aluminium",
-      "theme": "dark"
+      "name": "Volets roulants"
     },
     {
       "start": 43,
-      "end": 51,
-      "name": "Parlons de votre projet",
-      "theme": "light"
+      "end": 46,
+      "name": "Pergolas"
     },
     {
-      "start": 51,
+      "start": 46,
+      "end": 52,
+      "name": "10 gammes"
+    },
+    {
+      "start": 52,
+      "end": 56,
+      "name": "Appel aux menuisiers"
+    },
+    {
+      "start": 56,
       "end": 60,
-      "name": "Contact",
-      "theme": "dark"
+      "name": "Contact"
     }
   ],
+  "transitions": {
+    "4": "zoom",
+    "10": "wipe",
+    "16": "push",
+    "19": "push",
+    "22": "push",
+    "25": "push_up",
+    "28": "push",
+    "31": "push",
+    "34": "push_up",
+    "37": "push",
+    "40": "push",
+    "43": "push",
+    "46": "zoom",
+    "52": "wipe",
+    "56": "zoom"
+  },
   "company": "PROMPOLU ALUMINIUM",
   "website": "prompolu.com",
-  "illustrations": "original procedural 2D drawings (tools/render_video.py)",
+  "illustrations": "original procedural 2D drawings (tools/art.py)",
   "voiceover": "none",
-  "music": "original synthesized instrumental"
+  "music": "original synthesized 120 BPM cue synced to cuts"
 }
