@@ -1,6 +1,6 @@
 # PROMPOLU — Infinity, film éditorial de 15 secondes
 
-Vidéo verticale silencieuse : 1080 × 1920, 30 images/s, exactement 450 images, H.264/yuv420p et fast start. Le nom demandé `Prompolu_S140RP_Editorial_15s.mp4` est conservé pour le fichier ; le texte visible indique « STRUGAL Infinity », seul nom vérifiable dans la page visible fournie. Le code S140RP reste non vérifié.
+Versions verticale sonorisée et silencieuse : 1080 × 1920, 30 images/s, exactement 450 images, H.264/yuv420p et fast start. Le nom demandé `Prompolu_S140RP_Editorial_15s.mp4` est conservé pour le fichier ; le texte visible indique « STRUGAL Infinity », seul nom vérifiable dans la page visible fournie. Le code S140RP reste non vérifié.
 
 ## Reproduction
 
@@ -26,7 +26,7 @@ Les chemins d'assets sont relatifs au script. `timeline.json` contient les phras
 - Architecture : trois illustrations conceptuelles originales, créées localement, identifiées comme telles à l'écran. Ce ne sont pas des photographies ni des réalisations PROMPOLU.
 - Aucun modèle 3D du mécanisme, rotation, mouvement de coulissement ou valeur de performance n'est inventé. Le produit est une image plate animée en translation/échelle.
 - Marque : logo PROMPOLU ALUMINIUM extrait sans génération du PDF fourni (assets/brand-source.pdf, page 1), palette fournie #15171A / #F1F0EC / #8C6A45. Fès et activité repris du brief.
-- Aucun téléphone, adresse, certification ou chiffre technique ajouté. Pas de voix, musique ni API payante externe appelée par les scripts livrés.
+- Aucun téléphone, adresse, certification ou chiffre technique ajouté. Aucune voix ni API payante externe appelée par les scripts livrés. Musique originale synthétisée localement.
 
 Le contrôle visuel se fonde sur les images représentatives et les séquences d'images autour des transitions ; il ne constitue pas un visionnage humain continu de la vidéo.
 
@@ -37,3 +37,9 @@ Extraction du logo reproductible : `python extract_logo.py` (nécessite Poppler/
 Transitions révisées : six raccords distincts de 24 images (0,8 s), accélération quintique à vitesse et accélération nulles aux extrémités. Fond et logo restent ancrés. Types et durée modifiables dans timeline.json ; fonctions dans render.py. Zoom de détail, glissement horizontal, passage vertical, révélation latérale à bord doux, révélation radiale et recul vers le logo. Aucun changement de durée : 450 images.
 
 Les textes ont des pistes indépendantes : sortie douce, intervalle bref, puis entrée de la phrase suivante. Ils ne sont ni découpés par les masques de transition ni superposés en fondu.
+
+## Version sonorisée
+
+`output/Prompolu_Infinity_15s_avec_son.mp4` ajoute une musique instrumentale originale, composée et synthétisée localement : nappes douces, notes de clavier synthétiques, basse discrète, souffle aux six raccords et accord de fermeture. Aucun sample ou enregistrement tiers, aucune voix. La version silencieuse précédente est conservée.
+
+Reproduction : après `python render.py`, lancer `python add_sound.py`. Les WAV et la vidéo sonorisée sont régénérés avec une graine fixe. Master visé à −18 LUFS / plafond −2 dBTP ; les mesures du fichier AAC livré sont enregistrées dans output/audio-validation.json. Le flux vidéo H.264 est copié sans réencodage et son empreinte est comparée à celle de la version silencieuse. Le script contrôle les 450 images, la durée, le décodage complet, les deux canaux et la fréquence audio de 48 kHz. Le contrôle audio est technique ; aucune écoute humaine n'est revendiquée.
