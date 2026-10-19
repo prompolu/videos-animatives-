@@ -1,0 +1,47 @@
+[
+  {
+    "name": "SUPER ROBOT SHAMPOING AUTO TOUT EN UN",
+    "file": "ranges/vehicles/super-robot-shampoing-auto-tout-en-un.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/super-robot-shampoing-auto-tout-en-un",
+    "image_url": "https://saraprocmaroc.com/storage/984/CHAMPOING-AUTO.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+    "sha256": "a74b4747605696a3b3e49d4e9fcd45da2140396319e11b5667b6ae322ae18b1c",
+    "bytes": 22900,
+    "dimensions": [
+      800,
+      533
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  },
+  {
+    "name": "SUPER ROBOT LAVE GLACE AUTO CONCENTRE",
+    "file": "ranges/vehicles/super-robot-lave-glace-auto-concentre.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/super-robot-lave-glace-auto-concentre",
+    "image_url": "https://saraprocmaroc.com/storage/985/GLACE.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+    "sha256": "6a34205079e273dbb1a6296dab5119eca96755241e1b2e4be3111ded3c771fd4",
+    "bytes": 19790,
+    "dimensions": [
+      800,
+      533
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  },
+  {
+    "name": "SUPER ROBOT DETACHANT TISSU A SEC",
+    "file": "ranges/vehicles/super-robot-detachant-tissu-a-sec.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/super-robot-detachant-tissu-a-sec",
+    "image_url": "https://saraprocmaroc.com/storage/976/60efed793bc674cac75a0847ee7f3344.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+    "sha256": "c3ffbf93dcb60d852786e6ebc594b6b67bdb9534d1aeec9961d483729fd23217",
+    "bytes": 736112,
+    "dimensions": [
+      800,
+      533
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  }
+]

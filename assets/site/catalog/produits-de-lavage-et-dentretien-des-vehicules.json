@@ -1,0 +1,91 @@
+{
+  "category_name": "PRODUITS DE LAVAGE ET D’ENTRETIEN DES VÉHICULES",
+  "root_url": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules",
+  "visited_pages": [
+    "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules",
+    "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+  ],
+  "products": [
+    {
+      "name": "SUPER ROBOT SHAMPOING AUTO TOUT EN UN",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-shampoing-auto-tout-en-un",
+      "image_url": "https://saraprocmaroc.com/storage/984/CHAMPOING-AUTO.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "SUPER ROBOT LAVE GLACE AUTO CONCENTRE",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-lave-glace-auto-concentre",
+      "image_url": "https://saraprocmaroc.com/storage/985/GLACE.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "SUPER ROBOT DETACHANT TISSU A SEC",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-detachant-tissu-a-sec",
+      "image_url": "https://saraprocmaroc.com/storage/976/60efed793bc674cac75a0847ee7f3344.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "SUPER ROBOT jante/moteur",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-jantemoteur",
+      "image_url": "https://saraprocmaroc.com/storage/975/0f44a473fa60855350f1d9b2d600e304.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "AdBlue ROCKET",
+      "url": "https://www.saraprocmaroc.com/boutique/adblue-rocket",
+      "image_url": "https://saraprocmaroc.com/storage/986/ADBLUE1.png",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "ROCKET PREMELANGE 50/50 (-37°c)",
+      "url": "https://www.saraprocmaroc.com/boutique/rocket-premelange-5050-37c",
+      "image_url": "https://saraprocmaroc.com/storage/981/ANTIGEL.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "SUPER ROBOT NT/50 TYRE SHINE",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-nt50-tyre-shine",
+      "image_url": "https://saraprocmaroc.com/storage/977/3f9d00bb54c5cb25a4d55629f286409f.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    },
+    {
+      "name": "SUPER ROBOT NETTOYANT ET RENOVATEUR",
+      "url": "https://www.saraprocmaroc.com/boutique/super-robot-nettoyant-et-renovateur",
+      "image_url": "https://saraprocmaroc.com/storage/979/6faf04b97d50e5e2cae4524cfd805f27.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels",
+      "subcategories": [
+        "Produits de lavage et d’entretien auto professionnels"
+      ]
+    }
+  ],
+  "completeness_notes": [
+    "Toutes les sous-catégories du périmètre racine ont été suivies. Aucun contrôle Livewire de pagination actif détecté sur ces listes (chaque liste comporte moins de 15 fiches).",
+    "Les deux pages de catalogues officiels ont été vérifiées : aucun catalogue maître supplémentaire pour cette gamme n’est proposé dans ces listes."
+  ],
+  "observed_date": "2026-10-18",
+  "catalogue_listing_pages_checked": [
+    "https://www.saraprocmaroc.com/catalogues",
+    "https://www.saraprocmaroc.com/catalogues?page=2"
+  ]
+}

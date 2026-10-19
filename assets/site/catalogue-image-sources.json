@@ -1,0 +1,4951 @@
+{
+  "source_site": "https://www.saraprocmaroc.com/",
+  "retrieved_at": "2026-10-18T21:50:56.140427+00:00",
+  "verification": "TLS verification enabled. Every retained image decodes with Pillow; original bytes preserved. Known generic washroom placeholders and swimming-pool-only references excluded. Product photo availability follows official live listings.",
+  "summary": {
+    "live_product_image_urls_requested": 146,
+    "images_verified": 146,
+    "images_reused": 58,
+    "images_downloaded": 88,
+    "failures": 0,
+    "skips_by_reason": {
+      "generic_placeholder_not_product_photo": 21,
+      "pdf_reference_not_live_product_photo_target": 116,
+      "outside_video_scope": 7
+    },
+    "total_verified_bytes": 79337409,
+    "catalogue_source_product_counts": {
+      "hygiene-en-milieu-medicale.json": 30,
+      "hygiene-professionnelle-ecologique.json": 9,
+      "hygiene-professionnelle-et-institutionnelle.json": 93,
+      "matiere-premiere-cosmetique.json": 8,
+      "produits-chimiques-industriels.json": 116,
+      "produits-de-lavage-et-dentretien-des-vehicules.json": 8,
+      "traitement-des-eaux.json": 26
+    },
+    "unique_image_content_hashes": 112,
+    "new_original_files": 88,
+    "new_original_bytes": 46934253
+  },
+  "images": [
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1034/5-01.jpg",
+      "product_names": [
+        "DERMO-CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/dermo-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/dermo-cidex.jpg",
+      "sha256": "7afc92fc30483a557d1335e28ab22aa4aa94ccf08d65133aa679c3c65e11382d",
+      "bytes": 653257,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1035/7-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL SHA"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ea04c75646f571a77c2d4518.jpg",
+      "sha256": "ea04c75646f571a77c2d45183e6a288c9190f751daaec3ad3a8d537982baf9c8",
+      "bytes": 1265233,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1035/7-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1036/12-01.jpg",
+      "product_names": [
+        "BIOMA CIDEX D1 SCRUB 5% PCMX- CG"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-cidex-d1-scrub-5-pcmx-cg"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/bioma-cidex-d1-scrub-5-pcmx-cg.jpg",
+      "sha256": "f9d41d14a1b5506cb6c4dd36c43ede7fd8c9796e469d286997805ba84cd8d624",
+      "bytes": 902875,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1037/11-01.jpg",
+      "product_names": [
+        "BIOMA CIDEX D2/HF"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-cidex-d2hf"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/34d6658d3c3e6bc9cdf6ac35.jpg",
+      "sha256": "34d6658d3c3e6bc9cdf6ac354172b6be3ac3005e820444226f4a86cc160b9bcd",
+      "bytes": 1154241,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1037/11-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1038/8-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL GHA"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-gha"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577",
+      "bytes": 1111567,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1038/8-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1039/8-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL GEL HYDOALCOOLIQUE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydoalcoolique"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577",
+      "bytes": 1111567,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1128/26-01.jpg",
+      "product_names": [
+        "GERMACID E4 BLEND QUADRIZYMES"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/germacid-e4-blend-quadrizymes.jpg",
+      "sha256": "91c240ddf11fe989984ec236c35cf875c5383c3885b11148e8a3da05935e523d",
+      "bytes": 614745,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1130/18-01.jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/de47144877dc64df7e077ba3.jpg",
+      "sha256": "de47144877dc64df7e077ba3b08b130e0acc891f985fe4643fe6ef51fa9ea470",
+      "bytes": 705966,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1130/18-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1132/2-01.jpg",
+      "product_names": [
+        "GERMACID 2% CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-2-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/2bdbbf300c980d3166d1e5a8.jpg",
+      "sha256": "2bdbbf300c980d3166d1e5a8c9a9576cfcd7c774cf38134355d777efa0bad601",
+      "bytes": 613817,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1132/2-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1134/21--01.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 cidex DHN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-dhn"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4246d4a89d0866d325e9939f.jpg",
+      "sha256": "4246d4a89d0866d325e9939f00d59c8c49823871e112ed620897476efd981e43",
+      "bytes": 1299814,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1134/21--01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1136/4-01.jpg",
+      "product_names": [
+        "DETAFOAM PS60 CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-ps60-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/427e28911e3592d0caf6af59.jpg",
+      "sha256": "427e28911e3592d0caf6af59a9f914a0b26ea74a6a4c2b9c37e67a19c0b71d45",
+      "bytes": 1222460,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1136/4-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1138/6-01.jpg",
+      "product_names": [
+        "CHLORACIDE 2.6% CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/7717e44cbe7dcc3cd34211e8.jpg",
+      "sha256": "7717e44cbe7dcc3cd34211e8518dac7454a8e760faac13a730f8f92cd72fc31f",
+      "bytes": 1099463,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1138/6-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1140/GERMACID-SHA-SURFASPRAY-01(1).jpg",
+      "product_names": [
+        "GERMACID SHA SURFASPRAY"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/5883de8efe602603c6544492.jpg",
+      "sha256": "5883de8efe602603c65444920ae698069cdd87f8af177c5f6e09fb52c9512146",
+      "bytes": 822252,
+      "dimensions": [
+        3088,
+        2909
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1140/GERMACID-SHA-SURFASPRAY-01%281%29.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1142/24--01.jpg",
+      "product_names": [
+        "GERMA-SURF NDD"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germa-surf-ndd"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/germa-surf-ndd.jpg",
+      "sha256": "fadd7c53ae2ce0864cdb866fd7e32c381a6613d8f141f6abd0595f1bd5c3d4be",
+      "bytes": 1500437,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1160/28--01.jpg",
+      "product_names": [
+        "GERMACID DSMV CIDEX/ HP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-dsmv-cidex-hp"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/0a23b195cd7600cba7a8975a.jpg",
+      "sha256": "0a23b195cd7600cba7a8975a16321e969f760df2ffc4d4c5d68ea8db49f7a158",
+      "bytes": 563551,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1160/28--01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1164/20-01.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 DVA CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-dva-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/86fb2881a14bd8f6f42112c7.jpg",
+      "sha256": "86fb2881a14bd8f6f42112c7ff7cd206481f4db693e5a42f7d86d4d4f986f13f",
+      "bytes": 1007649,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1164/20-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1169/17-01.jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 CIDEX SS"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-ss"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/21a7ca08d0154cb255fb4d09.jpg",
+      "sha256": "21a7ca08d0154cb255fb4d092be78a4afec8390e219b16867d198e9f1c8efe8b",
+      "bytes": 1054420,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1169/17-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1170/OXYCIDE-QUUICK-AIR-FRESH-AMBIANCE-01.jpg",
+      "product_names": [
+        "OXYCIDE QUICK AIR FRESH AMBIANCE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-air-fresh-ambiance"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/a68e844d9b4a40a471263f23.jpg",
+      "sha256": "a68e844d9b4a40a471263f23b1292815e1ce9bc54743964d9658f00e4e03ad99",
+      "bytes": 1282227,
+      "dimensions": [
+        3088,
+        2909
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1170/OXYCIDE-QUUICK-AIR-FRESH-AMBIANCE-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1173/17-01.jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 CIDEX EN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-en"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/21a7ca08d0154cb255fb4d09.jpg",
+      "sha256": "21a7ca08d0154cb255fb4d092be78a4afec8390e219b16867d198e9f1c8efe8b",
+      "bytes": 1054420,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1173/17-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1174/21--01.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 cidex EN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-en"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4246d4a89d0866d325e9939f.jpg",
+      "sha256": "4246d4a89d0866d325e9939f00d59c8c49823871e112ed620897476efd981e43",
+      "bytes": 1299814,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1174/21--01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1175/2-01.jpg",
+      "product_names": [
+        "GERMACID 2% CIDEX EN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-2-cidex-en"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/2bdbbf300c980d3166d1e5a8.jpg",
+      "sha256": "2bdbbf300c980d3166d1e5a8c9a9576cfcd7c774cf38134355d777efa0bad601",
+      "bytes": 613817,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1175/2-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1176/26-01.jpg",
+      "product_names": [
+        "GERMACID E4 BLEND QUADRIZYMES EN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes-en"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/products/germacid-e4-blend-quadrizymes.jpg",
+      "sha256": "91c240ddf11fe989984ec236c35cf875c5383c3885b11148e8a3da05935e523d",
+      "bytes": 614745,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1176/26-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1177/3-01.jpg",
+      "product_names": [
+        "BIOMA ULTRASOUND GEL"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/gel-de-transmission-ultrasonique"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-ultrasound-gel"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/848cb389d7cd01933acaa62c.jpg",
+      "sha256": "848cb389d7cd01933acaa62c9f8eacb39b37d1d64929b4ad48dae9a971c926f5",
+      "bytes": 939574,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1177/3-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1179/17-01.jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 DVA CIDEX"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-dva-cidex"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/21a7ca08d0154cb255fb4d09.jpg",
+      "sha256": "21a7ca08d0154cb255fb4d092be78a4afec8390e219b16867d198e9f1c8efe8b",
+      "bytes": 1054420,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1179/17-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1184/17-01.jpg",
+      "product_names": [
+        "FORTICIDE GENERATOR"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/forticide-generator"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/21a7ca08d0154cb255fb4d09.jpg",
+      "sha256": "21a7ca08d0154cb255fb4d092be78a4afec8390e219b16867d198e9f1c8efe8b",
+      "bytes": 1054420,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1184/17-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1186/7-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL SHA BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha-be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ea04c75646f571a77c2d4518.jpg",
+      "sha256": "ea04c75646f571a77c2d45183e6a288c9190f751daaec3ad3a8d537982baf9c8",
+      "bytes": 1265233,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1186/7-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1189/8-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL GEL"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-gel"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577",
+      "bytes": 1111567,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1189/8-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1191/8-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL GEL HYDROALCOOLIQUE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-du-personnel-hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydroalcoolique"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+      "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577",
+      "bytes": 1111567,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1191/8-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1192/7-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL SHA MAINS SOLUTION HYDROALCOOLIQUE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-du-personnel-hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha-mains-solution-hydroalcoolique"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ea04c75646f571a77c2d4518.jpg",
+      "sha256": "ea04c75646f571a77c2d45183e6a288c9190f751daaec3ad3a8d537982baf9c8",
+      "bytes": 1265233,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1192/7-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1193/10-01.jpg",
+      "product_names": [
+        "BIOMA luxury antiseptique"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-du-personnel-hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-luxury-antiseptique"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/c00557f8b7a2d6e9e4c8d5b9.jpg",
+      "sha256": "c00557f8b7a2d6e9e4c8d5b98054d89f444c0ee0ba8ef008b79a76837653f2a4",
+      "bytes": 906342,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1193/10-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1195/6-01.jpg",
+      "product_names": [
+        "CHLORACIDE FL2 SE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/traitement-des-fruits-et-legumes-en-stations-demballage"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-fl2-se"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/7717e44cbe7dcc3cd34211e8.jpg",
+      "sha256": "7717e44cbe7dcc3cd34211e8518dac7454a8e760faac13a730f8f92cd72fc31f",
+      "bytes": 1099463,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1195/6-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1197/21--01.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 SE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/traitement-des-fruits-et-legumes-en-stations-demballage"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-se"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4246d4a89d0866d325e9939f.jpg",
+      "sha256": "4246d4a89d0866d325e9939f00d59c8c49823871e112ed620897476efd981e43",
+      "bytes": 1299814,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1197/21--01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1199/FORTICIDE-GENERATOR.png",
+      "product_names": [
+        "FORTICIDE GENERATOR SURFASPRAY"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/forticide-generator-surfaspray"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4b796a0610695bd3531368bf.png",
+      "sha256": "4b796a0610695bd3531368bf5e1fdf5536cd88288d50c90a05f7c15f38602914",
+      "bytes": 1240182,
+      "dimensions": [
+        1293,
+        1216
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/1199/FORTICIDE-GENERATOR.png"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1208/CHLORACIDE-FL2-01.jpg",
+      "product_names": [
+        "CHLORACIDE FL2"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-fl2"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/6dd3814b4639ec43ef6f976d.jpg",
+      "sha256": "6dd3814b4639ec43ef6f976dc8646ad1e40dd28380e6ea3076037007ecb50145",
+      "bytes": 2512543,
+      "dimensions": [
+        7576,
+        4669
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1208/CHLORACIDE-FL2-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1209/OXYCIDE-AP8-01(1).jpg",
+      "product_names": [
+        "OXYCIDE AP/8"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/d9a9fea866488c06d0cb7775.jpg",
+      "sha256": "d9a9fea866488c06d0cb77753cf8a24dc8e28052c965509d850a8f3c3cc935e4",
+      "bytes": 2383481,
+      "dimensions": [
+        7576,
+        4669
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1209/OXYCIDE-AP8-01%281%29.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/1239/7-01.jpg",
+      "product_names": [
+        "BIOMASEPTOL SHA/70M"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-du-personnel-soignant"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha70m"
+      ],
+      "catalogues": [
+        "hygiene-en-milieu-medicale.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ea04c75646f571a77c2d4518.jpg",
+      "sha256": "ea04c75646f571a77c2d45183e6a288c9190f751daaec3ad3a8d537982baf9c8",
+      "bytes": 1265233,
+      "dimensions": [
+        3087,
+        2908
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/1239/7-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/591/CH05.jpg",
+      "product_names": [
+        "AQUATEC NEUTRAL CH-05"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-pour-le-traitement-de-leau-de-chaudiere"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-neutral-ch-05"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/1e9d9dd13797317667a3b4bd.jpg",
+      "sha256": "1e9d9dd13797317667a3b4bdf8fe28444a9a85eaaffe80389cbadcdbaaf02ad6",
+      "bytes": 156765,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/591/CH05.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/592/RM-90.jpg",
+      "product_names": [
+        "DETARTREMIX RM 90"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-pour-le-traitement-de-leau-de-chaudiere"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detartremix-rm-90"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4442b580018fe318d1ed3695.jpg",
+      "sha256": "4442b580018fe318d1ed3695094e519fa18d08f661991cc743b72e4fff691b4c",
+      "bytes": 155139,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/592/RM-90.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/593/RO-03.jpg",
+      "product_names": [
+        "AQUATEC RO-03"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-specifiques-pour-les-systemes-dosmose-inverse"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-ro-03"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/d395e8773127e827f1289be4.jpg",
+      "sha256": "d395e8773127e827f1289be47f85b055d1fd607c6a6a6174ec77518f6e1d33b9",
+      "bytes": 185765,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/593/RO-03.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/595/RH-03.jpg",
+      "product_names": [
+        "AQUATEC HEDP CH-03"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-pour-le-traitement-de-leau-de-chaudiere"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-hedp-ch-03"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/5ab4d718c8145b7890c0c84e.jpg",
+      "sha256": "5ab4d718c8145b7890c0c84efa041ab7eaa59b57751b916c1767ca6ba4429272",
+      "bytes": 204167,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/595/RH-03.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/596/WhatsApp-Image-2026-01-03-at-15.57.29-(3).jpg",
+      "product_names": [
+        "AQUATEC CH-01"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-pour-le-traitement-de-leau-de-chaudiere"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-ch-01"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/water/aquatec-ch-01.jpg",
+      "sha256": "b37f1884a2983339d93a069840e572b82c250047e2e01bd9a1feb966e0e1e00c",
+      "bytes": 136408,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/599/BIOMATIC.jpg",
+      "product_names": [
+        "BIOMATIC DETAZYME PRO"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomatic-detazyme-pro"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-ecologique.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/biomatic-detazyme-pro.jpg",
+      "sha256": "93eec5b3fb64eae62cfbdcd6eaee2d3e857c215c3e420125431d29ec0d7d9a3b",
+      "bytes": 119372,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/599/BIOMATIC.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/601/BIOMATIC-PRO-LP.jpg",
+      "product_names": [
+        "BIOMATIC PRO/LP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomatic-prolp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/biomatic-nature-linge.jpg",
+      "sha256": "bf332463fa550c64d35923acd68878c6ea77a224c8c98c06cc607cc8751a68c4",
+      "bytes": 140157,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/601/BIOMATIC-PRO-LP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/602/BOOSTER-CLEAN-33.jpg",
+      "product_names": [
+        "BOOSTER CLEAN33"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/booster-clean33"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/a3c1db172bde0ae64288d29b.jpg",
+      "sha256": "a3c1db172bde0ae64288d29ba7ae874c7c01e9ac50b99c33f6260869c81acd41",
+      "bytes": 122603,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/602/BOOSTER-CLEAN-33.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/603/BOOSTER-CLEAN-55.jpg",
+      "product_names": [
+        "BOOSTER CLEAN 55"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/booster-clean-55"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/2b414261f816786db7623e7b.jpg",
+      "sha256": "2b414261f816786db7623e7bf6861102335a010fdd164242f0179c4d4e6705f8",
+      "bytes": 142885,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/603/BOOSTER-CLEAN-55.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/608/AP-8LB.jpg",
+      "product_names": [
+        "OXYCIDE AP 8 LB"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/blanchiment-et-decontamination-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap-8-lb"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/oxycide-ap-8-bl.jpg",
+      "sha256": "271407c70bacb1afd98e2a711629f5771cd6c7da831d87edadefdd274d81a5b2",
+      "bytes": 152189,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/608/AP-8LB.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/613/TECNOSOFT-60-AS-LP.jpg",
+      "product_names": [
+        "TECNOSOFT 60 AS/LP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/tecnosoft-60-aslp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/6e84ab4a719eb2e089478633.jpg",
+      "sha256": "6e84ab4a719eb2e089478633775fb8220ed4f21d7ef344cabfed0e00bd9e1930",
+      "bytes": 118655,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/613/TECNOSOFT-60-AS-LP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/615/BIOMATIC.jpg",
+      "product_names": [
+        "BIOMATIC DETAZYME PRO/LP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomatic-detazyme-prolp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/biomatic-detazyme-pro.jpg",
+      "sha256": "93eec5b3fb64eae62cfbdcd6eaee2d3e857c215c3e420125431d29ec0d7d9a3b",
+      "bytes": 119372,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/615/BIOMATIC.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/635/bioma-antiseptique.png",
+      "product_names": [
+        "BIOMA ANTISEPTIQUE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-du-personnel-hygiene-des-mains"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-antiseptique"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/25ac7ec08444c5a0a4f19b3f.png",
+      "sha256": "25ac7ec08444c5a0a4f19b3f032e8e5c9290daf190cf66c89e2b8a6e3c61ee8c",
+      "bytes": 567359,
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/635/bioma-antiseptique.png"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/647/WhatsApp-zImage-2026-01-03-at-15.57.29-(3).jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 LB Triple action"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/lavage-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-lb-triple-action"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/53ed1e79ef10e25fd05c3527.jpg",
+      "sha256": "53ed1e79ef10e25fd05c3527d8d61eb479a2b916efdf29cf8f2a9aadbc971aa9",
+      "bytes": 154205,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/647/WhatsApp-zImage-2026-01-03-at-15.57.29-%283%29.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/648/WhatsApp-zImage-2026-01-03-at-15.57.29-(3).jpg",
+      "product_names": [
+        "OXYCIDE QUICK AP/15 LB"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/blanchiment-et-decontamination-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-lb"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/53ed1e79ef10e25fd05c3527.jpg",
+      "sha256": "53ed1e79ef10e25fd05c3527d8d61eb479a2b916efdf29cf8f2a9aadbc971aa9",
+      "bytes": 154205,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/648/WhatsApp-zImage-2026-01-03-at-15.57.29-%283%29.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/652/RO02.jpg",
+      "product_names": [
+        "AQUATEC RO-02"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-specifiques-pour-les-systemes-dosmose-inverse"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-ro-02"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/water/aquatec-ro-02.jpg",
+      "sha256": "3b3ad0b41ff3f9a2e71177873b29192615f3b83107452b944e04f430282c210c",
+      "bytes": 193115,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/654/RO-01.jpg",
+      "product_names": [
+        "AQUATEC RO-01"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-specifiques-pour-les-systemes-dosmose-inverse"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-ro-01"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/d35c8c360923df5c7267859b.jpg",
+      "sha256": "d35c8c360923df5c7267859b71d5a4d18aeda6d51226821002624994b3b4dddd",
+      "bytes": 169256,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/654/RO-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/656/RO04).jpg",
+      "product_names": [
+        "AQUATEC HEDP RO-04"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-specifiques-pour-les-systemes-dosmose-inverse"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/aquatec-hedp-ro-04"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/b0f1a312743dc6bd6013358e.jpg",
+      "sha256": "b0f1a312743dc6bd6013358ebfc6def2e82ff0aeb7969311bd85f944d4ca54a0",
+      "bytes": 141429,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/656/RO04%29.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/704/AP-8LB.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 BL"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-bl"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-ecologique.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/oxycide-ap-8-bl.jpg",
+      "sha256": "271407c70bacb1afd98e2a711629f5771cd6c7da831d87edadefdd274d81a5b2",
+      "bytes": 152189,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/704/AP-8LB.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/705/BIOMATIC-PRO-LP.jpg",
+      "product_names": [
+        "BIOMATIC nature linge"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomatic-nature-linge"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-ecologique.json"
+      ],
+      "local_path": "assets/site/ranges/ecological/biomatic-nature-linge.jpg",
+      "sha256": "bf332463fa550c64d35923acd68878c6ea77a224c8c98c06cc607cc8751a68c4",
+      "bytes": 140157,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/705/BIOMATIC-PRO-LP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/713/F3.jpg",
+      "product_names": [
+        "ELVACIDE F3"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/elvacide-f3"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8da970b45958d1d5d19bff08.jpg",
+      "sha256": "8da970b45958d1d5d19bff08066bcb3c3e54595c3c8c59e54ad86547ae6d42e0",
+      "bytes": 449953,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/713/F3.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/714/capmamelle.jpg",
+      "product_names": [
+        "CAPMAMELLE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/capmamelle"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/1390c899f9d6d0b8f5849b47.jpg",
+      "sha256": "1390c899f9d6d0b8f5849b472478d012c2459c21f0ed528df39f5a60ef9dc4d4",
+      "bytes": 528799,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/714/capmamelle.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/716/capmamelle-idone.jpg",
+      "product_names": [
+        "CAPMAMELLE IODINE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/capmamelle-iodine"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ad0aa670c2358d1896104f93.jpg",
+      "sha256": "ad0aa670c2358d1896104f93a69f859942525a68804c562af08c9d68a40dbc19",
+      "bytes": 625846,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/716/capmamelle-idone.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/717/AP-8.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 STM"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-stm"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/a1aca997563eef33f461e10e.jpg",
+      "sha256": "a1aca997563eef33f461e10e0f9bdbbcacec080c8f960218f762041224264f53",
+      "bytes": 410060,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/717/AP-8.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/719/elvanet-200.jpg",
+      "product_names": [
+        "ELVANET 2000"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/elvanet-2000"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/70d1de4c06d0a9145648c3fd.jpg",
+      "sha256": "70d1de4c06d0a9145648c3fd65829f3390cb7d0dd47eecb28fbdcf6bc8043048",
+      "bytes": 432093,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/719/elvanet-200.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/721/A50.jpg",
+      "product_names": [
+        "NEUTROCIDE A50 ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-surfaces-et-des-installations-de-traite"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/neutrocide-a50-st"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/99708a30b4da595d21c336d5.jpg",
+      "sha256": "99708a30b4da595d21c336d5fdb88100bc282badbaf1cdf0999b78a37ee69d38",
+      "bytes": 560977,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/721/A50.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/722/T80.jpg",
+      "product_names": [
+        "CHLORACIDE T80 ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-surfaces-et-des-installations-de-traite"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-t80-st"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/c4d2ee3e1e70fb691835900f.jpg",
+      "sha256": "c4d2ee3e1e70fb691835900f41b2119481472dc1d28a2521049022c2aa498799",
+      "bytes": 638728,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/722/T80.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/723/N33.jpg",
+      "product_names": [
+        "ALCANEP 33N/ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-surfaces-et-des-installations-de-traite"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/alcanep-33nst"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/d3ffd449b83b13061e005eca.jpg",
+      "sha256": "d3ffd449b83b13061e005eca20e390a926ddbd06ca8e4200195f324f81927dc1",
+      "bytes": 538721,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/723/N33.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/725/63N.jpg",
+      "product_names": [
+        "NITRICIP 63N ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-surfaces-et-des-installations-de-traite"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nitricip-63n-st"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e8e867d60ab680f53f24ebb8.jpg",
+      "sha256": "e8e867d60ab680f53f24ebb8de17f208b2f0c447a650dda81cf7ba77c76be422",
+      "bytes": 545962,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/725/63N.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/726/AP8.jpg",
+      "product_names": [
+        "OXYCIDE AP/8 ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-surfaces-et-des-installations-de-traite"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-st"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/bf3f3d85c865218041309274.jpg",
+      "sha256": "bf3f3d85c8652180413092745aa5b96d4fd47431224535497a1a6514c36ffdd5",
+      "bytes": 583894,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/726/AP8.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/730/bioma-acide.jpg",
+      "product_names": [
+        "BIOMA ACIDE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-acide"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/bd356e028b80f122422a0457.jpg",
+      "sha256": "bd356e028b80f122422a0457d42cb2878c9e4afa187e9c82cf1344db5b61fb4b",
+      "bytes": 502203,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/730/bioma-acide.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/731/K50.jpg",
+      "product_names": [
+        "BIOMA ALCALIN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-alcalin"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/95af539145a5ef865a8919f5.jpg",
+      "sha256": "95af539145a5ef865a8919f5cb96294f65f9a6531af668ee181df9cb9276ab3f",
+      "bytes": 488197,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/731/K50.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/732/AGRONET.jpg",
+      "product_names": [
+        "AGRONET ACIDE P70/BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-acide-p70be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/2eddb660a4f10e03af68fc30.jpg",
+      "sha256": "2eddb660a4f10e03af68fc302c7721219cf93c897eaad5bbd6667dbe6f14143d",
+      "bytes": 489856,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/732/AGRONET.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/733/AGRONET-ALCALIN.jpg",
+      "product_names": [
+        "AGRONET ALCALIN K50/BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-alcalin-k50be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8b98dabe739839fcebddd853.jpg",
+      "sha256": "8b98dabe739839fcebddd853e055b81a04523ff1465ad5831a536deb29eaf790",
+      "bytes": 492618,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/733/AGRONET-ALCALIN.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/734/ALCANEP-33N.jpg",
+      "product_names": [
+        "ALCANEP 33N/BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/alcanep-33nbe"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/852b6ed6a4c5589e5428ab09.jpg",
+      "sha256": "852b6ed6a4c5589e5428ab0932db72d7655b9d66821980d1cfb5f01d13a20bfa",
+      "bytes": 486647,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/734/ALCANEP-33N.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/735/NITRICIP.jpg",
+      "product_names": [
+        "NITRICIP N63/BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nitricip-n63be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/0af0ca28778d2ebe4a24cd34.jpg",
+      "sha256": "0af0ca28778d2ebe4a24cd34103a63f69696353e57763da21f57e4d176bf5737",
+      "bytes": 487398,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/735/NITRICIP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/736/DETAFOAM-SP60.jpg",
+      "product_names": [
+        "DETAFOAM SP60/BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-sp60be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/fc8a9ac0981640486227578f.jpg",
+      "sha256": "fc8a9ac0981640486227578f7d1f72554a2bc6d7fb8b55adc0bc96c0c19eff9c",
+      "bytes": 494225,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/736/DETAFOAM-SP60.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/737/BIOMACIDE.jpg",
+      "product_names": [
+        "BIOMACIDE intégral puissance 3"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomacide-integral-puissance-3"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/c291f2085cf9d22f0a759fbb.jpg",
+      "sha256": "c291f2085cf9d22f0a759fbb299a748e7d32088628c77057cde2aa75bb88c05a",
+      "bytes": 496023,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/737/BIOMACIDE.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/739/BIOMASEPTOL-D80.jpg",
+      "product_names": [
+        "BIOMASEPTOL D80/LM"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-d80lm"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/fd814ae32f43e3707e9a3633.jpg",
+      "sha256": "fd814ae32f43e3707e9a36339b3d4122d02220fd45ed2ab87c2faeaea3d25c53",
+      "bytes": 498171,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/739/BIOMASEPTOL-D80.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/740/OXYCIDE-AP.jpg",
+      "product_names": [
+        "OXYCIDE AP/8-BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/81f4124ac1f576e368d7abed.jpg",
+      "sha256": "81f4124ac1f576e368d7abedf9323fef257c12cb1d5c342c136e967db3b000af",
+      "bytes": 499961,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/740/OXYCIDE-AP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/743/HYDROCIDE.jpg",
+      "product_names": [
+        "HYDROCIDE 50"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-leau-dabreuvage"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/hydrocide-50"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e41ae5c9c62b1c026aa116ea.jpg",
+      "sha256": "e41ae5c9c62b1c026aa116ea6ed27628e59febfa0c569248bbd6f9d8988bd527",
+      "bytes": 8974,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/743/HYDROCIDE.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/744/BASE-SAVON-GLYCERINE.jpg",
+      "product_names": [
+        "BIOMA luxury soap (MELT & POUR)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-luxury-soap-melt-pour"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-soap-melt-pour.jpg",
+      "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a",
+      "bytes": 447914,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/746/BASE-CHAMPOING.jpg",
+      "product_names": [
+        "BIOMA luxury HAIR CARE Free sulfate"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-luxury-hair-care-free-sulfate"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-hair-care-free-sulfate.jpg",
+      "sha256": "26dede546b15d2df1f10349c0bf7ea84b0f1b522c86e9abe85703b7b64bf8586",
+      "bytes": 426034,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/748/BASE-CREM.jpg",
+      "product_names": [
+        "BIOMA luxury EC 90 (Full care/ make cream)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-luxury-ec-90-full-care-make-cream"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+      "sha256": "d0697bcaf1227463f589541127b11f8d7757ad7e3e9c33f741a52e5e7438ab28",
+      "bytes": 449028,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/750/CIRQUAT.jpg",
+      "product_names": [
+        "CIRQUAT CDC ESTERS (C40- C46)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/cirquat-cdc-esters-c40-c46"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/ranges/cosmetic/cirquat-cdc-esters-c40-c46.jpg",
+      "sha256": "78da613069842ff4717022d30d371408cf5395a20cc706d6633aaa09de43293b",
+      "bytes": 489754,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/752/neutrocide-A80.jpg",
+      "product_names": [
+        "NEUTROCIDE A50-BE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-des-surfaces-et-des-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/neutrocide-a50-be"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8b1fd6fc79f231379043f705.jpg",
+      "sha256": "8b1fd6fc79f231379043f705a7975501d4fb00c68fcec8f212985a454f8a0446",
+      "bytes": 500355,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/752/neutrocide-A80.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/754/AGRONET-ALCALIN-K50-CP.jpg",
+      "product_names": [
+        "AGRONET ALCALIN K50 CP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-des-sols-surfaces-et-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-alcalin-k50-cp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/professional/agronet-alcalin-k50-cp.jpg",
+      "sha256": "a545d21fa825346765a76e7bae74699d107d29be14352c54c0428bf6bf713564",
+      "bytes": 513745,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/754/AGRONET-ALCALIN-K50-CP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/755/detafoam.jpg",
+      "product_names": [
+        "DETAFOAM PS/60 CP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-des-sols-surfaces-et-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-ps60-cp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e5964fea4d88fd419721e0cc.jpg",
+      "sha256": "e5964fea4d88fd419721e0cce48d0da363ca5c6d65b30cd80c9e6b9c6d4abf37",
+      "bytes": 498932,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/755/detafoam.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/756/CHLORACIDE-T80-CP.jpg",
+      "product_names": [
+        "CHLORACIDE T80/CP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-des-sols-surfaces-et-equipements"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-t80cp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/67279e113383172bf4108894.jpg",
+      "sha256": "67279e113383172bf4108894e575a9e62c8a3bd94026033e7b07fe35510120cc",
+      "bytes": 525020,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/756/CHLORACIDE-T80-CP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/757/NEUTROCIDE-V1.jpg",
+      "product_names": [
+        "NEUTROCIDE V1"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/lavage-et-rincage-de-la-vaisselle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/neutrocide-v1"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/6186b88cc2b66335cdafa04a.jpg",
+      "sha256": "6186b88cc2b66335cdafa04a51cc527900f5688f9527935a6ea578f9efc5dc33",
+      "bytes": 519795,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/757/NEUTROCIDE-V1.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/758/NEUTROCIDE-V2.jpg",
+      "product_names": [
+        "NEUTROCIDE V2"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/lavage-et-rincage-de-la-vaisselle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/neutrocide-v2"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/21a9b29eb216ef929c3513f7.jpg",
+      "sha256": "21a9b29eb216ef929c3513f7551bfb01f1fd6f794909c3610b6f996953ec980d",
+      "bytes": 469792,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/758/NEUTROCIDE-V2.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/759/detafoam.jpg",
+      "product_names": [
+        "DETAFOAM PS60 CPR"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/lavage-et-rincage-de-la-vaisselle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-ps60-cpr"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e5964fea4d88fd419721e0cc.jpg",
+      "sha256": "e5964fea4d88fd419721e0cce48d0da363ca5c6d65b30cd80c9e6b9c6d4abf37",
+      "bytes": 498932,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/759/detafoam.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/760/bioma-sel.jpg",
+      "product_names": [
+        "BIOMA SEL-ZUT"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/produits-dentretien-et-additifs-pour-machine-lave-vaisselle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-sel-zut"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e07c5fa19d0f197936fd0327.jpg",
+      "sha256": "e07c5fa19d0f197936fd0327e7015157383a8416c9445dadca1cc09f867aa296",
+      "bytes": 1045812,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/760/bioma-sel.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/761/chloracide.jpg",
+      "product_names": [
+        "CHLORACIDE FL2 (2.6% chlore actif)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/produits-pour-le-traitement-assainissant-des-vegetaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-fl2-26-chlore-actif"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/9d1ebf8f932c4d9b13683e14.jpg",
+      "sha256": "9d1ebf8f932c4d9b13683e14e82d23a2eeede3bda3180d8c69df5782e29ddfc8",
+      "bytes": 386231,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/761/chloracide.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/762/detafoam.jpg",
+      "product_names": [
+        "DETAFOAM PS60"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-ps60"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e5964fea4d88fd419721e0cc.jpg",
+      "sha256": "e5964fea4d88fd419721e0cce48d0da363ca5c6d65b30cd80c9e6b9c6d4abf37",
+      "bytes": 498932,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/762/detafoam.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/764/h.jpg",
+      "product_names": [
+        "CHLORACIDE PLUS 15% LB"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-entretien-du-textile-et-linge-professionnel/blanchiment-et-decontamination-du-linge"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-plus-15-lb"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/011ad34cfa662a3ef830113c.jpg",
+      "sha256": "011ad34cfa662a3ef830113c86a65bd9ef9180701981f17ecbd295491f6e9cff",
+      "bytes": 118907,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/764/h.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/765/AGRONET-ALCALIN-K50-CP.jpg",
+      "product_names": [
+        "AGRONET ALCALIN K50"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-alcalin-k50"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/professional/agronet-alcalin-k50-cp.jpg",
+      "sha256": "a545d21fa825346765a76e7bae74699d107d29be14352c54c0428bf6bf713564",
+      "bytes": 513745,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/765/AGRONET-ALCALIN-K50-CP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/766/AGRONET.jpg",
+      "product_names": [
+        "AGRONET ACIDE P70"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-acide-p70"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/2eddb660a4f10e03af68fc30.jpg",
+      "sha256": "2eddb660a4f10e03af68fc302c7721219cf93c897eaad5bbd6667dbe6f14143d",
+      "bytes": 489856,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/766/AGRONET.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/767/ALCANEP-33N.jpg",
+      "product_names": [
+        "ALCANEP N33"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/alcanep-n33"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/852b6ed6a4c5589e5428ab09.jpg",
+      "sha256": "852b6ed6a4c5589e5428ab0932db72d7655b9d66821980d1cfb5f01d13a20bfa",
+      "bytes": 486647,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/767/ALCANEP-33N.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/768/NITRICIP.jpg",
+      "product_names": [
+        "NITRICIP 63N"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nitricip-63n"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/0af0ca28778d2ebe4a24cd34.jpg",
+      "sha256": "0af0ca28778d2ebe4a24cd34103a63f69696353e57763da21f57e4d176bf5737",
+      "bytes": 487398,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/768/NITRICIP.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/769/neutrocide-A80.jpg",
+      "product_names": [
+        "NEUTROCIDE A50"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/neutrocide-a50"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8b1fd6fc79f231379043f705.jpg",
+      "sha256": "8b1fd6fc79f231379043f705a7975501d4fb00c68fcec8f212985a454f8a0446",
+      "bytes": 500355,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/769/neutrocide-A80.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/770/CHLORACIDE-T80.jpg",
+      "product_names": [
+        "CHLORACIDE T80"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-t80"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4c6a10f901d4732e3d564300.jpg",
+      "sha256": "4c6a10f901d4732e3d5643009abf69800b6b1edf3aa333c2baea5e297397a6fc",
+      "bytes": 574758,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/770/CHLORACIDE-T80.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/772/CHLORACIDE-PLUS.jpg",
+      "product_names": [
+        "CHLORACIDE PLUS"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chloracide-plus"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/a50d82397a589dc11e500c55.jpg",
+      "sha256": "a50d82397a589dc11e500c55d1fecc91fd95ceb331f679b5f39c3a57c9816503",
+      "bytes": 526322,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/772/CHLORACIDE-PLUS.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/773/AGRONEUTRE-TC.jpg",
+      "product_names": [
+        "AGRONEUTRE TC"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/lhygiene-en-industrie-de-transformation-agro-alimentaire/hygiene-des-sols-surfaces-et-materiel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agroneutre-tc"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/b0130e1142754a1ac98e5dfa.jpg",
+      "sha256": "b0130e1142754a1ac98e5dfaae2118e3b4bbb241cbca4564f1f6f0acf9fdcc2d",
+      "bytes": 342719,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/773/AGRONEUTRE-TC.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/778/HUILE-COSM1.webp",
+      "product_names": [
+        "LES HUILES VEGETALES AUX VERTUS COSMETIQUES"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-huiles-vegetales-grade-cosmetique"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/les-huiles-vegetales-aux-vertus-cosmetiques"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/ranges/cosmetic/les-huiles-vegetales-aux-vertus-cosmetiques.webp",
+      "sha256": "bda4269ce4b7c35be96480c357ab87aae47ac68b5b705616c40d330c3bb2d989",
+      "bytes": 78840,
+      "dimensions": [
+        1500,
+        586
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/791/AGRONET-ALCALIN-TP-01.jpg",
+      "product_names": [
+        "AGRONET ALCALIN TP 01"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agronet-alcalin-tp-01"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/5db62deb371f756c2207d584.jpg",
+      "sha256": "5db62deb371f756c2207d584a7029f93f4b75ec92faaf68f290cb76a8e8c2e9f",
+      "bytes": 426882,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/791/AGRONET-ALCALIN-TP-01.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/792/DECANET-PRO-TP-02.jpg",
+      "product_names": [
+        "DECANET PRO TP 02"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/decanet-pro-tp-02"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ff8147813a82a9d006fecb3d.jpg",
+      "sha256": "ff8147813a82a9d006fecb3d5f1c83c8ffad9ae07176e3ed3ef19c283e204f89",
+      "bytes": 477669,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/792/DECANET-PRO-TP-02.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/793/SOLVANET-TP-03.jpg",
+      "product_names": [
+        "SOLVANET TP 03"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/solvanet-tp-03"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/d80f62e48eece385bc97bd66.jpg",
+      "sha256": "d80f62e48eece385bc97bd66349ccb55fa61af9d058fc06cddce414bee4aa7b1",
+      "bytes": 447672,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/793/SOLVANET-TP-03.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/796/UNIVERDET-TP-04.jpg",
+      "product_names": [
+        "UNIVERDET TP 04"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/univerdet-tp-04"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/eb09a38626f8d90c3e10ae13.jpg",
+      "sha256": "eb09a38626f8d90c3e10ae13bd9e0de5d1ed5f85ded6e04cb2949ff2f3c0db10",
+      "bytes": 455537,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/796/UNIVERDET-TP-04.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/797/SURFAZYME-TP-E5.jpg",
+      "product_names": [
+        "SURFAZYME TP E5"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/surfazyme-tp-e5"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/af572c422f8b409671921047.jpg",
+      "sha256": "af572c422f8b40967192104798156dd4d0f3fb4f39f38a78d185faae60ce28c7",
+      "bytes": 465335,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/797/SURFAZYME-TP-E5.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/798/AGRONEUTRE--TP-06.jpg",
+      "product_names": [
+        "AGRONEUTRE TP 06"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/agroneutre-tp-06"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/7d2e2aa6514f733a2660b805.jpg",
+      "sha256": "7d2e2aa6514f733a2660b805f6d8b7c296859299faa28cd821ed65139d8b085c",
+      "bytes": 447312,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/798/AGRONEUTRE--TP-06.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/799/DETAFOAM-inox-TP-07.jpg",
+      "product_names": [
+        "DETAFOAM inox TP 07"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-inox-tp-07"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/4adbc9adfbecd81ae955db58.jpg",
+      "sha256": "4adbc9adfbecd81ae955db584af9bc074d6884eb9f1af1216c2061fa14096f3d",
+      "bytes": 390196,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/799/DETAFOAM-inox-TP-07.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/800/DETAFOAM-ANTISCAL-TP-08.jpg",
+      "product_names": [
+        "DETAFOAM ANTISCAL TP 08"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-antiscal-tp-08"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/1e141370aa78fd03c9b5a400.jpg",
+      "sha256": "1e141370aa78fd03c9b5a400f7ba482b670e109328a0263b59bd7b7015b0e6f2",
+      "bytes": 451691,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/800/DETAFOAM-ANTISCAL-TP-08.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/801/DETAFOAM-inox-TP-08.jpg",
+      "product_names": [
+        "DETAZYMES TP-09"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detazymes-tp-09"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/fca88f068ac74f0963ef90ab.jpg",
+      "sha256": "fca88f068ac74f0963ef90abc1b53c9a6628a555dd2f389f6611d7cbb4c73069",
+      "bytes": 363280,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/801/DETAFOAM-inox-TP-08.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/803/VITROL-TP-10.jpg",
+      "product_names": [
+        "VITROL TP 10"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/vitrol-tp-10"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/ranges/professional/vitrol-tp-10.jpg",
+      "sha256": "f31bb7b5aab6dde246984d391dd9552a503a765b81d81e15a147bc00df07ced9",
+      "bytes": 409955,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/803/VITROL-TP-10.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/804/RENOCARPET--TP-11.jpg",
+      "product_names": [
+        "RENOCARPET TP 11"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/renocarpet-tp-11"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8254af79fd06429d21869351.jpg",
+      "sha256": "8254af79fd06429d218693515bd60e7c9fe32b99def5d314ff025cf5c9cccafb",
+      "bytes": 449987,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/804/RENOCARPET--TP-11.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/806/DECAMABRE--TP-12.jpg",
+      "product_names": [
+        "DECAMABRE TP 12"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/decamabre-tp-12"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/0ee368b2e82634cac545f086.jpg",
+      "sha256": "0ee368b2e82634cac545f0868eb3e69d0024763a636d6440601d407e86a23173",
+      "bytes": 387704,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/806/DECAMABRE--TP-12.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/807/CRISTAMARBRE--TP-13.jpg",
+      "product_names": [
+        "CRISTAMARBRE TP 13"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/cristamarbre-tp-13"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8e0ed4bd583848f2c321aecf.jpg",
+      "sha256": "8e0ed4bd583848f2c321aecf88bd98990e2cd32fb684367ba624d62f0853153d",
+      "bytes": 440984,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/807/CRISTAMARBRE--TP-13.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/808/LUSTRAMARBRE-TP-14.jpg",
+      "product_names": [
+        "LUSTRAMARBRE TP 14"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/lustramarbre-tp-14"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/c05cafad5d0f07249dcfcbe7.jpg",
+      "sha256": "c05cafad5d0f07249dcfcbe777ad03c9ecb4a8fe4a9d8566be43ead667caee70",
+      "bytes": 414736,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/808/LUSTRAMARBRE-TP-14.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/810/PARQUET-REMOVER-TP-15.jpg",
+      "product_names": [
+        "PARQUET REMOVER TP 15"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-traitement-des-sols-et-surfaces"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/parquet-remover-tp-15"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/35919ed017b8da665e50b2e1.jpg",
+      "sha256": "35919ed017b8da665e50b2e1b538940323d4b0e3aa1f020693bb4c8f6e783796",
+      "bytes": 445390,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/810/PARQUET-REMOVER-TP-15.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/812/DETAZYMES-TP-17.jpg",
+      "product_names": [
+        "DETAZYMES TP 17"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/boutique?category=hygiene-et-traitement-des-sols-et-surfaces&page=2"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detazymes-tp-17"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/b06e82ea2b042e46d409f315.jpg",
+      "sha256": "b06e82ea2b042e46d409f315f144d0c2ca9d11ce0986d8a6c88aa11914f3a0be",
+      "bytes": 363335,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/812/DETAZYMES-TP-17.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/814/AIR-FRESH-AMBIANCE-TP-18.jpg",
+      "product_names": [
+        "AIR FRESH AMBIANCE TP 18"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/boutique?category=hygiene-et-traitement-des-sols-et-surfaces&page=2"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/air-fresh-ambiance-tp-18"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ec490fa556c5092be4ba1cf1.jpg",
+      "sha256": "ec490fa556c5092be4ba1cf1c63e22912206657458d0972eaa674ae10a19a3df",
+      "bytes": 425950,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/814/AIR-FRESH-AMBIANCE-TP-18.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/818/soap.jpg",
+      "product_names": [
+        "BIOMA SOAP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-soap"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/ranges/cosmetic/bioma-soap.jpg",
+      "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a",
+      "bytes": 447914,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/819/bioma-es.jpg",
+      "product_names": [
+        "BIOMA EC90"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-ec90"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+      "sha256": "d0697bcaf1227463f589541127b11f8d7757ad7e3e9c33f741a52e5e7438ab28",
+      "bytes": 449028,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/819/bioma-es.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/820/bidon.jpg",
+      "product_names": [
+        "BIOMA Hair Care"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-hair-care"
+      ],
+      "catalogues": [
+        "matiere-premiere-cosmetique.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-hair-care-free-sulfate.jpg",
+      "sha256": "26dede546b15d2df1f10349c0bf7ea84b0f1b522c86e9abe85703b7b64bf8586",
+      "bytes": 426034,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/820/bidon.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/884/DETAFOAM-inox-TP-08.jpg",
+      "product_names": [
+        "DETAFOAM ANTISCAL"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/produits-dentretien-et-additifs-pour-machine-lave-vaisselle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/detafoam-antiscal"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/fca88f068ac74f0963ef90ab.jpg",
+      "sha256": "fca88f068ac74f0963ef90abc1b53c9a6628a555dd2f389f6611d7cbb4c73069",
+      "bytes": 363280,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/884/DETAFOAM-inox-TP-08.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/886/photo-OXYCIDE-AP8.jpg",
+      "product_names": [
+        "OXYCIDE FL2"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/produits-pour-le-traitement-assainissant-des-vegetaux"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/oxycide-fl2"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ac95947cfbdb4fb28f89db9c.jpg",
+      "sha256": "ac95947cfbdb4fb28f89db9c7515d478b9cfd1105f4633ba912196fe206ff4f8",
+      "bytes": 123838,
+      "dimensions": [
+        1713,
+        1101
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/886/photo-OXYCIDE-AP8.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/901/BIOMASEPTOL-SHA.jpg",
+      "product_names": [
+        "BIOMASEPTOL SHA/70"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha70"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/500f2d8b5d1d2ccc239f92b4.jpg",
+      "sha256": "500f2d8b5d1d2ccc239f92b42681aeea8984922f974cf3deaf3e268ba8f4aef2",
+      "bytes": 56470,
+      "dimensions": [
+        1600,
+        1600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/901/BIOMASEPTOL-SHA.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/903/bioma-antiseptique.png",
+      "product_names": [
+        "BIOMA ANTISEPTIQUE CP"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-cuisines-professionnelles/hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-antiseptique-cp"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/25ac7ec08444c5a0a4f19b3f.png",
+      "sha256": "25ac7ec08444c5a0a4f19b3f032e8e5c9290daf190cf66c89e2b8a6e3c61ee8c",
+      "bytes": 567359,
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/903/bioma-antiseptique.png"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/905/bioma-antiseptique.png",
+      "product_names": [
+        "BIOMA antiseptique C"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-mains-et-des-lavettes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-antiseptique-c"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/25ac7ec08444c5a0a4f19b3f.png",
+      "sha256": "25ac7ec08444c5a0a4f19b3f032e8e5c9290daf190cf66c89e2b8a6e3c61ee8c",
+      "bytes": 567359,
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/905/bioma-antiseptique.png"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/909/FORTICIDE.jpg",
+      "product_names": [
+        "FORTICIDE GENERATOR SURFASPRAY ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-des-mains-et-des-lavettes"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/forticide-generator-surfaspray-st"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e822dae251c429e2c1238232.jpg",
+      "sha256": "e822dae251c429e2c1238232acbe19a474ce8d9ef5ddf7deb18cbb982288c51b",
+      "bytes": 8794,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/909/FORTICIDE.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/910/BASE-CREM.jpg",
+      "product_names": [
+        "VASOPIS"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-et-prophylaxie-de-traite/hygiene-de-la-mamelle"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/vasopis"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+      "sha256": "d0697bcaf1227463f589541127b11f8d7757ad7e3e9c33f741a52e5e7438ab28",
+      "bytes": 449028,
+      "dimensions": [
+        4920,
+        3163
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/910/BASE-CREM.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/911/HYDROCIDE.jpg",
+      "product_names": [
+        "HYDROCIDE 50 LV"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-eau-dabreuvage"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/hydrocide-50-lv"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/e41ae5c9c62b1c026aa116ea.jpg",
+      "sha256": "e41ae5c9c62b1c026aa116ea6ed27628e59febfa0c569248bbd6f9d8988bd527",
+      "bytes": 8974,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/911/HYDROCIDE.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/918/PAC.jpg",
+      "product_names": [
+        "POLY ALUMINIUM CHLORIDE (PAC)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/poly-aluminium-chloride-pac"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/water/poly-aluminium-chloride-pac.jpg",
+      "sha256": "0a8bfb6062da4c1726a559d260a87e46331e3e55efa2ddac129f0cad21f2a187",
+      "bytes": 81407,
+      "dimensions": [
+        800,
+        800
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/919/PAC1.jpg",
+      "product_names": [
+        "CHAUX VIVE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/chaux-vive"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/1b6e9e4d5b57309c69eec7b9.jpg",
+      "sha256": "1b6e9e4d5b57309c69eec7b93921c05f272309b74cd9619fe3a5986a6538cbd7",
+      "bytes": 45290,
+      "dimensions": [
+        700,
+        700
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/919/PAC1.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/920/PAC2.jpg",
+      "product_names": [
+        "NUTRIBACTER (18 -3,6 - 5) Nutriment pour boues activées en traitement des eaux usées"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nutribacter-18-36-5-nutriment-pour-boues-activees-en-traitement-des-eaux-usees"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/8c45216944103eaa8b199ce2.jpg",
+      "sha256": "8c45216944103eaa8b199ce2ce77fcb6c402394d72b69badc4a94fa489806b5e",
+      "bytes": 120576,
+      "dimensions": [
+        1200,
+        1220
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/920/PAC2.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/922/PAC4.jpg",
+      "product_names": [
+        "PEROXYDE D'HYDROGENE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/peroxyde-dhydrogene"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/industry/peroxyde-d-hydrogene.jpg",
+      "sha256": "34eac36addc15fafced35e9081d97abcddcd676b05a02f0c1cca224cf443988b",
+      "bytes": 22219,
+      "dimensions": [
+        747,
+        437
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/926/PAC6.jpg",
+      "product_names": [
+        "HYDROXYDE DE SODIUM"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/hydroxyde-de-sodium"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/industry/hydroxyde-de-sodium.jpg",
+      "sha256": "d3ec1d947ca4a4b061eec4122ab50b4106d3d7649e8e0f2e1e054eba679f29dc",
+      "bytes": 25347,
+      "dimensions": [
+        640,
+        480
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/927/PAC7.jpg",
+      "product_names": [
+        "HYPOCHLORITE DE SODIUM 48-50°"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/hypochlorite-de-sodium-48-50"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/525b8ad3e25ef5216c0b78a9.jpg",
+      "sha256": "525b8ad3e25ef5216c0b78a98dd141f14bec88cf804f19fb2760acef1f158b12",
+      "bytes": 98832,
+      "dimensions": [
+        600,
+        600
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/927/PAC7.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/929/pac8.jpg",
+      "product_names": [
+        "NOFOAM TP-S"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nofoam-tp-s"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/catalogue-images/16d58656d43f24de296255de.jpg",
+      "sha256": "16d58656d43f24de296255de07cee0a7541514ad1bbf786916aaa789bed8bf0a",
+      "bytes": 9803,
+      "dimensions": [
+        190,
+        190
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/929/pac8.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/930/PAC9.jpg",
+      "product_names": [
+        "ACIDE SULFURIQUE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/acide-sulfurique"
+      ],
+      "catalogues": [
+        "traitement-des-eaux.json"
+      ],
+      "local_path": "assets/site/ranges/industry/acide-sulfurique.jpg",
+      "sha256": "b09332d849b30d0cda0a6217dd19617b86a765d95b781c4824a9ce7a1b436bf2",
+      "bytes": 46553,
+      "dimensions": [
+        800,
+        800
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/975/0f44a473fa60855350f1d9b2d600e304.jpg",
+      "product_names": [
+        "SUPER ROBOT jante/moteur"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-jantemoteur"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/catalogue-images/de88bffe04c4803db2e968b8.jpg",
+      "sha256": "de88bffe04c4803db2e968b8a5034f36ed09b58a77bd2686d3be89a1a86e5e30",
+      "bytes": 716799,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/975/0f44a473fa60855350f1d9b2d600e304.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/976/60efed793bc674cac75a0847ee7f3344.jpg",
+      "product_names": [
+        "SUPER ROBOT DETACHANT TISSU A SEC"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-detachant-tissu-a-sec"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/ranges/vehicles/super-robot-detachant-tissu-a-sec.jpg",
+      "sha256": "c3ffbf93dcb60d852786e6ebc594b6b67bdb9534d1aeec9961d483729fd23217",
+      "bytes": 736112,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/977/3f9d00bb54c5cb25a4d55629f286409f.jpg",
+      "product_names": [
+        "SUPER ROBOT NT/50 TYRE SHINE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-nt50-tyre-shine"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/catalogue-images/277d12e8ac8dfd9ac2675eb4.jpg",
+      "sha256": "277d12e8ac8dfd9ac2675eb429e214163260733bdea1a48696b23edecebb6638",
+      "bytes": 735135,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/977/3f9d00bb54c5cb25a4d55629f286409f.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/979/6faf04b97d50e5e2cae4524cfd805f27.jpg",
+      "product_names": [
+        "SUPER ROBOT NETTOYANT ET RENOVATEUR"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-nettoyant-et-renovateur"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/catalogue-images/009f80e391068692c778eb91.jpg",
+      "sha256": "009f80e391068692c778eb91628e081d9ffd6d947ce322b411eb4fad075164cf",
+      "bytes": 8166,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/979/6faf04b97d50e5e2cae4524cfd805f27.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/981/ANTIGEL.jpg",
+      "product_names": [
+        "ROCKET PREMELANGE 50/50 (-37°c)"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/rocket-premelange-5050-37c"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/catalogue-images/5b664b1072bdb2d5b9b46ef4.jpg",
+      "sha256": "5b664b1072bdb2d5b9b46ef46e4e131a13acd2a1a5580b7fa424a94bd13cca64",
+      "bytes": 16004,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/jpeg",
+      "resolved_url": "https://saraprocmaroc.com/storage/981/ANTIGEL.jpg"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/984/CHAMPOING-AUTO.jpg",
+      "product_names": [
+        "SUPER ROBOT SHAMPOING AUTO TOUT EN UN"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-shampoing-auto-tout-en-un"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/ranges/vehicles/super-robot-shampoing-auto-tout-en-un.jpg",
+      "sha256": "a74b4747605696a3b3e49d4e9fcd45da2140396319e11b5667b6ae322ae18b1c",
+      "bytes": 22900,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/985/GLACE.jpg",
+      "product_names": [
+        "SUPER ROBOT LAVE GLACE AUTO CONCENTRE"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/super-robot-lave-glace-auto-concentre"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/ranges/vehicles/super-robot-lave-glace-auto-concentre.jpg",
+      "sha256": "6a34205079e273dbb1a6296dab5119eca96755241e1b2e4be3111ded3c771fd4",
+      "bytes": 19790,
+      "dimensions": [
+        800,
+        533
+      ],
+      "reused_existing": true,
+      "original_bytes": true,
+      "verified_tls": true
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/986/ADBLUE1.png",
+      "product_names": [
+        "AdBlue ROCKET"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/produits-de-lavage-et-dentretien-des-vehicules/produits-de-lavage-et-dentretien-auto-professionnels"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/adblue-rocket"
+      ],
+      "catalogues": [
+        "produits-de-lavage-et-dentretien-des-vehicules.json"
+      ],
+      "local_path": "assets/site/catalogue-images/ee4b092b606364ef6a33ff3e.png",
+      "sha256": "ee4b092b606364ef6a33ff3ec153c4c2eff69c94d39194f803295323cdfb2553",
+      "bytes": 181494,
+      "dimensions": [
+        660,
+        480
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/986/ADBLUE1.png"
+    },
+    {
+      "image_url": "https://saraprocmaroc.com/storage/987/bioma-antiseptique.png",
+      "product_names": [
+        "BIOMA antiseptique/ST"
+      ],
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-et-institutionnelle/hygiene-des-batiments-delevage/biosecurite-interne-hygiene-du-personnel"
+      ],
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-antiseptiquest"
+      ],
+      "catalogues": [
+        "hygiene-professionnelle-et-institutionnelle.json"
+      ],
+      "local_path": "assets/site/catalogue-images/25ac7ec08444c5a0a4f19b3f.png",
+      "sha256": "25ac7ec08444c5a0a4f19b3f032e8e5c9290daf190cf66c89e2b8a6e3c61ee8c",
+      "bytes": 567359,
+      "dimensions": [
+        2000,
+        2000
+      ],
+      "reused_existing": false,
+      "original_bytes": true,
+      "verified_tls": true,
+      "content_type": "image/png",
+      "resolved_url": "https://saraprocmaroc.com/storage/987/bioma-antiseptique.png"
+    }
+  ],
+  "skipped": [
+    {
+      "product_name": "GERMACID SHA SURFASPRAY HD",
+      "product_url": "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray-hd",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "OXYCIDE QUICK AP/15 CIDEX HD",
+      "product_url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-hd",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "GERMACID E4 ANTITACHE SURFASPRAY",
+      "product_url": "https://www.saraprocmaroc.com/boutique/germacid-e4-antitache-surfaspray",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "NETTOYANT, DESINFECTANT ET DESODORISANT",
+      "product_url": "https://www.saraprocmaroc.com/boutique/nettoyant-desinfectant-et-desodorisant",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "CHLORACIDE 2.6% CIDEX/01HS",
+      "product_url": "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex01hs",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "CIDEX AIR FRESH AMBIANCE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/cidex-air-fresh-ambiance",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-en-milieu-medicale.json"
+    },
+    {
+      "product_name": "BIOMA nature multi-usage",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-multi-usage",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "BIOMA nature DETAZYMES TP-E4",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-detazymes-tp-e4",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "BIOMA nature MARBRE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-marbre",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "BIOMA nature SANITARY FLOOR",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-sanitary-floor",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "BIOMA nature VITRAL",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-vitral",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "BIOMA nature RENOCARPET",
+      "product_url": "https://www.saraprocmaroc.com/boutique/bioma-nature-renocarpet",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-ecologique.json"
+    },
+    {
+      "product_name": "AGRONET ACIDE PS 25 CP",
+      "product_url": "https://www.saraprocmaroc.com/boutique/agronet-acide-ps-25-cp",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "NEUTROCIDE V3",
+      "product_url": "https://www.saraprocmaroc.com/boutique/neutrocide-v3",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "BIOMATIC PRO 90",
+      "product_url": "https://www.saraprocmaroc.com/boutique/biomatic-pro-90",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "ELVANET 2000 SE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/elvanet-2000-se",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "HYDROCIDE 50 SE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/hydrocide-50-se",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "DERETANG /FF215",
+      "product_url": "https://www.saraprocmaroc.com/boutique/deretang-ff215",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "hygiene-professionnelle-et-institutionnelle.json"
+    },
+    {
+      "product_name": "Acide phosphorique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20phosphorique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide phosphoreux",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20phosphoreux",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide lactique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20lactique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide nitrique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20nitrique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide citrique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20citrique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide sulfurique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20sulfurique",
+      "image_url": "https://saraprocmaroc.com/storage/930/PAC9.jpg",
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide chlorhydrique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20chlorhydrique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide acétique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20ac%C3%A9tique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide sulfamique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20sulfamique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide oxalique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20oxalique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide formique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20formique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide fluorhydrique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20fluorhydrique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide fluorosilicique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20fluorosilicique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide etiedronque",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20etiedronque",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide dodocyl benzene sulphonique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20dodocyl%20benzene%20sulphonique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide maliéque",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20mali%C3%A9que",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide phtalique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20phtalique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide ascorbique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20ascorbique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide glycolique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20glycolique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide tartrique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20tartrique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide benzoïque",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20benzo%C3%AFque",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Hydroxyde de sodium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Hydroxyde%20de%20sodium",
+      "image_url": "https://saraprocmaroc.com/storage/926/PAC6.jpg",
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Hydroxyde de potassium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Hydroxyde%20de%20potassium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Carbnate de sodium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Carbnate%20de%20sodium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Cabonate de potassium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Cabonate%20de%20potassium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Carbonate de calcium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Carbonate%20de%20calcium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Bicarbonate de sodium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Bicarbonate%20de%20sodium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Ammoniaque",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Ammoniaque",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Monoethanolamine",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Monoethanolamine",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Triethanolamine",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Triethanolamine",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Silicate de sodium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Silicate%20de%20sodium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Silicate de potassium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Silicate%20de%20potassium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Metasilicate de sodium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Metasilicate%20de%20sodium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "éthanol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#%C3%A9thanol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "méthanol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#m%C3%A9thanol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "isopropanol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#isopropanol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétone",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tone",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétate d'éthyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tate%20d%27%C3%A9thyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétate de butyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tate%20de%20butyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétate de méthyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tate%20de%20m%C3%A9thyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétate d’isobutyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tate%20d%E2%80%99isobutyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "acétate d’isopropyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ac%C3%A9tate%20d%E2%80%99isopropyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Ester éthylique d’huile végétale",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Ester%20%C3%A9thylique%20d%E2%80%99huile%20v%C3%A9g%C3%A9tale",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "ester méthylique d’huile végétale",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#ester%20m%C3%A9thylique%20d%E2%80%99huile%20v%C3%A9g%C3%A9tale",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "butyl glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#butyl%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "butyl diglycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#butyl%20diglycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "propylene glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#propylene%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "monoethylene glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#monoethylene%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "polyethylene glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#polyethylene%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "N,N-Diméthylformamide",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#N%2CN-Dim%C3%A9thylformamide",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Diméthylsulfoxyde",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Dim%C3%A9thylsulfoxyde",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Hexaméthylphosphoramide",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Hexam%C3%A9thylphosphoramide",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Perchloroéthylène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Perchloro%C3%A9thyl%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Trichloréthylène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Trichlor%C3%A9thyl%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Dichlorométhane",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Dichlorom%C3%A9thane",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Trichloromethane (Chloroforme)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Trichloromethane%20%28Chloroforme%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Tétrachlorométhane",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#T%C3%A9trachlorom%C3%A9thane",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de méthylène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20m%C3%A9thyl%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Hexane",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Hexane",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Cyclohexane",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Cyclohexane",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Oléfines",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Ol%C3%A9fines",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Benzène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Benz%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "toluène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#tolu%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "xylène",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#xyl%C3%A8ne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Cocoate de glycérol PEG 7",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Cocoate%20de%20glyc%C3%A9rol%20PEG%207",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Myristate d’isopropyle",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Myristate%20d%E2%80%99isopropyle",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Oléate de sorbitan",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Ol%C3%A9ate%20de%20sorbitan",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Polysorbate 20",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Polysorbate%2020",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Polysorbate 60",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Polysorbate%2060",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Polysorbate 80",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Polysorbate%2080",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Stéarate de glycérol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#St%C3%A9arate%20de%20glyc%C3%A9rol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Stéarate de glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#St%C3%A9arate%20de%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Stéarate de zinc",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#St%C3%A9arate%20de%20zinc",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Stéarate de propylène glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#St%C3%A9arate%20de%20propyl%C3%A8ne%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Trioléate de glycérol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Triol%C3%A9ate%20de%20glyc%C3%A9rol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Monolaurate de sorbitan",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Monolaurate%20de%20sorbitan",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool ethylique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20ethylique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool ispropylique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20ispropylique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool méthylique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20m%C3%A9thylique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool butylique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20butylique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "alcool benzylique",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#alcool%20benzylique",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Mon éthylène glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Mon%20%C3%A9thyl%C3%A8ne%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Propylène glycol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Propyl%C3%A8ne%20glycol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Glycérine",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Glyc%C3%A9rine",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sorbitol",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sorbitol",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool cétylique pur C16",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20c%C3%A9tylique%20pur%20C16",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool stéarylique pur C18",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20st%C3%A9arylique%20pur%20C18",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcools cetostearylique C16 / C18",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcools%20cetostearylique%20C16%20%2F%20C18",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sodium Lauryl Sulfate (SLS) ou Laurylsulfate de sodium (SDS)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sodium%20Lauryl%20Sulfate%20%28SLS%29%20ou%20Laurylsulfate%20de%20sodium%20%28SDS%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sodium Laureth Sulfate (SLES)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sodium%20Laureth%20Sulfate%20%28SLES%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sodium Cocoyl Isethionate",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sodium%20Cocoyl%20Isethionate",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sodium Coco-sulfate (SCS)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sodium%20Coco-sulfate%20%28SCS%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alpha-oléfine sulfonée (Sodium C14-16 Olefin Sulfonate)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alpha-ol%C3%A9fine%20sulfon%C3%A9e%20%28Sodium%20C14-16%20Olefin%20Sulfonate%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Sodium Dodecylsulfate",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Sodium%20Dodecylsulfate",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Disodium Lauryl Sulfosuccinate (DLSS)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Disodium%20Lauryl%20Sulfosuccinate%20%28DLSS%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Acide polyglycol ester",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Acide%20polyglycol%20ester",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool décylique polyglycolether",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20d%C3%A9cylique%20polyglycolether",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool gras éthoxylé C12/14 (Laureth-x)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20gras%20%C3%A9thoxyl%C3%A9%20C12%2F14%20%28Laureth-x%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool gras éthoxylé C16/18",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20gras%20%C3%A9thoxyl%C3%A9%20C16%2F18",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool gras ethoxylé C18 + 2 EO",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20gras%20ethoxyl%C3%A9%20C18%20%2B%202%20EO",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool isodécyl polyglycolether",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20isod%C3%A9cyl%20polyglycolether",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool isotridécyl polyglycolether",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20isotrid%C3%A9cyl%20polyglycolether",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcool polyglycolether",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcool%20polyglycolether",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcools C9/C11 éthoxylés (Rokanol NL)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcools%20C9%2FC11%20%C3%A9thoxyl%C3%A9s%20%28Rokanol%20NL%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alcools gras éthoxylés propoxylés (Rokanol LP)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alcools%20gras%20%C3%A9thoxyl%C3%A9s%20propoxyl%C3%A9s%20%28Rokanol%20LP%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Cococamide DEA & Laureth-2",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Cococamide%20DEA%20%26%20Laureth-2",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Cocamidopropyl bétaïne",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Cocamidopropyl%20b%C3%A9ta%C3%AFne",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Alkylbétaïnes",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Alkylb%C3%A9ta%C3%AFnes",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "sulfobétaïnes",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#sulfob%C3%A9ta%C3%AFnes",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "alkylamidobétaïnes",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#alkylamidob%C3%A9ta%C3%AFnes",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de cétyltriméthylammonium (CTAC)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20c%C3%A9tyltrim%C3%A9thylammonium%20%28CTAC%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de dodécyltriméthylammonium (DTAC)",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20dod%C3%A9cyltrim%C3%A9thylammonium%20%28DTAC%29",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de tétradécyltriméthylammonium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20t%C3%A9trad%C3%A9cyltrim%C3%A9thylammonium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Bromure de dodécyltriméthylammonium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Bromure%20de%20dod%C3%A9cyltrim%C3%A9thylammonium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de tétrabutylammonium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20t%C3%A9trabutylammonium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "Chlorure de benzalkonium",
+      "product_url": "https://www.saraprocmaroc.com/boutique/liste-des-produits-chimiques-pour-les-industriels#Chlorure%20de%20benzalkonium",
+      "image_url": null,
+      "reason": "pdf_reference_not_live_product_photo_target",
+      "catalogue": "produits-chimiques-industriels.json"
+    },
+    {
+      "product_name": "AQUALER CR-01",
+      "product_url": "https://www.saraprocmaroc.com/boutique/aqualer-cr-01",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "NEUTROCIDE A50/CR",
+      "product_url": "https://www.saraprocmaroc.com/boutique/neutrocide-a50cr",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "OXYCIDE AP/8- CR",
+      "product_url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cr",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "generic_placeholder_not_product_photo",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLEU CHLORE LENT EN GALET 200g",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-bleu-chlore-lent-en-galet-200g",
+      "image_url": "https://saraprocmaroc.com/storage/947/clore-lent.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLEU FLOCULANT CLARIFIANT EN GRANULES",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-bleu-floculant-clarifiant-en-granules",
+      "image_url": "https://saraprocmaroc.com/storage/945/floculant.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLEU CHLORE DE CHOC GRANULE 70% min",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-bleu-chlore-de-choc-granule-70-min",
+      "image_url": "https://saraprocmaroc.com/storage/946/chlore-choc.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLUE pH Minus (pH-) LIQUIDE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-blue-ph-minus-ph-liquide",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLEU pH + EN POUDRE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-bleu-ph-en-poudre",
+      "image_url": "https://saraprocmaroc.com/storage/944/ph-+-poudre.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLUE ALGICIDE MULTIFONCTION CONENTRE",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-blue-algicide-multifonction-conentre",
+      "image_url": "https://saraprocmaroc.com/storage/943/algecide.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    },
+    {
+      "product_name": "WATER BLEU DETARTRANT INTENSIF DES BASSINS",
+      "product_url": "https://www.saraprocmaroc.com/boutique/water-bleu-detartrant-intensif-des-bassins",
+      "image_url": "https://saraprocmaroc.com/storage/942/floculant.png",
+      "reason": "outside_video_scope",
+      "catalogue": "traitement-des-eaux.json"
+    }
+  ],
+  "failures": [],
+  "visual_qa": {
+    "all_images_reviewed": true,
+    "review_method": "Three labelled contact sheets covering every one of the 146 image URLs. Known washroom banners are excluded; reviewed images show official packshots, industrial packaging or cosmetic-oil bottles.",
+    "source_reuses_same_photo_for_multiple_names": true,
+    "note": "Several official product listings reuse identical photos across variant names. URL provenance and SHA-256 deduplication preserve this source behaviour; distinct product names are retained."
+  }
+}

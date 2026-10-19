@@ -1,0 +1,54 @@
+{
+  "source_site": "https://www.saraprocmaroc.com/",
+  "downloaded_at": "2026-10-18",
+  "assets": [
+    {
+      "product_name": "CIRQUAT CDC ESTERS (C40- C46)",
+      "source_page": "https://www.saraprocmaroc.com/boutique/cirquat-cdc-esters-c40-c46",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles",
+      "original_asset_url": "https://saraprocmaroc.com/storage/750/CIRQUAT.jpg",
+      "local_path": "assets/site/ranges/cosmetic/cirquat-cdc-esters-c40-c46.jpg",
+      "sha256": "78da613069842ff4717022d30d371408cf5395a20cc706d6633aaa09de43293b",
+      "bytes": 489754,
+      "dimensions_px": [
+        4920,
+        3163
+      ],
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Official cosmetic raw material / formulation ingredient image; preserve original artwork and avoid representing as a finished retail cosmetic."
+    },
+    {
+      "product_name": "BIOMA SOAP",
+      "source_page": "https://www.saraprocmaroc.com/boutique/bioma-soap",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-bases-cosmetiques-neutres-et-naturelles",
+      "original_asset_url": "https://saraprocmaroc.com/storage/818/soap.jpg",
+      "local_path": "assets/site/ranges/cosmetic/bioma-soap.jpg",
+      "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a",
+      "bytes": 447914,
+      "dimensions_px": [
+        4920,
+        3163
+      ],
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Official cosmetic raw material / formulation ingredient image; preserve original artwork and avoid representing as a finished retail cosmetic."
+    },
+    {
+      "product_name": "LES HUILES VEGETALES AUX VERTUS COSMETIQUES",
+      "source_page": "https://www.saraprocmaroc.com/boutique/les-huiles-vegetales-aux-vertus-cosmetiques",
+      "category_evidence_page": "https://www.saraprocmaroc.com/categories/matiere-premiere-cosmetique/les-huiles-vegetales-grade-cosmetique",
+      "original_asset_url": "https://saraprocmaroc.com/storage/778/HUILE-COSM1.webp",
+      "local_path": "assets/site/ranges/cosmetic/les-huiles-vegetales-aux-vertus-cosmetiques.webp",
+      "sha256": "bda4269ce4b7c35be96480c357ab87aae47ac68b5b705616c40d330c3bb2d989",
+      "bytes": 78840,
+      "dimensions_px": [
+        1500,
+        586
+      ],
+      "verified_tls": true,
+      "asset_modified": false,
+      "usage_note": "Official cosmetic raw material / formulation ingredient image; preserve original artwork and avoid representing as a finished retail cosmetic."
+    }
+  ]
+}

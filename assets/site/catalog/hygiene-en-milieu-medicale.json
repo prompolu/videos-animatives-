@@ -1,0 +1,1376 @@
+{
+  "category_name": "Hygiène en milieu médical",
+  "root_url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale",
+  "retrieved_at": "2026-10-18",
+  "visited_pages": [
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale",
+      "title": "HYGIENE EN MILIEU MEDICALE",
+      "product_count_on_page": 0,
+      "category_name": "Hygiène en milieu médical",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 3,
+      "category_name": "DESINFECTION PAR VOIE AERIENNE (aerosolisation)",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 5,
+      "category_name": "HYGIENE DES MAINS",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 5,
+      "category_name": "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 4,
+      "category_name": "TRAITEMENT DES ENDOSCOPES",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/gel-de-transmission-ultrasonique",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 1,
+      "category_name": "GEL DE TRANSMISSION ULTRASONIQUE",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 5,
+      "category_name": "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau",
+      "title": "HYGIENE DES GENERATEURS D’HEMODIALYSE ET DE LA BOUCLE D'EAU",
+      "product_count_on_page": 0,
+      "category_name": "HYGIENE DES GENERATEURS D’HEMODIALYSE ET DE LA BOUCLE D'EAU",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-externe",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 3,
+      "category_name": "TRAITEMENT EXTERNE",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-interne",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 0,
+      "category_name": "TRAITEMENT INTERNE",
+      "no_products_message": true
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-du-personnel-soignant",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 1,
+      "category_name": "HYGIENE DU PERSONNEL SOIGNANT",
+      "no_products_message": false
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-de-lenvironnement-de-la-salle-de-dialyse",
+      "title": "Notre Boutique de Produits Industriels",
+      "product_count_on_page": 3,
+      "category_name": "HYGIENE DE L’ENVIRONNEMENT DE LA SALLE DE DIALYSE",
+      "no_products_message": false
+    }
+  ],
+  "subcategories": [
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation",
+      "name": "DESINFECTION PAR VOIE AERIENNE (aerosolisation)",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-dsmv-cidex-hp",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-dva-cidex",
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-dva-cidex"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "name": "HYGIENE DES MAINS",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-cidex-d2hf",
+        "https://www.saraprocmaroc.com/boutique/bioma-cidex-d1-scrub-5-pcmx-cg",
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydoalcoolique",
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha",
+        "https://www.saraprocmaroc.com/boutique/dermo-cidex"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "name": "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex",
+        "https://www.saraprocmaroc.com/boutique/germacid-2-cidex",
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-dhn",
+        "https://www.saraprocmaroc.com/boutique/detafoam-ps60-cidex"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "name": "TRAITEMENT DES ENDOSCOPES",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-2-cidex-en",
+        "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes-en",
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-en",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-en"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/gel-de-transmission-ultrasonique",
+      "name": "GEL DE TRANSMISSION ULTRASONIQUE",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-ultrasound-gel"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "name": "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germa-surf-ndd",
+        "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-ss",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-air-fresh-ambiance",
+        "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau",
+      "name": "HYGIENE DES GENERATEURS D’HEMODIALYSE ET DE LA BOUCLE D'EAU",
+      "product_urls": []
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-externe",
+      "name": "TRAITEMENT EXTERNE",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray-hd",
+        "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-hd",
+        "https://www.saraprocmaroc.com/boutique/germacid-e4-antitache-surfaspray"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-interne",
+      "name": "TRAITEMENT INTERNE",
+      "product_urls": []
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-du-personnel-soignant",
+      "name": "HYGIENE DU PERSONNEL SOIGNANT",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomaseptol-sha70m"
+      ]
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-de-lenvironnement-de-la-salle-de-dialyse",
+      "name": "HYGIENE DE L’ENVIRONNEMENT DE LA SALLE DE DIALYSE",
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/nettoyant-desinfectant-et-desodorisant",
+        "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex01hs",
+        "https://www.saraprocmaroc.com/boutique/cidex-air-fresh-ambiance"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "name": "GERMACID DSMV CIDEX/ HP",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-dsmv-cidex-hp",
+      "image_url": "https://saraprocmaroc.com/storage/1160/28--01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation",
+      "subcategories": [
+        "DESINFECTION PAR VOIE AERIENNE (aerosolisation)"
+      ],
+      "aliases": [
+        "GERMACID DSMV CIDEX/ HP"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 13,
+          "source_name": "GERMACID DSMV CIDEX/ HP"
+        }
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 DVA CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-dva-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1179/17-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation",
+      "subcategories": [
+        "DESINFECTION PAR VOIE AERIENNE (aerosolisation)"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AP/15 DVA CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 12,
+          "source_name": "OXYCIDE QUICK AP/15 DVA CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "OXYCIDE AP/8 DVA CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-dva-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1164/20-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/desinfection-par-voie-aerienne-aerosolisation",
+      "subcategories": [
+        "DESINFECTION PAR VOIE AERIENNE (aerosolisation)"
+      ],
+      "aliases": [
+        "OXYCIDE AP/8 DSVA CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 13,
+          "source_name": "OXYCIDE AP/8 DSVA CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "BIOMA CIDEX D2/HF",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-cidex-d2hf",
+      "image_url": "https://saraprocmaroc.com/storage/1037/11-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "subcategories": [
+        "HYGIENE DES MAINS"
+      ],
+      "aliases": [
+        "BIOMA CIDEX D 2/HF"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 5,
+          "source_name": "BIOMA CIDEX D 2/HF"
+        }
+      ]
+    },
+    {
+      "name": "BIOMA CIDEX D1 SCRUB 5% PCMX- CG",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-cidex-d1-scrub-5-pcmx-cg",
+      "image_url": "https://saraprocmaroc.com/storage/1036/12-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "subcategories": [
+        "HYGIENE DES MAINS"
+      ],
+      "aliases": [
+        "BIOMA CIDEX D1SCRUB"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 5,
+          "source_name": "BIOMA CIDEX D1SCRUB"
+        }
+      ]
+    },
+    {
+      "name": "BIOMASEPTOL GEL HYDOALCOOLIQUE",
+      "url": "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydoalcoolique",
+      "image_url": "https://saraprocmaroc.com/storage/1039/8-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "subcategories": [
+        "HYGIENE DES MAINS"
+      ],
+      "aliases": [
+        "BIOMASEPTOL GEL HYDRO-ALCOOLIQUE"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 4,
+          "source_name": "BIOMASEPTOL GEL HYDRO-ALCOOLIQUE"
+        }
+      ]
+    },
+    {
+      "name": "BIOMASEPTOL SHA",
+      "url": "https://www.saraprocmaroc.com/boutique/biomaseptol-sha",
+      "image_url": "https://saraprocmaroc.com/storage/1035/7-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "subcategories": [
+        "HYGIENE DES MAINS"
+      ],
+      "aliases": [
+        "BIOMASEPTOL SHA MAINS"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 4,
+          "source_name": "BIOMASEPTOL SHA MAINS"
+        }
+      ]
+    },
+    {
+      "name": "DERMO-CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/dermo-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1034/5-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-mains",
+      "subcategories": [
+        "HYGIENE DES MAINS"
+      ],
+      "aliases": [
+        "BIOMA DERMO - CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 6,
+          "source_name": "BIOMA DERMO - CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "GERMACID E4 BLEND QUADRIZYMES",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes",
+      "image_url": "https://saraprocmaroc.com/storage/1128/26-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "subcategories": [
+        "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX"
+      ],
+      "aliases": [
+        "GERMACID E4 BLEND QUADRIZYMES"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 15,
+          "source_name": "GERMACID E4 BLEND QUADRIZYMES"
+        }
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1130/18-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "subcategories": [
+        "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AP/15 CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 10,
+          "source_name": "OXYCIDE QUICK AP/15 CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "GERMACID 2% CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-2-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1132/2-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "subcategories": [
+        "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX"
+      ],
+      "aliases": [
+        "GERMACID 2 % CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 14,
+          "source_name": "GERMACID 2 % CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "OXYCIDE AP/8 cidex DHN",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-dhn",
+      "image_url": "https://saraprocmaroc.com/storage/1134/21--01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "subcategories": [
+        "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX"
+      ],
+      "aliases": [
+        "OXYCIDE AP/8 cidex"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 15,
+          "source_name": "OXYCIDE AP/8 cidex"
+        }
+      ]
+    },
+    {
+      "name": "DETAFOAM PS60 CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/detafoam-ps60-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1136/4-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-instruments-medico-chirurgicaux",
+      "subcategories": [
+        "TRAITEMENT DES INSTRUMENTS MEDICO-CHIRURGICAUX"
+      ]
+    },
+    {
+      "name": "GERMACID 2% CIDEX EN",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-2-cidex-en",
+      "image_url": "https://saraprocmaroc.com/storage/1175/2-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "subcategories": [
+        "TRAITEMENT DES ENDOSCOPES"
+      ]
+    },
+    {
+      "name": "GERMACID E4 BLEND QUADRIZYMES EN",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes-en",
+      "image_url": "https://saraprocmaroc.com/storage/1176/26-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "subcategories": [
+        "TRAITEMENT DES ENDOSCOPES"
+      ]
+    },
+    {
+      "name": "OXYCIDE AP/8 cidex EN",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-en",
+      "image_url": "https://saraprocmaroc.com/storage/1174/21--01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "subcategories": [
+        "TRAITEMENT DES ENDOSCOPES"
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX EN",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-en",
+      "image_url": "https://saraprocmaroc.com/storage/1173/17-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/traitement-des-endoscopes",
+      "subcategories": [
+        "TRAITEMENT DES ENDOSCOPES"
+      ]
+    },
+    {
+      "name": "BIOMA ULTRASOUND GEL",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-ultrasound-gel",
+      "image_url": "https://saraprocmaroc.com/storage/1177/3-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/gel-de-transmission-ultrasonique",
+      "subcategories": [
+        "GEL DE TRANSMISSION ULTRASONIQUE"
+      ],
+      "aliases": [
+        "BIOMA ULTRASOUND GEL"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 16,
+          "source_name": "BIOMA ULTRASOUND GEL"
+        }
+      ]
+    },
+    {
+      "name": "GERMA-SURF NDD",
+      "url": "https://www.saraprocmaroc.com/boutique/germa-surf-ndd",
+      "image_url": "https://saraprocmaroc.com/storage/1142/24--01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "subcategories": [
+        "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL"
+      ]
+    },
+    {
+      "name": "GERMACID SHA SURFASPRAY",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray",
+      "image_url": "https://saraprocmaroc.com/storage/1140/GERMACID-SHA-SURFASPRAY-01(1).jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "subcategories": [
+        "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL"
+      ],
+      "aliases": [
+        "GERMACID SHA SURFASPRAY"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 7,
+          "source_name": "GERMACID SHA SURFASPRAY"
+        }
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX SS",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-ss",
+      "image_url": "https://saraprocmaroc.com/storage/1169/17-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "subcategories": [
+        "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL"
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AIR FRESH AMBIANCE",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-air-fresh-ambiance",
+      "image_url": "https://saraprocmaroc.com/storage/1170/OXYCIDE-QUUICK-AIR-FRESH-AMBIANCE-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "subcategories": [
+        "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AIR FRESH AMBIANCE"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 12,
+          "source_name": "OXYCIDE QUICK AIR FRESH AMBIANCE"
+        }
+      ]
+    },
+    {
+      "name": "CHLORACIDE 2.6% CIDEX",
+      "url": "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex",
+      "image_url": "https://saraprocmaroc.com/storage/1138/6-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-sols-surfaces-et-materiel-medical",
+      "subcategories": [
+        "HYGIENE DES SOLS, SURFACES ET MATERIEL MEDICAL"
+      ],
+      "aliases": [
+        "CHLORACIDE 2.6 % CIDEX"
+      ],
+      "additional_sources": [
+        {
+          "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+          "pdf_page": 8,
+          "source_name": "CHLORACIDE 2.6 % CIDEX"
+        }
+      ]
+    },
+    {
+      "name": "GERMACID SHA SURFASPRAY HD",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray-hd",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-externe",
+      "subcategories": [
+        "TRAITEMENT EXTERNE"
+      ]
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX HD",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex-hd",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-externe",
+      "subcategories": [
+        "TRAITEMENT EXTERNE"
+      ]
+    },
+    {
+      "name": "GERMACID E4 ANTITACHE SURFASPRAY",
+      "url": "https://www.saraprocmaroc.com/boutique/germacid-e4-antitache-surfaspray",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-externe",
+      "subcategories": [
+        "TRAITEMENT EXTERNE"
+      ]
+    },
+    {
+      "name": "BIOMASEPTOL SHA/70M",
+      "url": "https://www.saraprocmaroc.com/boutique/biomaseptol-sha70m",
+      "image_url": "https://saraprocmaroc.com/storage/1239/7-01.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-du-personnel-soignant",
+      "subcategories": [
+        "HYGIENE DU PERSONNEL SOIGNANT"
+      ]
+    },
+    {
+      "name": "NETTOYANT, DESINFECTANT ET DESODORISANT",
+      "url": "https://www.saraprocmaroc.com/boutique/nettoyant-desinfectant-et-desodorisant",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-de-lenvironnement-de-la-salle-de-dialyse",
+      "subcategories": [
+        "HYGIENE DE L’ENVIRONNEMENT DE LA SALLE DE DIALYSE"
+      ]
+    },
+    {
+      "name": "CHLORACIDE 2.6% CIDEX/01HS",
+      "url": "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex01hs",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-de-lenvironnement-de-la-salle-de-dialyse",
+      "subcategories": [
+        "HYGIENE DE L’ENVIRONNEMENT DE LA SALLE DE DIALYSE"
+      ]
+    },
+    {
+      "name": "CIDEX AIR FRESH AMBIANCE",
+      "url": "https://www.saraprocmaroc.com/boutique/cidex-air-fresh-ambiance",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/hygiene-de-lenvironnement-de-la-salle-de-dialyse",
+      "subcategories": [
+        "HYGIENE DE L’ENVIRONNEMENT DE LA SALLE DE DIALYSE"
+      ]
+    }
+  ],
+  "errors": [],
+  "completeness_note": "All category-card links under the selected root and all discovered pagination links/Livewire page buttons were followed; product URLs canonically deduplicated; grouped raw-material listings retain their official catalogue card titles. No agricultural category was crawled. TLS certificate verification enabled. The official20-page medical catalogue was also inspected; all32 named product panels on pages4–19 were transcribed;16 mapped to evident online references and16 extra names stored in supplementary_products. Image-only price list page3 was visually checked. This yields46 named references before cross-range deduplication, with no assertion that differently marketed names are identical.",
+  "product_count": 30,
+  "empty_leaf_categories": [
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-en-milieu-medicale/hygiene-des-generateurs-dhemodialyse-et-de-la-boucle-deau/traitement-interne",
+      "name": "TRAITEMENT INTERNE",
+      "product_urls": []
+    }
+  ],
+  "anomalies": [
+    {
+      "type": "empty_category",
+      "note": "Treatment-interne category page says Aucun produit trouvé, but the official downloadable catalogue page17 explicitly lists NEUTROCIDE DD50 CIDEX and OXYCIDE NDD CIDEX; both included as supplementary products."
+    },
+    {
+      "type": "shared_generic_image",
+      "note": "Six haemodialysis-related products share the same generic manipulated image URL, not a distinct product packshot."
+    },
+    {
+      "type": "different_official_titles",
+      "note": "PDF and online cards differ in some spellings/product titles; evident same references mapped through aliases. BIOMA-SURF NDD cidex and GERMA-SURF NDD retained separately because equivalence is not explicit. GERMACIDE4 ANTITACHE and GERMACID E4 ANTITACHE SURFASPRAY also kept separately."
+    },
+    {
+      "type": "unconfirmed_variant_identity",
+      "name": "OXYCIDE QUICK AP/15 CIDEX/DHN",
+      "note": "PDFpage16 explicit /DHN suffix retained as a distinct reference; identity with the similarly named unsuffixed online product was not explicitly confirmed."
+    }
+  ],
+  "supplementary_products": [
+    {
+      "name": "BIOMA LUXURY — Digluconate de chlorhexidine 2 %",
+      "source_name": "BIOMA LUXURY — Digluconate de chlorhexidine 2 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=6",
+      "pdf_page": 6,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "BIOMA-SURF NDD cidex",
+      "source_name": "BIOMA-SURF NDD cidex",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=7",
+      "pdf_page": 7,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "CHLORACIDE 13%",
+      "source_name": "CHLORACIDE 13%",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=8",
+      "pdf_page": 8,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "CHLORACIDE CIDEX 13%"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "BIOMASEPTOL SHA SURFASPRAY",
+      "source_name": "BIOMASEPTOL SHA SURFASPRAY",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=9",
+      "pdf_page": 9,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYBAC",
+      "source_name": "OXYBAC",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=9",
+      "pdf_page": 9,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "GERMACIDE 4 ANTITACHE",
+      "source_name": "GERMACIDE 4 ANTITACHE",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=10",
+      "pdf_page": 10,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "NEUTROCIDE A 50 CIDEX Acti-Foam",
+      "source_name": "NEUTROCIDE A 50 CIDEX Acti-Foam",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=11",
+      "pdf_page": 11,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "BIOMA SANITIZER CIDEX",
+      "source_name": "BIOMA SANITIZER CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=11",
+      "pdf_page": 11,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "FORTICIDE PS60 CIDEX",
+      "source_name": "FORTICIDE PS60 CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=14",
+      "pdf_page": 14,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "NEUTROCIDE DD 50 CIDEX",
+      "source_name": "NEUTROCIDE DD 50 CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=17",
+      "pdf_page": 17,
+      "subcategories": [
+        "Hémodialyse — traitement interne et boucles d’eau"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYCIDE NDD CIDEX",
+      "source_name": "OXYCIDE NDD CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=17",
+      "pdf_page": 17,
+      "subcategories": [
+        "Hémodialyse — traitement interne et boucles d’eau"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Alcool éthylique 96 %",
+      "source_name": "Alcool éthylique 96 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=18",
+      "pdf_page": 18,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Alcool éthylique 70 %",
+      "source_name": "Alcool éthylique 70 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=18",
+      "pdf_page": 18,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Peroxyde d’hydrogène 50 %",
+      "source_name": "PEROXYDE D’HYDROGÈNE 50",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=19",
+      "pdf_page": 19,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [
+        "Eau oxygénée 50 %",
+        "PEROXYDE D’HYDROGÈNE 50"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product",
+      "evidence_note": "Page19 title omits percent sign; visible product container label confirms EAU OXYGENEE 50%."
+    },
+    {
+      "name": "Peroxyde d’hydrogène 35 %",
+      "source_name": "Peroxyde d’hydrogène 35 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=19",
+      "pdf_page": 19,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [
+        "Eau oxygénée 35 %"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX/DHN",
+      "source_name": "OXYCIDE QUICK AP/ 15 CIDEX/DHN",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=16",
+      "pdf_page": 16,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product",
+      "equivalence_note": "Manufacturer identity with the similarly named online OXYCIDE QUICK AP/15 CIDEX reference is unconfirmed; retained as a distinct explicitly named official PDF reference."
+    }
+  ],
+  "pdf_references": [
+    {
+      "name": "BIOMASEPTOL GEL HYDRO-ALCOOLIQUE",
+      "source_name": "BIOMASEPTOL GEL HYDRO-ALCOOLIQUE",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=4",
+      "pdf_page": 4,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [
+        "BIOMASEPTOL GEL HYDOALCOOLIQUE"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/biomaseptol-gel-hydoalcoolique"
+    },
+    {
+      "name": "BIOMASEPTOL SHA MAINS",
+      "source_name": "BIOMASEPTOL SHA MAINS",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=4",
+      "pdf_page": 4,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [
+        "BIOMASEPTOL SHA"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/biomaseptol-sha"
+    },
+    {
+      "name": "BIOMA CIDEX D1SCRUB",
+      "source_name": "BIOMA CIDEX D1SCRUB",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=5",
+      "pdf_page": 5,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [
+        "BIOMA CIDEX D1 SCRUB 5% PCMX- CG"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/bioma-cidex-d1-scrub-5-pcmx-cg"
+    },
+    {
+      "name": "BIOMA CIDEX D 2/HF",
+      "source_name": "BIOMA CIDEX D 2/HF",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=5",
+      "pdf_page": 5,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [
+        "BIOMA CIDEX D2/HF"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/bioma-cidex-d2hf"
+    },
+    {
+      "name": "BIOMA DERMO - CIDEX",
+      "source_name": "BIOMA DERMO - CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=6",
+      "pdf_page": 6,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [
+        "DERMO-CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/dermo-cidex"
+    },
+    {
+      "name": "BIOMA LUXURY — Digluconate de chlorhexidine 2 %",
+      "source_name": "BIOMA LUXURY — Digluconate de chlorhexidine 2 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=6",
+      "pdf_page": 6,
+      "subcategories": [
+        "Hygiène des mains"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "GERMACID SHA SURFASPRAY",
+      "source_name": "GERMACID SHA SURFASPRAY",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=7",
+      "pdf_page": 7,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "GERMACID SHA SURFASPRAY"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/germacid-sha-surfaspray"
+    },
+    {
+      "name": "BIOMA-SURF NDD cidex",
+      "source_name": "BIOMA-SURF NDD cidex",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=7",
+      "pdf_page": 7,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "CHLORACIDE 2.6 % CIDEX",
+      "source_name": "CHLORACIDE 2.6 % CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=8",
+      "pdf_page": 8,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "CHLORACIDE 2.6% CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/chloracide-26-cidex"
+    },
+    {
+      "name": "CHLORACIDE 13%",
+      "source_name": "CHLORACIDE 13%",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=8",
+      "pdf_page": 8,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "CHLORACIDE CIDEX 13%"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "BIOMASEPTOL SHA SURFASPRAY",
+      "source_name": "BIOMASEPTOL SHA SURFASPRAY",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=9",
+      "pdf_page": 9,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYBAC",
+      "source_name": "OXYBAC",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=9",
+      "pdf_page": 9,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX",
+      "source_name": "OXYCIDE QUICK AP/15 CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=10",
+      "pdf_page": 10,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AP/15 CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-cidex"
+    },
+    {
+      "name": "GERMACIDE 4 ANTITACHE",
+      "source_name": "GERMACIDE 4 ANTITACHE",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=10",
+      "pdf_page": 10,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "NEUTROCIDE A 50 CIDEX Acti-Foam",
+      "source_name": "NEUTROCIDE A 50 CIDEX Acti-Foam",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=11",
+      "pdf_page": 11,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "BIOMA SANITIZER CIDEX",
+      "source_name": "BIOMA SANITIZER CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=11",
+      "pdf_page": 11,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYCIDE QUICK AIR FRESH AMBIANCE",
+      "source_name": "OXYCIDE QUICK AIR FRESH AMBIANCE",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=12",
+      "pdf_page": 12,
+      "subcategories": [
+        "Hygiène des sols, surfaces et matériel médical"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AIR FRESH AMBIANCE"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-air-fresh-ambiance"
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 DVA CIDEX",
+      "source_name": "OXYCIDE QUICK AP/15 DVA CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=12",
+      "pdf_page": 12,
+      "subcategories": [
+        "Désinfection par voie aérienne"
+      ],
+      "aliases": [
+        "OXYCIDE QUICK AP/15 DVA CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/oxycide-quick-ap15-dva-cidex"
+    },
+    {
+      "name": "GERMACID DSMV CIDEX/ HP",
+      "source_name": "GERMACID DSMV CIDEX/ HP",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=13",
+      "pdf_page": 13,
+      "subcategories": [
+        "Désinfection par voie aérienne"
+      ],
+      "aliases": [
+        "GERMACID DSMV CIDEX/ HP"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/germacid-dsmv-cidex-hp"
+    },
+    {
+      "name": "OXYCIDE AP/8 DSVA CIDEX",
+      "source_name": "OXYCIDE AP/8 DSVA CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=13",
+      "pdf_page": 13,
+      "subcategories": [
+        "Désinfection par voie aérienne"
+      ],
+      "aliases": [
+        "OXYCIDE AP/8 DVA CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-dva-cidex"
+    },
+    {
+      "name": "GERMACID 2 % CIDEX",
+      "source_name": "GERMACID 2 % CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=14",
+      "pdf_page": 14,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [
+        "GERMACID 2% CIDEX"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/germacid-2-cidex"
+    },
+    {
+      "name": "FORTICIDE PS60 CIDEX",
+      "source_name": "FORTICIDE PS60 CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=14",
+      "pdf_page": 14,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "GERMACID E4 BLEND QUADRIZYMES",
+      "source_name": "GERMACID E4 BLEND QUADRIZYMES",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=15",
+      "pdf_page": 15,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [
+        "GERMACID E4 BLEND QUADRIZYMES"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/germacid-e4-blend-quadrizymes"
+    },
+    {
+      "name": "OXYCIDE AP/8 cidex",
+      "source_name": "OXYCIDE AP/8 cidex",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=15",
+      "pdf_page": 15,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [
+        "OXYCIDE AP/8 cidex DHN"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-cidex-dhn"
+    },
+    {
+      "name": "OXYCIDE QUICK AP/15 CIDEX/DHN",
+      "source_name": "OXYCIDE QUICK AP/ 15 CIDEX/DHN",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=16",
+      "pdf_page": 16,
+      "subcategories": [
+        "Traitement des instruments médico-chirurgicaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product",
+      "equivalence_note": "Manufacturer identity with the similarly named online OXYCIDE QUICK AP/15 CIDEX reference is unconfirmed; retained as a distinct explicitly named official PDF reference."
+    },
+    {
+      "name": "BIOMA ULTRASOUND GEL",
+      "source_name": "BIOMA ULTRASOUND GEL",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=16",
+      "pdf_page": 16,
+      "subcategories": [
+        "Gel de transmission ultrasonique"
+      ],
+      "aliases": [
+        "BIOMA ULTRASOUND GEL"
+      ],
+      "include_in_video": false,
+      "reference_type": "official_category_catalogue_product",
+      "equivalent_online_product_url": "https://www.saraprocmaroc.com/boutique/bioma-ultrasound-gel"
+    },
+    {
+      "name": "NEUTROCIDE DD 50 CIDEX",
+      "source_name": "NEUTROCIDE DD 50 CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=17",
+      "pdf_page": 17,
+      "subcategories": [
+        "Hémodialyse — traitement interne et boucles d’eau"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "OXYCIDE NDD CIDEX",
+      "source_name": "OXYCIDE NDD CIDEX",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=17",
+      "pdf_page": 17,
+      "subcategories": [
+        "Hémodialyse — traitement interne et boucles d’eau"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Alcool éthylique 96 %",
+      "source_name": "Alcool éthylique 96 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=18",
+      "pdf_page": 18,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Alcool éthylique 70 %",
+      "source_name": "Alcool éthylique 70 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=18",
+      "pdf_page": 18,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    },
+    {
+      "name": "Peroxyde d’hydrogène 50 %",
+      "source_name": "PEROXYDE D’HYDROGÈNE 50",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=19",
+      "pdf_page": 19,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [
+        "Eau oxygénée 50 %",
+        "PEROXYDE D’HYDROGÈNE 50"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product",
+      "evidence_note": "Page19 title omits percent sign; visible product container label confirms EAU OXYGENEE 50%."
+    },
+    {
+      "name": "Peroxyde d’hydrogène 35 %",
+      "source_name": "Peroxyde d’hydrogène 35 %",
+      "source_url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "source_page": "https://www.saraprocmaroc.com/catalogues/12/download#page=19",
+      "pdf_page": 19,
+      "subcategories": [
+        "Produits spéciaux"
+      ],
+      "aliases": [
+        "Eau oxygénée 35 %"
+      ],
+      "include_in_video": true,
+      "reference_type": "official_category_catalogue_product"
+    }
+  ],
+  "supplementary_product_count": 16,
+  "total_distinct_named_references_before_cross_range_dedup": 46,
+  "catalogue_documents": [
+    {
+      "title": "Catalogue des produits d’hygiène et de désinfection en milieu médical",
+      "url": "https://www.saraprocmaroc.com/catalogues/12/download",
+      "index_url": "https://www.saraprocmaroc.com/catalogues",
+      "local_path": "assets/site/catalog/catalogue-hygiene-medicale.pdf",
+      "text_extract_path": "assets/site/catalog/catalogue-hygiene-medicale.txt",
+      "pages": 20,
+      "bytes": 8743448,
+      "sha256": "57a43e9067c46bbc646702a7000dd82ca1f45f49e33922231ad258c5c003f290",
+      "verified_tls": true,
+      "product_pages": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "image_only_price_list_page_inspected": 3
+    }
+  ]
+}

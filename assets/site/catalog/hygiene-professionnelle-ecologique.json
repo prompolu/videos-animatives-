@@ -1,0 +1,441 @@
+{
+  "category_name": "Hygiène professionnelle écologique",
+  "root_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+  "retrieved_at": "2026-10-18T21:46:57.986485+00:00",
+  "visited_pages": [
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+      "final_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+      "status": 200,
+      "sha256": "3e34831715075888dfc597f5ad34f64e869c609d404750ee481f5eada9a34a86",
+      "page_title": "HYGIENE PROFESSIONNELLE ECOLOGIQUE",
+      "product_count": 0,
+      "product_urls": [],
+      "subcategory_urls": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "pagination_targets": [],
+      "max_page": 1,
+      "category_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+      "category_name": "Hygiène professionnelle écologique"
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "final_url": "https://www.saraprocmaroc.com/boutique?category=sols-surfaces-et-equipements-professionnels",
+      "status": 200,
+      "sha256": "bf755fe59f352447f1934c447913235bc3ccb8c8e967f8eb5775eb6029078491",
+      "page_title": "Notre Boutique de Produits Industriels",
+      "product_count": 6,
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-multi-usage",
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-detazymes-tp-e4",
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-marbre",
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-sanitary-floor",
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-vitral",
+        "https://www.saraprocmaroc.com/boutique/bioma-nature-renocarpet"
+      ],
+      "subcategory_urls": [],
+      "pagination_targets": [],
+      "max_page": 1,
+      "category_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "category_name": "Sols, Surfaces et Équipements Professionnels"
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "final_url": "https://www.saraprocmaroc.com/boutique?category=hygiene-ecologique-du-linge",
+      "status": 200,
+      "sha256": "90815966b174d6a36458c44638fb93ab059fd258fe6345fb9c9e6b6a249ea5ef",
+      "page_title": "Notre Boutique de Produits Industriels",
+      "product_count": 3,
+      "product_urls": [
+        "https://www.saraprocmaroc.com/boutique/biomatic-nature-linge",
+        "https://www.saraprocmaroc.com/boutique/biomatic-detazyme-pro",
+        "https://www.saraprocmaroc.com/boutique/oxycide-ap8-bl"
+      ],
+      "subcategory_urls": [],
+      "pagination_targets": [],
+      "max_page": 1,
+      "category_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "category_name": "Hygiène Écologique du Linge"
+    }
+  ],
+  "products": [
+    {
+      "name": "BIOMA nature multi-usage",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-multi-usage",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-multi-usage",
+        "sha256": "068e278bd710c62203cce529c8495cf5fb09ce2a14512f6f3dea785baf575efd",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMA nature DETAZYMES TP-E4",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-detazymes-tp-e4",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-detazymes-tp-e4",
+        "sha256": "54fbccadc761b3f2d146bd261817eacc25b62621d4e51504a5de548a43a456ab",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMA nature MARBRE",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-marbre",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-marbre",
+        "sha256": "af89a9f0e948631b2e3850de72223a12ef3c97f82b1db06e0ed50c72f6f46c2c",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMA nature SANITARY FLOOR",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-sanitary-floor",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-sanitary-floor",
+        "sha256": "4c95d8bc363cca647e1419393f0706a93fc9d95f459f66779e5321c759c5cd0e",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMA nature VITRAL",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-vitral",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-vitral",
+        "sha256": "b6f5e60f45fcb6a4c72ddb47f87bf787610bfe58264afe211f2c51851acae9d9",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMA nature RENOCARPET",
+      "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-renocarpet",
+      "image_url": "https://saraprocmaroc.com/storage/manipulated/94a85ce5a8c6ab09d724cdf5948ecd5a.webp",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels"
+      ],
+      "subcategories": [
+        {
+          "name": "Sols, Surfaces et Équipements Professionnels",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "sols-surfaces-et-equipements-professionnels"
+          ]
+        }
+      ],
+      "image_status": "generic_placeholder_not_product_photo",
+      "image_note": "Official listing uses a shared washroom banner rather than a product packshot.",
+      "detail_image_evidence": {
+        "source_page": "https://www.saraprocmaroc.com/boutique/bioma-nature-renocarpet",
+        "sha256": "370b752b4ea9772d886f10b01af124dd8850565d120a3d42b0f5f9cb92100489",
+        "gallery_images_expression": "[]",
+        "gallery_is_empty": true
+      }
+    },
+    {
+      "name": "BIOMATIC nature linge",
+      "url": "https://www.saraprocmaroc.com/boutique/biomatic-nature-linge",
+      "image_url": "https://saraprocmaroc.com/storage/705/BIOMATIC-PRO-LP.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "image_status": "official_listing_image"
+    },
+    {
+      "name": "BIOMATIC DETAZYME PRO",
+      "url": "https://www.saraprocmaroc.com/boutique/biomatic-detazyme-pro",
+      "image_url": "https://saraprocmaroc.com/storage/599/BIOMATIC.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "image_status": "official_listing_image"
+    },
+    {
+      "name": "OXYCIDE AP/8 BL",
+      "url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-bl",
+      "image_url": "https://saraprocmaroc.com/storage/704/AP-8LB.jpg",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "source_pages": [
+        "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge"
+      ],
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "image_status": "official_listing_image"
+    }
+  ],
+  "subcategories": [
+    {
+      "name": "Sols, Surfaces et Équipements Professionnels",
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "parent_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique"
+    },
+    {
+      "name": "Hygiène Écologique du Linge",
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "parent_url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique"
+    }
+  ],
+  "completeness": {
+    "complete": true,
+    "method": "Recursive GET of every category beneath this root, every rendered product card, and every pagination target. Product URLs deduplicated; all subcategory memberships retained. Requests used normal verified TLS.",
+    "unique_product_count": 9,
+    "visited_page_count": 3,
+    "failed_pages": [],
+    "notes": [
+      "All products listed beneath the two ecological subcategories are included. No agricultural categories were crawled."
+    ],
+    "category_count": 2,
+    "product_photo_gaps": [
+      {
+        "name": "BIOMA nature multi-usage",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-multi-usage",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      },
+      {
+        "name": "BIOMA nature DETAZYMES TP-E4",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-detazymes-tp-e4",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      },
+      {
+        "name": "BIOMA nature MARBRE",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-marbre",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      },
+      {
+        "name": "BIOMA nature SANITARY FLOOR",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-sanitary-floor",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      },
+      {
+        "name": "BIOMA nature VITRAL",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-vitral",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      },
+      {
+        "name": "BIOMA nature RENOCARPET",
+        "url": "https://www.saraprocmaroc.com/boutique/bioma-nature-renocarpet",
+        "reason": "Official listing image is a generic placeholder; product detail gallery is empty."
+      }
+    ]
+  },
+  "representative_assets": [
+    {
+      "name": "BIOMATIC nature linge",
+      "product_url": "https://www.saraprocmaroc.com/boutique/biomatic-nature-linge",
+      "original_url": "https://saraprocmaroc.com/storage/705/BIOMATIC-PRO-LP.jpg",
+      "final_url": "https://saraprocmaroc.com/storage/705/BIOMATIC-PRO-LP.jpg",
+      "path": "assets/site/ranges/ecological/biomatic-nature-linge.jpg",
+      "sha256": "bf332463fa550c64d35923acd68878c6ea77a224c8c98c06cc607cc8751a68c4",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "note": "Packshot used by official Saraproc listing for this reference; packaging label can name a related product/formulation."
+    },
+    {
+      "name": "BIOMATIC DETAZYME PRO",
+      "product_url": "https://www.saraprocmaroc.com/boutique/biomatic-detazyme-pro",
+      "original_url": "https://saraprocmaroc.com/storage/599/BIOMATIC.jpg",
+      "final_url": "https://saraprocmaroc.com/storage/599/BIOMATIC.jpg",
+      "path": "assets/site/ranges/ecological/biomatic-detazyme-pro.jpg",
+      "sha256": "93eec5b3fb64eae62cfbdcd6eaee2d3e857c215c3e420125431d29ec0d7d9a3b",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "note": "Packshot used by official Saraproc listing for this reference; packaging label can name a related product/formulation."
+    },
+    {
+      "name": "OXYCIDE AP/8 BL",
+      "product_url": "https://www.saraprocmaroc.com/boutique/oxycide-ap8-bl",
+      "original_url": "https://saraprocmaroc.com/storage/704/AP-8LB.jpg",
+      "final_url": "https://saraprocmaroc.com/storage/704/AP-8LB.jpg",
+      "path": "assets/site/ranges/ecological/oxycide-ap-8-bl.jpg",
+      "sha256": "271407c70bacb1afd98e2a711629f5771cd6c7da831d87edadefdd274d81a5b2",
+      "width": 1600,
+      "height": 1600,
+      "format": "JPEG",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "subcategories": [
+        {
+          "name": "Hygiène Écologique du Linge",
+          "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+          "hierarchy": [
+            "hygiene-professionnelle-ecologique",
+            "hygiene-ecologique-du-linge"
+          ]
+        }
+      ],
+      "note": "Packshot used by official Saraproc listing for this reference; packaging label can name a related product/formulation."
+    }
+  ],
+  "category_label_evidence": [
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/sols-surfaces-et-equipements-professionnels",
+      "name": "Sols, Surfaces et Équipements Professionnels",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+      "source_sha256": "2308ef5feec41934e202e351f8b18ba476921b47579d8012f4f1e1f0655fd020"
+    },
+    {
+      "url": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique/hygiene-ecologique-du-linge",
+      "name": "Hygiène Écologique du Linge",
+      "source_page": "https://www.saraprocmaroc.com/categories/hygiene-professionnelle-ecologique",
+      "source_sha256": "2308ef5feec41934e202e351f8b18ba476921b47579d8012f4f1e1f0655fd020"
+    }
+  ],
+  "catalogue_audit_notes": {
+    "listing_sources": [
+      {
+        "url": "https://www.saraprocmaroc.com/catalogues",
+        "sha256": "cef40de9fb9f26452e1da27b4ca58e092863c6d8f6eee5d70b1a0323a1514dcb"
+      },
+      {
+        "url": "https://www.saraprocmaroc.com/catalogues?page=2",
+        "sha256": "4aef8d37d9a018aeae482f1cfc700fa5b7dc99147c39b9dead691d52a14b1a7b"
+      }
+    ],
+    "result": "No dedicated ecological catalogue download is listed on current official /catalogues pages1–2. All9 references from the2 ecological category pages remain included. Professional catalogue descriptions of ecological products do not automatically establish membership in the dedicated ecological category."
+  },
+  "supplementary_products": []
+}

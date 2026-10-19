@@ -1,0 +1,47 @@
+[
+  {
+    "name": "AQUATEC CH-01",
+    "file": "ranges/water/aquatec-ch-01.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/aquatec-ch-01",
+    "image_url": "https://saraprocmaroc.com/storage/596/WhatsApp-Image-2026-01-03-at-15.57.29-(3).jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-pour-le-traitement-de-leau-de-chaudiere",
+    "sha256": "b37f1884a2983339d93a069840e572b82c250047e2e01bd9a1feb966e0e1e00c",
+    "bytes": 136408,
+    "dimensions": [
+      1600,
+      1600
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  },
+  {
+    "name": "AQUATEC RO-02",
+    "file": "ranges/water/aquatec-ro-02.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/aquatec-ro-02",
+    "image_url": "https://saraprocmaroc.com/storage/652/RO02.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-specifiques-pour-les-systemes-dosmose-inverse",
+    "sha256": "3b3ad0b41ff3f9a2e71177873b29192615f3b83107452b944e04f430282c210c",
+    "bytes": 193115,
+    "dimensions": [
+      1600,
+      1600
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  },
+  {
+    "name": "POLY ALUMINIUM CHLORIDE (PAC)",
+    "file": "ranges/water/poly-aluminium-chloride-pac.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/poly-aluminium-chloride-pac",
+    "image_url": "https://saraprocmaroc.com/storage/918/PAC.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees",
+    "sha256": "0a8bfb6062da4c1726a559d260a87e46331e3e55efa2ddac129f0cad21f2a187",
+    "bytes": 81407,
+    "dimensions": [
+      800,
+      800
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true
+  }
+]

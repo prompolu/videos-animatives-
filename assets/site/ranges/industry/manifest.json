@@ -1,0 +1,50 @@
+[
+  {
+    "name": "HYDROXYDE DE SODIUM",
+    "file": "ranges/industry/hydroxyde-de-sodium.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/hydroxyde-de-sodium",
+    "image_url": "https://saraprocmaroc.com/storage/926/PAC6.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees",
+    "sha256": "d3ec1d947ca4a4b061eec4122ab50b4106d3d7649e8e0f2e1e054eba679f29dc",
+    "bytes": 25347,
+    "dimensions": [
+      640,
+      480
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true,
+    "scope_note": "Produit chimique également listé dans le PDF industriel ; photo officielle issue de sa fiche de traitement des eaux usées."
+  },
+  {
+    "name": "ACIDE SULFURIQUE",
+    "file": "ranges/industry/acide-sulfurique.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/acide-sulfurique",
+    "image_url": "https://saraprocmaroc.com/storage/930/PAC9.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees",
+    "sha256": "b09332d849b30d0cda0a6217dd19617b86a765d95b781c4824a9ce7a1b436bf2",
+    "bytes": 46553,
+    "dimensions": [
+      800,
+      800
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true,
+    "scope_note": "Produit chimique également listé dans le PDF industriel ; photo officielle issue de sa fiche de traitement des eaux usées."
+  },
+  {
+    "name": "PEROXYDE D'HYDROGENE",
+    "file": "ranges/industry/peroxyde-d-hydrogene.jpg",
+    "url": "https://www.saraprocmaroc.com/boutique/peroxyde-dhydrogene",
+    "image_url": "https://saraprocmaroc.com/storage/922/PAC4.jpg",
+    "source_page": "https://www.saraprocmaroc.com/categories/traitement-des-eaux/produits-chimiques-pour-le-traitement-des-eaux-usees",
+    "sha256": "34eac36addc15fafced35e9081d97abcddcd676b05a02f0c1cca224cf443988b",
+    "bytes": 22219,
+    "dimensions": [
+      747,
+      437
+    ],
+    "downloaded_date": "2026-10-18",
+    "original_bytes": true,
+    "scope_note": "Produit chimique également listé dans le PDF industriel ; photo officielle issue de sa fiche de traitement des eaux usées."
+  }
+]
