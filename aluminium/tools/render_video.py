@@ -26,10 +26,10 @@ BRAND = json.loads((ROOT / "brand.json").read_text())
 W, H, FPS, DURATION = 1920, 1080, 30, 60
 COLORS = BRAND["colors"]
 ACCENT, ACCENT_LIGHT = COLORS["accent"], COLORS["accent_light"]
-INK = "#1B2329"
-GRAY = "#65717B"
+INK = COLORS.get("ink", "#1B2329")
+PAPER = COLORS.get("paper", "#F3F4F5")
+GRAY = "#6A6862"
 WHITE = "#FFFFFF"
-MIST = "#E3EAF0"
 FONT_DIR = Path("/usr/share/fonts/opentype/inter")
 FONT_PATHS = {
     "bold": FONT_DIR / "InterDisplay-Bold.otf",
@@ -179,13 +179,13 @@ def background(theme):
         a, b = np.array(rgb(COLORS["dark"])), np.array(rgb(COLORS["dark_2"]))
         glow = np.exp(-(((x-1500)/900)**2 + ((y-420)/780)**2))*.85
     elif theme == "steel":
-        a, b = np.array(rgb("#F4F6F8")), np.array(rgb("#D6E3EE"))
+        a, b = np.array(rgb("#F4F3F0")), np.array(rgb("#DCDDDC"))
         glow = np.exp(-(((x-1400)/700)**2 + ((y-500)/650)**2))*.9
     elif theme == "warm":
-        a, b = np.array(rgb("#F7F5F1")), np.array(rgb("#DFE5EB"))
+        a, b = np.array(rgb("#F5F3EE")), np.array(rgb("#E3DED5"))
         glow = np.exp(-(((x-1450)/850)**2 + ((y-500)/700)**2))*.88
     else:
-        a, b = np.array(rgb("#F5F6F7")), np.array(rgb("#DCE5EC"))
+        a, b = np.array(rgb(PAPER)), np.array(rgb("#E0DDD6"))
         glow = np.exp(-(((x-1450)/850)**2 + ((y-470)/750)**2))*.7
     result = a[None, None, :]*(1-glow[..., None]) + b[None, None, :]*glow[..., None]
     return Image.fromarray(np.uint8(result), "RGB").convert("RGBA")
@@ -483,8 +483,8 @@ def curtain_base(w, h):
 def curtain_front(w, h):
     im = Image.new("RGBA", (w, h))
     d = ImageDraw.Draw(im)
-    d.rectangle((0, h*.40, w*.20, h*.88), fill="#CBD5DC")
-    d.rectangle((w*.84, h*.30, w, h*.88), fill="#D3DBE1")
+    d.rectangle((0, h*.40, w*.20, h*.88), fill="#D3CFC6")
+    d.rectangle((w*.84, h*.30, w, h*.88), fill="#D6D3CC")
     for x in np.arange(w*.025, w*.19, w*.045):
         for y in np.arange(h*.45, h*.84, h*.08):
             d.rectangle((x, y, x+w*.025, y+h*.045), fill="#B3C3CF")
@@ -762,13 +762,24 @@ def line_icon(kind, size, color, stroke=None):
 
 # ----------------------------------------------------------------- brand
 
+@functools.lru_cache(maxsize=20)
+def logo_asset(key, width, height):
+    with Image.open(ROOT / BRAND["logo"][key]) as logo:
+        logo = logo.convert("RGBA")
+    f = min(width/logo.width, height/logo.height)
+    return logo.resize((round(logo.width*f), round(logo.height*f)), Image.Resampling.LANCZOS)
+
+
 @functools.lru_cache(maxsize=10)
 def brand_mark(size):
     if BRAND.get("logo"):
-        with Image.open(ROOT / BRAND["logo"]) as logo:
-            logo = logo.convert("RGBA")
-        f = size/max(logo.size)
-        return logo.resize((round(logo.width*f), round(logo.height*f)), Image.Resampling.LANCZOS)
+        # Site icon: paper "P" on an ink square, with a hairline so it reads on ink backgrounds.
+        im = Image.new("RGBA", (size, size))
+        d = ImageDraw.Draw(im)
+        d.rounded_rectangle((0, 0, size-1, size-1), size*.10, fill=INK, outline=(241, 240, 236, 70), width=2)
+        p = logo_asset("icon", int(size*.56), int(size*.56))
+        im.alpha_composite(p, ((size-p.width)//2, (size-p.height)//2))
+        return im
     im, k = supersample(size, size, 4)
     S = size*k
     metal = vgrad(S, S, "#F1F4F6", "#97A1A9")
@@ -791,19 +802,21 @@ def company():
 
 
 def header(im, dark, age, scene):
-    mark = brand_mark(62)
-    paste(im, mark, (112, 44))
-    if not BRAND.get("logo"):
+    if BRAND.get("logo"):
+        wordmark = logo_asset("on_dark" if dark else "on_light", 330, 52)
+        paste(im, wordmark, (112, 76-wordmark.height/2))
+    else:
+        paste(im, brand_mark(62), (112, 44))
         txt(im, company(), (192, 58), 27, WHITE if dark else INK, "bold", tracking=1)
-    txt(im, T["category"], (1808, 70), 19, "#AFC0CC" if dark else GRAY, "medium", tracking=2, right=True)
+    txt(im, T["category"], (1808, 70), 19, "#A9A69F" if dark else GRAY, "medium", tracking=2, right=True)
     d = ImageDraw.Draw(im)
-    d.line((112, 985, 1808, 985), fill="#3C4853" if dark else "#D3DBE1", width=1)
+    d.line((112, 985, 1808, 985), fill="#34373C" if dark else "#D6D3CC", width=1)
     txt(im, f"{company()}  ·  {T['footer']}", (110, 1010), 17,
-        "#9FB0BC" if dark else GRAY, "medium", tracking=1)
+        "#9B9890" if dark else GRAY, "medium", tracking=1)
     for k in range(len(SCENES)):
         x = 1634+k*26
         on = ACCENT_LIGHT if dark else ACCENT
-        d.ellipse((x, 1018, x+6, 1024), fill=on if k == scene else ("#46525C" if dark else "#C9D3DA"))
+        d.ellipse((x, 1018, x+6, 1024), fill=on if k == scene else ("#43464B" if dark else "#CFCBC3"))
 
 
 def sparkle(im, x, y, radius, color, alpha=1):
@@ -818,7 +831,7 @@ def sparkle(im, x, y, radius, color, alpha=1):
 def orbits(im, center, age, dark=False, scale=1):
     x, y = center
     d = ImageDraw.Draw(im)
-    ring = "#45525D" if dark else "#C7D3DC"
+    ring = "#3A3D42" if dark else "#D3CFC6"
     for r in [250, 330, 400]:
         r *= scale
         d.ellipse((int(x-r), int(y-r), int(x+r), int(y+r)), outline=ring, width=1)
@@ -839,7 +852,7 @@ def card_shell(width, height, title="", subtitle="", footer=109, dark=False):
                                              fill=(8, 18, 28, 90 if dark else 38))
     card.alpha_composite(shadow.filter(ImageFilter.GaussianBlur(9)))
     ImageDraw.Draw(card).rounded_rectangle((6, 3, width+5, height+2), 23, fill=WHITE,
-                                           outline="#DCE3E9", width=1)
+                                           outline="#E2DFD8", width=1)
     if title:
         size = 29
         while text_sprite(title, size, INK, "bold").width > width-30:
@@ -899,7 +912,7 @@ def step_card(i, title, desc):
 def process(im, age):
     d = ImageDraw.Draw(im)
     y = 885
-    d.line((150, y, 1770, y), fill="#CBD5DC", width=3)
+    d.line((150, y, 1770, y), fill="#D3CFC6", width=3)
     p = ease((age-.8)/4.2)
     d.line((150, y, 150+1620*p, y), fill=ACCENT, width=3)
     for i, (title, desc) in enumerate(T["steps"]):
@@ -907,7 +920,7 @@ def process(im, age):
         float_card(im, step_card(i, title, desc), (x, 422), age, .5+i*.35, i)
         cx = x+200
         done = 150+1620*p >= cx
-        d.ellipse((cx-9, y-9, cx+9, y+9), fill=ACCENT if done else "#CBD5DC", outline=WHITE, width=3)
+        d.ellipse((cx-9, y-9, cx+9, y+9), fill=ACCENT if done else "#D3CFC6", outline=WHITE, width=3)
 
 
 @functools.lru_cache(maxsize=10)
@@ -923,7 +936,7 @@ def benefit_tile(i, title, desc):
         size -= 1
     txt(tile, title, (168, 52), size, WHITE, "bold")
     for j, line in enumerate(wrap(desc, 22, 320)):
-        txt(tile, line, (169, 104+j*32), 22, "#B9C7D1")
+        txt(tile, line, (169, 104+j*32), 22, "#BDBAB3")
     return tile
 
 
@@ -952,7 +965,7 @@ def render_scene(index, age):
     dark = theme == "dark"
     im = background(theme).copy()
     fg = WHITE if dark else INK
-    muted = "#B5C3CD" if dark else GRAY
+    muted = "#BDBAB3" if dark else GRAY
     if index != 6:
         header(im, dark, age, index)
     if index == 0:
@@ -990,25 +1003,30 @@ def closing(im, age):
     """Closing card is held long enough to read and note the contact details."""
     d = ImageDraw.Draw(im)
     for r in [260, 350, 440]:
-        d.ellipse((960-r, 380-r*.6, 960+r, 380+r*.6), outline="#3B4854", width=1)
+        d.ellipse((960-r, 380-r*.6, 960+r, 380+r*.6), outline="#34373C", width=1)
     p = ease((age-.15)/1)
-    mark = brand_mark(150 if not BRAND.get("logo") else 300)
-    paste(im, mark, (960-mark.width/2, 150+20*(1-p)), p)
+    mark = brand_mark(126 if BRAND.get("logo") else 150)
+    my = 118 if BRAND.get("logo") else 150
+    paste(im, mark, (960-mark.width/2, my+20*(1-p)), p)
     if p > .05:
         m = mark.getchannel("A")
         layer = Image.new("RGBA", mark.size)
         sweep(layer, m, sweep_pos(age, .30, .1), .55)
-        paste(im, layer, (960-mark.width/2, 150+20*(1-p)), p)
-    if not BRAND.get("logo"):
+        paste(im, layer, (960-mark.width/2, my+20*(1-p)), p)
+    if BRAND.get("logo"):
+        wp = ease((age-.35)/.9)
+        wordmark = logo_asset("on_dark", 760, 120)
+        paste(im, wordmark, (960-wordmark.width/2, 292+24*(1-wp)), wp)
+    else:
         lines(im, company(), (960, 336), 80, WHITE, age, .35, center=True, maxw=1500)
-    lines(im, T["s7_tagline"], (960, 478), 38, "#C9D6DF", age, .6, 56, "regular", True, maxw=1500)
+    lines(im, T["s7_tagline"], (960, 478), 38, "#D2CFC8", age, .6, 56, "regular", True, maxw=1500)
     cp = ease((age-1.1)/.8)
     site = BRAND["website"][LANG]
     sprite = text_sprite(site, 40, INK, "bold")
     width = max(640, sprite.width+180)
     card = Image.new("RGBA", (width, 106))
     cd = ImageDraw.Draw(card)
-    cd.rounded_rectangle((0, 0, width-1, 105), 53, fill=MIST)
+    cd.rounded_rectangle((0, 0, width-1, 105), 53, fill=PAPER)
     paste(card, sprite, ((width-60-sprite.width)/2, (106-sprite.height)/2))
     ax = width-70
     cd.line((ax-20, 53, ax+20, 53), fill=INK, width=3)
@@ -1018,10 +1036,10 @@ def closing(im, age):
     if BRAND.get("phone"):
         txt(im, f"{T['phone_label']} {BRAND['phone']}", (960, y), 36, WHITE, "semi", cp, center=True)
         y += 70
-    txt(im, T["s7_cta"], (960, y+12), 21, "#A9BBC8", "medium", tracking=4, opacity=cp, center=True)
+    txt(im, T["s7_cta"], (960, y+12), 21, "#A9A69F", "medium", tracking=4, opacity=cp, center=True)
     for k in range(len(SCENES)):
         x = 1634+k*26
-        d.ellipse((x, 1018, x+6, 1024), fill=ACCENT_LIGHT if k == 6 else "#46525C")
+        d.ellipse((x, 1018, x+6, 1024), fill=ACCENT_LIGHT if k == 6 else "#43464B")
 
 
 def frame(t):
@@ -1057,7 +1075,7 @@ def make_stills():
         im = frame(t)
         im.save(review / f"{i+1:02d}-{int(t):02d}s.png")
         thumbs.append((im.resize((768, 432), Image.Resampling.LANCZOS), scene))
-    sheet = Image.new("RGB", (1584, 4*498+36), "#E5E9EC")
+    sheet = Image.new("RGB", (1584, 4*498+36), "#E8E6E1")
     d = ImageDraw.Draw(sheet)
     for i, (thumb, scene) in enumerate(thumbs):
         x, y = 16+(i % 2)*784, 18+(i//2)*498

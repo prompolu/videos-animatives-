@@ -1,25 +1,32 @@
 {
-  "_comment": "Edit this file, then re-run tools/render_video.py. Empty phone hides the phone line. Set logo to a PNG path (relative to aluminium/) to replace the drawn mark.",
+  "_comment": "Edit this file, then re-run tools/render_video.py. Empty phone hides the phone line. Set logo to \"\" to fall back to the drawn window mark and the company name in text.",
   "company": {
-    "fr": "VOTRE ENTREPRISE",
-    "en": "YOUR COMPANY"
+    "fr": "PROMPOLU ALUMINIUM",
+    "en": "PROMPOLU ALUMINIUM"
   },
   "website": {
-    "fr": "www.votre-site.com",
-    "en": "www.your-website.com"
+    "fr": "prompolu.com",
+    "en": "prompolu.com"
   },
   "phone": "",
-  "logo": "",
+  "logo": {
+    "on_light": "assets/brand/prompolu-logo-ink.png",
+    "on_dark": "assets/brand/prompolu-logo-paper.png",
+    "icon": "assets/brand/prompolu-icon-p-paper.png",
+    "source": "assets/brand/PROMPOLU-logo-et-icone.pdf (vector trace of prompolu.com/assets/logo-prompolu.png)"
+  },
   "colors": {
-    "accent": "#2A86C2",
-    "accent_light": "#8CC8EE",
-    "dark": "#1B2026",
-    "dark_2": "#33404B"
+    "accent": "#8C6A45",
+    "accent_light": "#C9A57C",
+    "dark": "#15171A",
+    "dark_2": "#2C2F34",
+    "ink": "#15171A",
+    "paper": "#F1F0EC"
   },
   "text": {
     "fr": {
       "category": "FENÊTRES  ·  PORTES  ·  FAÇADES",
-      "footer": "MENUISERIE ALUMINIUM",
+      "footer": "MENUISERIE SUR MESURE",
       "s1_pill": "MENUISERIE ALUMINIUM",
       "s1_title": "L’aluminium\nsur mesure.",
       "s1_sub": "Fenêtres, portes et façades\npour particuliers et professionnels.",
@@ -120,14 +127,14 @@
       ],
       "sheet": [
         "60 s · Full HD · 16:9 · 30 i/s",
-        "Menuiserie aluminium",
+        "Logo et couleurs Prompolu",
         "Illustrations animées originales",
         "Musique instrumentale originale"
       ]
     },
     "en": {
       "category": "WINDOWS  ·  DOORS  ·  FAÇADES",
-      "footer": "ALUMINIUM JOINERY",
+      "footer": "MADE-TO-MEASURE JOINERY",
       "s1_pill": "ALUMINIUM JOINERY",
       "s1_title": "Aluminium,\nmade to measure.",
       "s1_sub": "Windows, doors and façades\nfor homes and businesses.",
@@ -228,7 +235,7 @@
       ],
       "sheet": [
         "60 s · Full HD · 16:9 · 30 fps",
-        "Aluminium joinery",
+        "Prompolu logo and colours",
         "Original animated illustrations",
         "Original instrumental music"
       ]

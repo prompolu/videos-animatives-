@@ -1,8 +1,10 @@
-# Aluminium joinery — animated presentation film
+# PROMPOLU ALUMINIUM — animated presentation film
 
 60-second motion-design film for an aluminium joinery business (windows, doors, façades), built in the same style and with the same pipeline as the Saraproc Maroc film at the root of this repository. Two languages: French and English.
 
-**The company name, website and phone are placeholders** (`VOTRE ENTREPRISE` / `YOUR COMPANY`, `www.votre-site.com`). Replace them in `brand.json` and re-render.
+Branding comes from `assets/brand/PROMPOLU-logo-et-icone.pdf` (supplied by the client): the PROMPOLU ALUMINIUM wordmark, the "P" site icon, the colours ink `#15171A`, paper `#F1F0EC` and bronze `#8C6A45`, and the website prompolu.com. The transparent PNGs in `assets/brand/` were extracted from that PDF at 600 dpi (ink and paper versions of the wordmark, paper version of the "P"). The PDF itself notes that its logo is a vector reconstruction of a 602 × 83 px web file; ask for the original `.ai`/`.eps`/`.svg` for print work.
+
+No phone number is shown yet: add it as `phone` in `brand.json` and re-render.
 
 ## Deliverables (`output/`)
 
@@ -26,14 +28,14 @@
 | 43–51 s | **Let’s talk about your project.** | Call for a personalised quote, house illustration. |
 | 51–60 s | Contact card | Logo, company name, tagline, website (and phone if set). |
 
-All illustrations are drawn in code (`tools/render_video.py`); no photos or stock footage are used, so there are no image rights to clear. Frames use RAL 7016 anthracite-style profiles with glass-blue accents.
+All illustrations are drawn in code (`tools/render_video.py`); no photos or stock footage are used, so there are no image rights to clear. Frames use RAL 7016 anthracite-style profiles; the interface uses the Prompolu ink, paper and bronze colours.
 
 ## Customise
 
 Everything a client would change lives in `brand.json`:
 
 - `company`, `website` — per language; `phone` — shown on the closing card when not empty.
-- `logo` — path to a PNG (relative to this folder, e.g. `assets/logo.png`). It replaces the drawn window mark; the name text is then hidden in the header and closing card, since logos usually include it.
+- `logo` — `on_light` / `on_dark` wordmark PNGs and the square `icon` (paths relative to this folder). Set it to `""` to fall back to a drawn window mark plus the company name in text.
 - `colors` — accent and background colours.
 - `text` — every on-screen line, per language. Statements such as fabrication, installation or quotes are generic: remove any that don’t match the business.
 
