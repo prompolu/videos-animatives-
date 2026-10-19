@@ -1,0 +1,4111 @@
+{
+  "duration": 1871,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "scenes": [
+    {
+      "kind": "intro",
+      "duration": 9,
+      "user_image": "assets/user/laboratoire.jpg",
+      "index": 0,
+      "start": 0,
+      "end": 9,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "overview",
+      "duration": 10,
+      "index": 1,
+      "start": 9,
+      "end": 19,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "duration": 7,
+      "user_image": "assets/user/category-hygiene-professionnelle-et-institutionnelle.jpg",
+      "index": 2,
+      "start": 19,
+      "end": 26,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "35579ab6834b2a06",
+      "section_name": "Hygiène des bâtiments d’élevage",
+      "duration": 4,
+      "index": 3,
+      "start": 26,
+      "end": 30,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "35579ab6834b2a06",
+      "section_name": "Hygiène des bâtiments d’élevage",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "1ea9dbfa3b2aea9b",
+        "813286a7a1955142",
+        "b33c48fe03f3e6b2"
+      ],
+      "on_screen_names": [
+        "BIOMA UNIVERDET TP-05",
+        "ELVANET EXPULSE 2000",
+        "GERMAZYME E4"
+      ],
+      "index": 4,
+      "start": 30,
+      "end": 42,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "e4540629714795a6",
+      "section_name": "Biosécurité interne des surfaces et des équipements",
+      "duration": 4,
+      "index": 5,
+      "start": 42,
+      "end": 46,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "e4540629714795a6",
+      "section_name": "Biosécurité interne des surfaces et des équipements",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "aab139c8cc8c5d91",
+        "c5b9f5536457573e",
+        "72f16f9f824a65e4",
+        "378f22f34de2e9ee",
+        "721e552f43617580",
+        "19a77281f74e2ca7"
+      ],
+      "on_screen_names": [
+        "AGRONET ACIDE P70/BE",
+        "AGRONET ALCALIN K50/BE",
+        "ALCANEP 33N/BE",
+        "BIOMA ACIDE",
+        "BIOMA ALCALIN",
+        "BIOMACIDE intégral puissance 3"
+      ],
+      "index": 6,
+      "start": 46,
+      "end": 58,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "e4540629714795a6",
+      "section_name": "Biosécurité interne des surfaces et des équipements",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "f9d1d869e3ad2536",
+        "9e93da39f2134577",
+        "2d24e9ee017d541e",
+        "c0da6caa9f3e3b6e",
+        "a7ffafd435269efc",
+        "1c9867b1609c4567"
+      ],
+      "on_screen_names": [
+        "BIOMASEPTOL D80/LM",
+        "DETAFOAM SP60/BE",
+        "FORTICIDE GENERATOR",
+        "NEUTROCIDE A50-BE",
+        "NITRICIP N63/BE",
+        "OXYCIDE AP/8-BE"
+      ],
+      "index": 7,
+      "start": 58,
+      "end": 70,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "ec1170171c3f77c8",
+      "section_name": "Biosécurité interne : hygiène du personnel",
+      "duration": 4,
+      "index": 8,
+      "start": 70,
+      "end": 74,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "ec1170171c3f77c8",
+      "section_name": "Biosécurité interne : hygiène du personnel",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "965356f84bf85d31",
+        "e44f8138b6612711",
+        "75d1168abc27d754"
+      ],
+      "on_screen_names": [
+        "BIOMA antiseptique/ST",
+        "BIOMASEPTOL GEL",
+        "BIOMASEPTOL SHA BE"
+      ],
+      "index": 9,
+      "start": 74,
+      "end": 86,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "0329dfb18e5680cc",
+      "section_name": "Biosécurité interne : eau d’abreuvage",
+      "duration": 4,
+      "index": 10,
+      "start": 86,
+      "end": 90,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "0329dfb18e5680cc",
+      "section_name": "Biosécurité interne : eau d’abreuvage",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "7211c953279c41ab"
+      ],
+      "on_screen_names": [
+        "HYDROCIDE 50 LV"
+      ],
+      "index": 11,
+      "start": 90,
+      "end": 102,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f70cdc93b010ec89",
+      "section_name": "Hygiène et prophylaxie de traite",
+      "duration": 4,
+      "index": 12,
+      "start": 102,
+      "end": 106,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f70cdc93b010ec89",
+      "section_name": "Hygiène et prophylaxie de traite",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "b3aca98a3d7fc396",
+        "f4f8a5e739812681",
+        "073668ac27ca4624",
+        "7762a029d5ef4813",
+        "9892406230632f8c",
+        "c311c94b6d5595a9"
+      ],
+      "on_screen_names": [
+        "ALCANEP 33",
+        "ALCANEP 33 MA",
+        "BIOMA SAVON ANTISEPTIQUE DES MAINS",
+        "DETACID PS-40",
+        "FORTICIDE 60 PLUS",
+        "NITRICIP 63 NM"
+      ],
+      "index": 13,
+      "start": 106,
+      "end": 118,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "3a343cafe2717c98",
+      "section_name": "Hygiène des surfaces et des installations de traite",
+      "duration": 4,
+      "index": 14,
+      "start": 118,
+      "end": 122,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "3a343cafe2717c98",
+      "section_name": "Hygiène des surfaces et des installations de traite",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e99aba76f5e3a460",
+        "06523caf538e8a0f",
+        "e4a35f2385a9ff11",
+        "5475dbeb3e3720b2",
+        "b7a4564f763b4c9f"
+      ],
+      "on_screen_names": [
+        "ALCANEP 33N/ST",
+        "CHLORACIDE T80 ST",
+        "NEUTROCIDE A50 ST",
+        "NITRICIP 63N ST",
+        "OXYCIDE AP/8 ST"
+      ],
+      "index": 15,
+      "start": 122,
+      "end": 134,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "fff40fd348816590",
+      "section_name": "Hygiène de la mamelle",
+      "duration": 4,
+      "index": 16,
+      "start": 134,
+      "end": 138,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "fff40fd348816590",
+      "section_name": "Hygiène de la mamelle",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e23e51bea68fd0b7",
+        "6450c63c7b7fe34f",
+        "ce126d91f0ee1672",
+        "907d163e1aae813c",
+        "98a7806f433416de",
+        "80fd5578534df091"
+      ],
+      "on_screen_names": [
+        "CAPMAMELLE",
+        "CAPMAMELLE IODINE",
+        "ELVACIDE F3",
+        "ELVANET 2000",
+        "OXYCIDE AP/8 STM",
+        "VASOPIS"
+      ],
+      "index": 17,
+      "start": 138,
+      "end": 150,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "7188f06eb86afc35",
+      "section_name": "Hygiène des mains et des lavettes",
+      "duration": 4,
+      "index": 18,
+      "start": 150,
+      "end": 154,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "7188f06eb86afc35",
+      "section_name": "Hygiène des mains et des lavettes",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "38239b75670efaac",
+        "ef6b667e72090759"
+      ],
+      "on_screen_names": [
+        "BIOMA antiseptique C",
+        "FORTICIDE GENERATOR SURFASPRAY ST"
+      ],
+      "index": 19,
+      "start": 154,
+      "end": 166,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "e19971e955acec24",
+      "section_name": "Hygiène de l’eau d’abreuvage",
+      "duration": 4,
+      "index": 20,
+      "start": 166,
+      "end": 170,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "e19971e955acec24",
+      "section_name": "Hygiène de l’eau d’abreuvage",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "d8f4402a5fe85fe2"
+      ],
+      "on_screen_names": [
+        "HYDROCIDE 50"
+      ],
+      "index": 21,
+      "start": 170,
+      "end": 182,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "b03eaa2b90c6c11c",
+      "section_name": "Hygiène des cuisines professionnelles",
+      "duration": 4,
+      "index": 22,
+      "start": 182,
+      "end": 186,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "b03eaa2b90c6c11c",
+      "section_name": "Hygiène des cuisines professionnelles",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "25b46e4610368d3f",
+        "5c81a9cea31c3601",
+        "7dfcb6bb4fdd150a",
+        "7c45701a0a9bd169",
+        "f904b1d5469f4088"
+      ],
+      "on_screen_names": [
+        "AGRONET ACIDE /PS 25",
+        "AGRONET K 50",
+        "AGRONET KP50",
+        "CHLORACIDE FL 2.6%",
+        "NEUTROCIDE V1 CA2%"
+      ],
+      "index": 23,
+      "start": 186,
+      "end": 198,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "c7d873f0641013d9",
+      "section_name": "Hygiène des sols, surfaces et équipements",
+      "duration": 4,
+      "index": 24,
+      "start": 198,
+      "end": 202,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "c7d873f0641013d9",
+      "section_name": "Hygiène des sols, surfaces et équipements",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "7164f865876c1642",
+        "4bb6ac78f2467584",
+        "871f1804d718d6ab",
+        "02a2e18b9332503d"
+      ],
+      "on_screen_names": [
+        "AGRONET ACIDE PS 25 CP",
+        "AGRONET ALCALIN K50 CP",
+        "CHLORACIDE T80/CP",
+        "DETAFOAM PS/60 CP"
+      ],
+      "index": 25,
+      "start": 202,
+      "end": 214,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "aedadba68ddfbe63",
+      "section_name": "Lavage et rinçage de la vaisselle",
+      "duration": 4,
+      "index": 26,
+      "start": 214,
+      "end": 218,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "aedadba68ddfbe63",
+      "section_name": "Lavage et rinçage de la vaisselle",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "f9b07a2fef56e53c",
+        "10d4ddabdfdac727",
+        "837a39eb3329ba6a",
+        "f373dc7f5a0557a3"
+      ],
+      "on_screen_names": [
+        "DETAFOAM PS60 CPR",
+        "NEUTROCIDE V1",
+        "NEUTROCIDE V2",
+        "NEUTROCIDE V3"
+      ],
+      "index": 27,
+      "start": 218,
+      "end": 230,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "4778ba4e2bca7504",
+      "section_name": "Entretien et additifs pour machine lave-vaisselle",
+      "duration": 4,
+      "index": 28,
+      "start": 230,
+      "end": 234,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "4778ba4e2bca7504",
+      "section_name": "Entretien et additifs pour machine lave-vaisselle",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6052a86252854627",
+        "978d7e737d576e09"
+      ],
+      "on_screen_names": [
+        "BIOMA SEL-ZUT",
+        "DETAFOAM ANTISCAL"
+      ],
+      "index": 29,
+      "start": 234,
+      "end": 246,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "37d58ad81f29a3c4",
+      "section_name": "Traitement assainissant des végétaux",
+      "duration": 4,
+      "index": 30,
+      "start": 246,
+      "end": 250,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "37d58ad81f29a3c4",
+      "section_name": "Traitement assainissant des végétaux",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "eec6c1f3c4d43400",
+        "201a069b8ff0c36d"
+      ],
+      "on_screen_names": [
+        "CHLORACIDE FL2 (2.6% chlore actif)",
+        "OXYCIDE FL2"
+      ],
+      "index": 31,
+      "start": 250,
+      "end": 262,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "505a62cb1e688e15",
+      "section_name": "Hygiène du personnel",
+      "duration": 4,
+      "index": 32,
+      "start": 262,
+      "end": 266,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "505a62cb1e688e15",
+      "section_name": "Hygiène du personnel",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "da68fc4d136b9759",
+        "bddbfd7f5d9e963d",
+        "b07b1e9b32f78b6a"
+      ],
+      "on_screen_names": [
+        "BIOMA ANTISEPTIQUE CP",
+        "BIOMASEPTOL GHA",
+        "BIOMASEPTOL SHA/70"
+      ],
+      "index": 33,
+      "start": 266,
+      "end": 278,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "7fe2b150a47d6410",
+      "section_name": "Hygiène et entretien du textile et du linge professionnel",
+      "duration": 4,
+      "index": 34,
+      "start": 278,
+      "end": 282,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "7fe2b150a47d6410",
+      "section_name": "Hygiène et entretien du textile et du linge professionnel",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "beef8792f69666fc",
+        "2982ee1bf1adc56d",
+        "f511cc40ee222511",
+        "68eb13bc5021b311"
+      ],
+      "on_screen_names": [
+        "BIOMATIC DETAZYMES PRO",
+        "CHLORACIDE PLUS 15% CA",
+        "NEUTROCIDE T100 PRO LP",
+        "OPTICAL BRIGHTENER"
+      ],
+      "index": 35,
+      "start": 282,
+      "end": 294,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "d8128864f53ee0b3",
+      "section_name": "Lavage du linge",
+      "duration": 4,
+      "index": 36,
+      "start": 294,
+      "end": 298,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "d8128864f53ee0b3",
+      "section_name": "Lavage du linge",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "8be1421f5c69f810",
+        "af8f5f54b40b8b69",
+        "7e648eaacd0f6ed2",
+        "30fb43aa0f6df983",
+        "0bc8d3705462c424",
+        "72ddaf2889d9dc39"
+      ],
+      "on_screen_names": [
+        "BIOMATIC DETAZYME PRO/LP",
+        "BIOMATIC PRO 90",
+        "BIOMATIC PRO/LP",
+        "BOOSTER CLEAN 55",
+        "BOOSTER CLEAN33",
+        "OXYCIDE QUICK AP/15 LB Triple action"
+      ],
+      "index": 37,
+      "start": 298,
+      "end": 310,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "d8128864f53ee0b3",
+      "section_name": "Lavage du linge",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "dd9b5a26daa19aa6"
+      ],
+      "on_screen_names": [
+        "TECNOSOFT 60 AS/LP"
+      ],
+      "index": 38,
+      "start": 310,
+      "end": 322,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "0353ac1da429b9ef",
+      "section_name": "Blanchiment et décontamination du linge",
+      "duration": 4,
+      "index": 39,
+      "start": 322,
+      "end": 326,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "0353ac1da429b9ef",
+      "section_name": "Blanchiment et décontamination du linge",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "2cc19cfbe3189caf",
+        "6a3e733ffab769c1",
+        "52dd42c94b60670e"
+      ],
+      "on_screen_names": [
+        "CHLORACIDE PLUS 15% LB",
+        "OXYCIDE AP 8 LB",
+        "OXYCIDE QUICK AP/15 LB"
+      ],
+      "index": 40,
+      "start": 326,
+      "end": 338,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "08878529bbf94253",
+      "section_name": "Hygiène en industrie de transformation agroalimentaire",
+      "duration": 4,
+      "index": 41,
+      "start": 338,
+      "end": 342,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "08878529bbf94253",
+      "section_name": "Hygiène en industrie de transformation agroalimentaire",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "073668ac27ca4624"
+      ],
+      "on_screen_names": [
+        "BIOMA SAVON ANTISEPTIQUE DES MAINS"
+      ],
+      "index": 42,
+      "start": 342,
+      "end": 354,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "9fc8bb3a299f6621",
+      "section_name": "Hygiène des sols, surfaces et matériel",
+      "duration": 4,
+      "index": 43,
+      "start": 354,
+      "end": 358,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "9fc8bb3a299f6621",
+      "section_name": "Hygiène des sols, surfaces et matériel",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "75e22c3fc9d68948",
+        "155666e21f9fb820",
+        "411f4b6c627f3234",
+        "c9826f90ba571f9e",
+        "43d409c17625a5d5",
+        "15c7b29ba01a620c"
+      ],
+      "on_screen_names": [
+        "AGRONET ACIDE P70",
+        "AGRONET ALCALIN K50",
+        "AGRONEUTRE TC",
+        "ALCANEP N33",
+        "CHLORACIDE FL2",
+        "CHLORACIDE PLUS"
+      ],
+      "index": 44,
+      "start": 358,
+      "end": 370,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "9fc8bb3a299f6621",
+      "section_name": "Hygiène des sols, surfaces et matériel",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "d13b0cdb13d5050a",
+        "326616b891bf5e4e",
+        "099d7cea11dea4e8",
+        "95769c46199d818a",
+        "75e85281b39a182a",
+        "80f9c635a5d26bca"
+      ],
+      "on_screen_names": [
+        "CHLORACIDE T80",
+        "DETAFOAM PS60",
+        "FORTICIDE GENERATOR SURFASPRAY",
+        "NEUTROCIDE A50",
+        "NITRICIP 63N",
+        "OXYCIDE AP/8"
+      ],
+      "index": 45,
+      "start": 370,
+      "end": 382,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "60ce96607c8c47df",
+      "section_name": "Hygiène du personnel et des mains",
+      "duration": 4,
+      "index": 46,
+      "start": 382,
+      "end": 386,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "60ce96607c8c47df",
+      "section_name": "Hygiène du personnel et des mains",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "02ce3bfb6aef9c5c",
+        "a155a24efc5f32c7",
+        "ead4e6ec64694b98",
+        "bc4293beb0985644"
+      ],
+      "on_screen_names": [
+        "BIOMA ANTISEPTIQUE",
+        "BIOMA luxury antiseptique",
+        "BIOMASEPTOL GEL HYDROALCOOLIQUE",
+        "BIOMASEPTOL SHA MAINS SOLUTION HYDROALCOOLIQUE"
+      ],
+      "index": 47,
+      "start": 386,
+      "end": 398,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "45262b08c095e216",
+      "section_name": "Traitement des fruits et légumes en stations d’emballage",
+      "duration": 4,
+      "index": 48,
+      "start": 398,
+      "end": 402,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "45262b08c095e216",
+      "section_name": "Traitement des fruits et légumes en stations d’emballage",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "3c55b780828f8d3a",
+        "3bd43b355c7d9223",
+        "92c7040ad193519e",
+        "b2f0e5c6152f1ced"
+      ],
+      "on_screen_names": [
+        "CHLORACIDE FL2 SE",
+        "ELVANET 2000 SE",
+        "HYDROCIDE 50 SE",
+        "OXYCIDE AP/8 SE"
+      ],
+      "index": 49,
+      "start": 402,
+      "end": 414,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f55ac37960bd625d",
+      "section_name": "Hygiène et traitement des sols et surfaces",
+      "duration": 4,
+      "index": 50,
+      "start": 414,
+      "end": 418,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f55ac37960bd625d",
+      "section_name": "Hygiène et traitement des sols et surfaces",
+      "page": 1,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "919ce7a72e0121a5",
+        "bf218e275ea01c60",
+        "45996fd2aa027b5c",
+        "676583319e47e25e",
+        "264e581b87a2db38",
+        "f83d26b5c322603e"
+      ],
+      "on_screen_names": [
+        "AGRONET ALCALIN TP 01",
+        "AGRONEUTRE TP 06",
+        "AIR FRESH AMBIANCE TP 18",
+        "BIOMA SURFASPRAY",
+        "CRISTAMARBRE TP 13",
+        "DECAMABRE TP 12"
+      ],
+      "index": 51,
+      "start": 418,
+      "end": 430,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f55ac37960bd625d",
+      "section_name": "Hygiène et traitement des sols et surfaces",
+      "page": 2,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "82cbd982794e8f87",
+        "e15c7050a1594d19",
+        "94a865efb41024bb",
+        "8f9cea681b5e203e",
+        "c4f51a6f33d5e799",
+        "b322e2d6e64e4d07"
+      ],
+      "on_screen_names": [
+        "DECANET PRO TP 02",
+        "DERETANG /FF215",
+        "DETAFOAM ANTISCAL TP 08",
+        "DETAFOAM inox TP 07",
+        "DETAFOAM inox TP-09",
+        "DETAZYMES TP-09"
+      ],
+      "index": 52,
+      "start": 430,
+      "end": 442,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f55ac37960bd625d",
+      "section_name": "Hygiène et traitement des sols et surfaces",
+      "page": 3,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "8d451d4e204db94a",
+        "e0e3954d40ea2880",
+        "f5054ea67d752cec",
+        "8857577f6498ea81",
+        "ee69ee4f287dbd40",
+        "486079f6aa03d779"
+      ],
+      "on_screen_names": [
+        "DETAZYMES TP 17",
+        "FLOORFRESH TP-15 Triple action",
+        "FLOORFRESH TP-17",
+        "LUSTRAMARBRE TP 14",
+        "PARQUET REMOVER TP 15",
+        "PARQUET REMOVER TP-16"
+      ],
+      "index": 53,
+      "start": 442,
+      "end": 454,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-et-institutionnelle",
+      "section_id": "f55ac37960bd625d",
+      "section_name": "Hygiène et traitement des sols et surfaces",
+      "page": 4,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "c8d0a545063386eb",
+        "12ea8f2360ee8ed4",
+        "b66a64940ecd8778",
+        "ddc21b0de670fdae",
+        "492cfe60b40e09bb",
+        "08bdd44e4f8db0f5"
+      ],
+      "on_screen_names": [
+        "RENOCARPET TP 11",
+        "SOLVANET TP 03",
+        "SOLVANET TP-03 UN",
+        "SURFAZYME TP E5",
+        "UNIVERDET TP 04",
+        "VITROL TP 10"
+      ],
+      "index": 54,
+      "start": 454,
+      "end": 466,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "hygiene-en-milieu-medicale",
+      "duration": 7,
+      "user_image": "assets/user/category-hygiene-en-milieu-medicale.jpg",
+      "index": 55,
+      "start": 466,
+      "end": 473,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "f050b424e414ee5a",
+      "section_name": "Désinfection par voie aérienne (aérosolisation)",
+      "duration": 4,
+      "index": 56,
+      "start": 473,
+      "end": 477,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "f050b424e414ee5a",
+      "section_name": "Désinfection par voie aérienne (aérosolisation)",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "4a5d144f65849071",
+        "028ef8175ab7496b",
+        "8fa1b87192c3909e"
+      ],
+      "on_screen_names": [
+        "GERMACID DSMV CIDEX/ HP",
+        "OXYCIDE AP/8 DVA CIDEX",
+        "OXYCIDE QUICK AP/15 DVA CIDEX"
+      ],
+      "index": 57,
+      "start": 477,
+      "end": 489,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "3badf256a6d913a5",
+      "section_name": "Hygiène des mains",
+      "duration": 4,
+      "index": 58,
+      "start": 489,
+      "end": 493,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "3badf256a6d913a5",
+      "section_name": "Hygiène des mains",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "d1fd9d87b9984fff",
+        "ef0c219fdfb7d654",
+        "0019780f4a69e8fc",
+        "193b2be7b1e7d755",
+        "673ba1a5a60f62a6",
+        "45c0b7692ed2c1e3"
+      ],
+      "on_screen_names": [
+        "BIOMA CIDEX D1 SCRUB 5% PCMX- CG",
+        "BIOMA CIDEX D2/HF",
+        "BIOMA LUXURY — Digluconate de chlorhexidine 2 %",
+        "BIOMASEPTOL GEL HYDOALCOOLIQUE",
+        "BIOMASEPTOL SHA",
+        "DERMO-CIDEX"
+      ],
+      "index": 59,
+      "start": 493,
+      "end": 505,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "569fafc41756a895",
+      "section_name": "Traitement des instruments médico-chirurgicaux",
+      "duration": 4,
+      "index": 60,
+      "start": 505,
+      "end": 509,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "569fafc41756a895",
+      "section_name": "Traitement des instruments médico-chirurgicaux",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "242be3f7eba56f89",
+        "8253edc7400a744d",
+        "4973c3d34dc9ffff",
+        "2a085aee2920ed29",
+        "f9dc7b2602c7ed27",
+        "94414f61dfd1ff2e"
+      ],
+      "on_screen_names": [
+        "DETAFOAM PS60 CIDEX",
+        "FORTICIDE PS60 CIDEX",
+        "GERMACID 2% CIDEX",
+        "GERMACID E4 BLEND QUADRIZYMES",
+        "OXYCIDE AP/8 cidex DHN",
+        "OXYCIDE QUICK AP/15 CIDEX"
+      ],
+      "index": 61,
+      "start": 509,
+      "end": 521,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "569fafc41756a895",
+      "section_name": "Traitement des instruments médico-chirurgicaux",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "9d1893e719303864"
+      ],
+      "on_screen_names": [
+        "OXYCIDE QUICK AP/15 CIDEX/DHN"
+      ],
+      "index": 62,
+      "start": 521,
+      "end": 533,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "47807b72b1405fc9",
+      "section_name": "Traitement des endoscopes",
+      "duration": 4,
+      "index": 63,
+      "start": 533,
+      "end": 537,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "47807b72b1405fc9",
+      "section_name": "Traitement des endoscopes",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "a4602a36c7ac42af",
+        "295d46b2f79f6f93",
+        "d0a59d9980db46de",
+        "488b3cdfa2c18818"
+      ],
+      "on_screen_names": [
+        "GERMACID 2% CIDEX EN",
+        "GERMACID E4 BLEND QUADRIZYMES EN",
+        "OXYCIDE AP/8 cidex EN",
+        "OXYCIDE QUICK AP/15 CIDEX EN"
+      ],
+      "index": 64,
+      "start": 537,
+      "end": 549,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "89feec4c41812d05",
+      "section_name": "Gel de transmission ultrasonique",
+      "duration": 4,
+      "index": 65,
+      "start": 549,
+      "end": 553,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "89feec4c41812d05",
+      "section_name": "Gel de transmission ultrasonique",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e904e5014ff6a544"
+      ],
+      "on_screen_names": [
+        "BIOMA ULTRASOUND GEL"
+      ],
+      "index": 66,
+      "start": 553,
+      "end": 565,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "e83e64e244ed03f2",
+      "section_name": "Hygiène des sols, surfaces et matériel médical",
+      "duration": 4,
+      "index": 67,
+      "start": 565,
+      "end": 569,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "e83e64e244ed03f2",
+      "section_name": "Hygiène des sols, surfaces et matériel médical",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "7ed3c8758ac11a75",
+        "f727d45d80074cde",
+        "ba71ce463872bec3",
+        "c8d68acf81b3db11",
+        "6b21ca6c3e387ef2",
+        "8700bba2ae229509"
+      ],
+      "on_screen_names": [
+        "BIOMA SANITIZER CIDEX",
+        "BIOMA-SURF NDD cidex",
+        "BIOMASEPTOL SHA SURFASPRAY",
+        "CHLORACIDE 13%",
+        "CHLORACIDE 2.6% CIDEX",
+        "GERMA-SURF NDD"
+      ],
+      "index": 68,
+      "start": 569,
+      "end": 581,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "e83e64e244ed03f2",
+      "section_name": "Hygiène des sols, surfaces et matériel médical",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "8b774b42398a09b9",
+        "7baf19abe15b9e84",
+        "76df94ee11806cb7",
+        "a72a411d5fcbd6c3",
+        "85d6bbad372d6246",
+        "789a6eeb25f93cdb"
+      ],
+      "on_screen_names": [
+        "GERMACID SHA SURFASPRAY",
+        "GERMACIDE 4 ANTITACHE",
+        "NEUTROCIDE A 50 CIDEX Acti-Foam",
+        "OXYBAC",
+        "OXYCIDE QUICK AIR FRESH AMBIANCE",
+        "OXYCIDE QUICK AP/15 CIDEX SS"
+      ],
+      "index": 69,
+      "start": 581,
+      "end": 593,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "963ffb16961b9863",
+      "section_name": "Hygiène des générateurs d’hémodialyse et de la boucle d’eau",
+      "duration": 4,
+      "index": 70,
+      "start": 593,
+      "end": 597,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "3e2ef4d24daa0bca",
+      "section_name": "Traitement externe",
+      "duration": 4,
+      "index": 71,
+      "start": 597,
+      "end": 601,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "3e2ef4d24daa0bca",
+      "section_name": "Traitement externe",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "fd1e4edb901a986b",
+        "f3140e106663cf68",
+        "2a045b16e9f65abc"
+      ],
+      "on_screen_names": [
+        "GERMACID E4 ANTITACHE SURFASPRAY",
+        "GERMACID SHA SURFASPRAY HD",
+        "OXYCIDE QUICK AP/15 CIDEX HD"
+      ],
+      "index": 72,
+      "start": 601,
+      "end": 613,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "eb5e2bbfb1e2a959",
+      "section_name": "Traitement interne",
+      "duration": 4,
+      "index": 73,
+      "start": 613,
+      "end": 617,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "eb5e2bbfb1e2a959",
+      "section_name": "Traitement interne",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "603bc92d2a43f859",
+        "42964112d06d0286"
+      ],
+      "on_screen_names": [
+        "NEUTROCIDE DD 50 CIDEX",
+        "OXYCIDE NDD CIDEX"
+      ],
+      "index": 74,
+      "start": 617,
+      "end": 629,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "941eb1b0bb0d9003",
+      "section_name": "Hygiène du personnel soignant",
+      "duration": 4,
+      "index": 75,
+      "start": 629,
+      "end": 633,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "941eb1b0bb0d9003",
+      "section_name": "Hygiène du personnel soignant",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "0397fdecf537b102"
+      ],
+      "on_screen_names": [
+        "BIOMASEPTOL SHA/70M"
+      ],
+      "index": 76,
+      "start": 633,
+      "end": 645,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "85bfe2ff9901f7c1",
+      "section_name": "Hygiène de l’environnement de la salle de dialyse",
+      "duration": 4,
+      "index": 77,
+      "start": 645,
+      "end": 649,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "85bfe2ff9901f7c1",
+      "section_name": "Hygiène de l’environnement de la salle de dialyse",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "0fc36930b5111fa5",
+        "bfd8bc54ae6572d2",
+        "4e90f7593e25d6c2"
+      ],
+      "on_screen_names": [
+        "CHLORACIDE 2.6% CIDEX/01HS",
+        "CIDEX AIR FRESH AMBIANCE",
+        "NETTOYANT, DESINFECTANT ET DESODORISANT"
+      ],
+      "index": 78,
+      "start": 649,
+      "end": 661,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "c0ea597459d88d58",
+      "section_name": "Produits spéciaux",
+      "duration": 4,
+      "index": 79,
+      "start": 661,
+      "end": 665,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-en-milieu-medicale",
+      "section_id": "c0ea597459d88d58",
+      "section_name": "Produits spéciaux",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6f994627ff189ab0",
+        "a39155a1545ee781",
+        "9012ccb99fcafd06",
+        "01e153bf62b69f12"
+      ],
+      "on_screen_names": [
+        "Alcool éthylique 70 %",
+        "Alcool éthylique 96 %",
+        "Peroxyde d’hydrogène 35 %",
+        "Peroxyde d’hydrogène 50 %"
+      ],
+      "index": 80,
+      "start": 665,
+      "end": 677,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "hygiene-professionnelle-ecologique",
+      "duration": 7,
+      "user_image": "assets/user/category-hygiene-professionnelle-ecologique.jpg",
+      "index": 81,
+      "start": 677,
+      "end": 684,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-ecologique",
+      "section_id": "2a8cdc55bc4f5429",
+      "section_name": "Sols, surfaces et équipements professionnels",
+      "duration": 4,
+      "index": 82,
+      "start": 684,
+      "end": 688,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-ecologique",
+      "section_id": "2a8cdc55bc4f5429",
+      "section_name": "Sols, surfaces et équipements professionnels",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "709ed5976785a287",
+        "a3595629cf76006d",
+        "02d0a48b61f5c880",
+        "319243a175692fc8",
+        "51fbde1a9f2bc52a",
+        "c313fca9f7fbf39e"
+      ],
+      "on_screen_names": [
+        "BIOMA nature DETAZYMES TP-E4",
+        "BIOMA nature MARBRE",
+        "BIOMA nature multi-usage",
+        "BIOMA nature RENOCARPET",
+        "BIOMA nature SANITARY FLOOR",
+        "BIOMA nature VITRAL"
+      ],
+      "index": 83,
+      "start": 688,
+      "end": 700,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "hygiene-professionnelle-ecologique",
+      "section_id": "f70ec019b019d1c1",
+      "section_name": "Hygiène écologique du linge",
+      "duration": 4,
+      "index": 84,
+      "start": 700,
+      "end": 704,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "hygiene-professionnelle-ecologique",
+      "section_id": "f70ec019b019d1c1",
+      "section_name": "Hygiène écologique du linge",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "deac2747c4ad2b22",
+        "11cc35fcad5267c5",
+        "583a5de4e09a423f"
+      ],
+      "on_screen_names": [
+        "BIOMATIC DETAZYME PRO",
+        "BIOMATIC nature linge",
+        "OXYCIDE AP/8 BL"
+      ],
+      "index": 85,
+      "start": 704,
+      "end": 716,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "matiere-premiere-cosmetique",
+      "duration": 7,
+      "user_image": "assets/user/category-matiere-premiere-cosmetique.jpg",
+      "index": 86,
+      "start": 716,
+      "end": 723,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ee1778007d2f9137",
+      "section_name": "Bases cosmétiques neutres et naturelles",
+      "duration": 4,
+      "index": 87,
+      "start": 723,
+      "end": 727,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ee1778007d2f9137",
+      "section_name": "Bases cosmétiques neutres et naturelles",
+      "page": 1,
+      "pages": 4,
+      "duration": 16,
+      "product_ids": [
+        "62abf46b23ed42e2",
+        "cc54f4448e39f5a8",
+        "cec513175287be1e",
+        "b7cad9f77ba88814",
+        "8c75590551b049ff",
+        "47421f20cfffdf3c"
+      ],
+      "on_screen_names": [
+        "Base crème soins visage neutre",
+        "Base de crème neutre",
+        "Base de crème soins des mains et pieds neutre",
+        "Base de liniment oléocalcaire",
+        "Base de lotion d’hygiène intime neutre",
+        "Base de lotion tonique pour le visage"
+      ],
+      "index": 88,
+      "start": 727,
+      "end": 743,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ee1778007d2f9137",
+      "section_name": "Bases cosmétiques neutres et naturelles",
+      "page": 2,
+      "pages": 4,
+      "duration": 18,
+      "product_ids": [
+        "6e416170a6b2b4df",
+        "9623d99ee15d0073",
+        "c19a10efead6f683",
+        "94d13c3cb5c3012c",
+        "e1a8dab8145fba4a",
+        "8bbe92656a59df55"
+      ],
+      "on_screen_names": [
+        "Base de savon neutre glycérinée « Melt and Pour »",
+        "Base de shampooing neutre avec sulfate",
+        "Base de shampooing neutre sans sulfate et sans sel",
+        "Base gommage neutre",
+        "Base lait corporel neutre",
+        "Base masque conditionneur et démêleur neutre pour cheveux"
+      ],
+      "index": 89,
+      "start": 743,
+      "end": 761,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ee1778007d2f9137",
+      "section_name": "Bases cosmétiques neutres et naturelles",
+      "page": 3,
+      "pages": 4,
+      "duration": 13,
+      "product_ids": [
+        "bdec082ec6d6c9dc",
+        "db62e6a10d627626",
+        "23490a2874dfd915",
+        "1dbda50e97e23e88",
+        "7b6b7fc85c93f10c",
+        "b18fc5e7318844a7"
+      ],
+      "on_screen_names": [
+        "Base sérum cheveux antichute",
+        "Base sérum cheveux lissant",
+        "Base sérum pour visage",
+        "Base sérum réparateur cheveux abîmés",
+        "Base soin blanchissant des dents au charbon actif",
+        "BIOMA EC90"
+      ],
+      "index": 90,
+      "start": 761,
+      "end": 774,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ee1778007d2f9137",
+      "section_name": "Bases cosmétiques neutres et naturelles",
+      "page": 4,
+      "pages": 4,
+      "duration": 14,
+      "product_ids": [
+        "6cfaae6bc0f9cae1",
+        "0baf0c4de46fa644",
+        "1e990aa065e7fe72",
+        "af658cfca71197a1",
+        "041b3907fe57ce8b",
+        "42f513d8f3e4eabc"
+      ],
+      "on_screen_names": [
+        "BIOMA Hair Care",
+        "BIOMA luxury EC 90 (Full care/ make cream)",
+        "BIOMA luxury HAIR CARE Free sulfate",
+        "BIOMA luxury soap (MELT & POUR)",
+        "BIOMA SOAP",
+        "CIRQUAT CDC ESTERS (C40- C46)"
+      ],
+      "index": 91,
+      "start": 774,
+      "end": 788,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "duration": 4,
+      "index": 92,
+      "start": 788,
+      "end": 792,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 1,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "299a76139a2efbd5",
+        "3cd0c3b3ea0dabdf",
+        "319817d56f1bb9ac",
+        "aa854aaa14f0dde7",
+        "42356c587be59936",
+        "1821db2ce5394234"
+      ],
+      "on_screen_names": [
+        "Huile d’abricot",
+        "Huile d’ail",
+        "Huile d’aloe vera",
+        "Huile d’amande",
+        "Huile d’arachide",
+        "Huile d’argan"
+      ],
+      "index": 93,
+      "start": 792,
+      "end": 804,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 2,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "825cf7e223131595",
+        "0c5a1915d6f5ccc8",
+        "543d6b7abd72fe37",
+        "38044bdd9df33e2a",
+        "0837badb42909e75",
+        "b6bbd1207134cee5"
+      ],
+      "on_screen_names": [
+        "Huile d’avocat",
+        "Huile d’olive vierge",
+        "Huile d’onagre",
+        "Huile de bourrache",
+        "Huile de calendula",
+        "Huile de camomille"
+      ],
+      "index": 94,
+      "start": 804,
+      "end": 816,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 3,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "6e5c55f512a30cf6",
+        "305c09e4affb4218",
+        "f985aa6c9c2228ff",
+        "7424f71356a3a5b1",
+        "2c84bee40871ca85",
+        "4076bbe047347228"
+      ],
+      "on_screen_names": [
+        "Huile de carotte",
+        "Huile de carthame",
+        "Huile de chanvre",
+        "Huile de coco",
+        "Huile de colza",
+        "Huile de germes de blé"
+      ],
+      "index": 95,
+      "start": 816,
+      "end": 828,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 4,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "4b80554b6381850a",
+        "25e892e56da36f7f",
+        "d62e425e4046b063",
+        "fdec16c3440f5c64",
+        "a6e4df41019edf84",
+        "6d778da0d8790110"
+      ],
+      "on_screen_names": [
+        "Huile de jojoba",
+        "Huile de macadamia",
+        "Huile de maïs",
+        "Huile de nigelle",
+        "Huile de noisette",
+        "Huile de palme"
+      ],
+      "index": 96,
+      "start": 828,
+      "end": 840,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 5,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "9ce0b209ed5d86d8",
+        "7e55fd4cd426ebee",
+        "c7eb590794c887bf",
+        "b2abf371dc2d08cf",
+        "5bae37284c57929b",
+        "63e668a4e4d3db67"
+      ],
+      "on_screen_names": [
+        "Huile de pépins de raisin",
+        "Huile de ricin",
+        "Huile de riz",
+        "Huile de rose musquée",
+        "Huile de sésame",
+        "Huile de soja"
+      ],
+      "index": 97,
+      "start": 840,
+      "end": 852,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8beb9e62f412547f",
+      "section_name": "Huiles végétales de grade cosmétique",
+      "page": 6,
+      "pages": 6,
+      "duration": 12,
+      "product_ids": [
+        "2065dd56bee9bf61",
+        "aaaa9e1202a7b0e9"
+      ],
+      "on_screen_names": [
+        "Huile de tournesol",
+        "LES HUILES VEGETALES AUX VERTUS COSMETIQUES"
+      ],
+      "index": 98,
+      "start": 852,
+      "end": 864,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ec95fb994b8bad66",
+      "section_name": "Huiles minérales de grade cosmétique",
+      "duration": 4,
+      "index": 99,
+      "start": 864,
+      "end": 868,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ec95fb994b8bad66",
+      "section_name": "Huiles minérales de grade cosmétique",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "16b0c578df491471",
+        "1eed72479e2abb59"
+      ],
+      "on_screen_names": [
+        "Huile de paraffine codex",
+        "Huile de vaseline codex"
+      ],
+      "index": 100,
+      "start": 868,
+      "end": 880,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7d07bc884e805d49",
+      "section_name": "Huiles de silicone de grade cosmétique",
+      "duration": 4,
+      "index": 101,
+      "start": 880,
+      "end": 884,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7d07bc884e805d49",
+      "section_name": "Huiles de silicone de grade cosmétique",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "85bf5b6093450f54",
+        "267e97dbede14d62",
+        "c705a62d8a78f25a",
+        "c9102607849d6e72",
+        "794a130bc5e95ed1",
+        "180909dc247f6f53"
+      ],
+      "on_screen_names": [
+        "Amodiméthicone",
+        "Cyclométhicone",
+        "Cyclopentasiloxane",
+        "Diméthicone",
+        "Diméthiconol",
+        "Trimethylsiloxysilicate"
+      ],
+      "index": 102,
+      "start": 884,
+      "end": 896,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8183074972f9918e",
+      "section_name": "Base de savon glycériné Melt and Pour",
+      "duration": 4,
+      "index": 103,
+      "start": 896,
+      "end": 900,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8183074972f9918e",
+      "section_name": "Base de savon glycériné Melt and Pour",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6e416170a6b2b4df",
+        "af658cfca71197a1"
+      ],
+      "on_screen_names": [
+        "Base de savon neutre glycérinée « Melt and Pour »",
+        "BIOMA luxury soap (MELT & POUR)"
+      ],
+      "index": 104,
+      "start": 900,
+      "end": 912,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "984e42b1152b5b46",
+      "section_name": "Tensioactifs pour la cosmétique",
+      "duration": 4,
+      "index": 105,
+      "start": 912,
+      "end": 916,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "05696701d4ab42a6",
+      "section_name": "Tensioactifs naturels",
+      "duration": 4,
+      "index": 106,
+      "start": 916,
+      "end": 920,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "05696701d4ab42a6",
+      "section_name": "Tensioactifs naturels",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "0bdd9cf9e0729f1e",
+        "7533aa324ce597c5",
+        "6fdbba6b7f5a14d0",
+        "49806136fef48c26",
+        "40ba9f4277c6da78",
+        "aa1ba4d81a3b4f66"
+      ],
+      "on_screen_names": [
+        "Cocamidopropyl Betaine",
+        "Coco Glucoside",
+        "Cocoamphoacétate de sodium",
+        "Decyl Glucoside",
+        "Lauryl Glucoside",
+        "Ricinoleamidopropyl Betaine"
+      ],
+      "index": 107,
+      "start": 920,
+      "end": 932,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "05696701d4ab42a6",
+      "section_name": "Tensioactifs naturels",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "400b9371fc9eb552"
+      ],
+      "on_screen_names": [
+        "Stearamidopropyl Betaine"
+      ],
+      "index": 108,
+      "start": 932,
+      "end": 944,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "3a835df42cac234c",
+      "section_name": "Tensioactifs synthétiques",
+      "duration": 4,
+      "index": 109,
+      "start": 944,
+      "end": 948,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "3a835df42cac234c",
+      "section_name": "Tensioactifs synthétiques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "92a34a4003010570",
+        "0621ff76ad6a5c70",
+        "ef84af8442f90206",
+        "a951dbffd4c429be",
+        "15d947366f5b4e52",
+        "daa31144225190e7"
+      ],
+      "on_screen_names": [
+        "Alpha-oléfine sulfonate",
+        "Ammonium lauryl sulfate",
+        "Cetrimonium chloride",
+        "Cocodiethanoalme",
+        "Polyquaternium-10",
+        "Polyquaternium-7"
+      ],
+      "index": 110,
+      "start": 948,
+      "end": 960,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "3a835df42cac234c",
+      "section_name": "Tensioactifs synthétiques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "9ef6b7714f95b94d",
+        "f42118d5f52d18e3"
+      ],
+      "on_screen_names": [
+        "Sodium lauryl éther sulfate",
+        "Sodium lauryl sulfate"
+      ],
+      "index": 111,
+      "start": 960,
+      "end": 972,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "54dec4812c0b69bf",
+      "section_name": "Alcools gras pour la cosmétique",
+      "duration": 4,
+      "index": 112,
+      "start": 972,
+      "end": 976,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "54dec4812c0b69bf",
+      "section_name": "Alcools gras pour la cosmétique",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6af3b914cb8b7ff1",
+        "f7d358375067fd27",
+        "506574a69491823a",
+        "b52a1d8e9cc1c98d",
+        "e7214510dd79c94d"
+      ],
+      "on_screen_names": [
+        "Alcool cétearylique (C18)",
+        "Alcool cétostéarylique (C16-C18)",
+        "Alcool cétylique (C16)",
+        "Alcool laurylique (C12)",
+        "Alcool myristylique (C14)"
+      ],
+      "index": 113,
+      "start": 976,
+      "end": 988,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "42f4ffd186082b79",
+      "section_name": "Acides gras pour formulations cosmétiques",
+      "duration": 4,
+      "index": 114,
+      "start": 988,
+      "end": 992,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "42f4ffd186082b79",
+      "section_name": "Acides gras pour formulations cosmétiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "d82d4b56939ea745",
+        "7833867e3411fc52",
+        "2b6816a2e004e145",
+        "a01eb91af24e0127",
+        "aeccd2ded155f16e"
+      ],
+      "on_screen_names": [
+        "Acide gras d’huile d’olive",
+        "Acide gras d’huile de coco",
+        "Acide oléique",
+        "Acide palmitique",
+        "Acide stéarique triple pression"
+      ],
+      "index": 115,
+      "start": 992,
+      "end": 1004,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8b4756c5846ebaa5",
+      "section_name": "Beurres cosmétiques pour soins nourrissants",
+      "duration": 4,
+      "index": 116,
+      "start": 1004,
+      "end": 1008,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8b4756c5846ebaa5",
+      "section_name": "Beurres cosmétiques pour soins nourrissants",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "ac5a990c9be7fd58",
+        "1d0560297da57cd1",
+        "f94aa25ee4c07189",
+        "b90a8522155d60a7",
+        "d5be41fe912ae3a9",
+        "d63cf060d5cadc3f"
+      ],
+      "on_screen_names": [
+        "Beurre d’amande",
+        "Beurre d’avocat",
+        "Beurre d’huile d’olive",
+        "Beurre de cacao",
+        "Beurre de coco",
+        "Beurre de karité"
+      ],
+      "index": 117,
+      "start": 1008,
+      "end": 1020,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8b4756c5846ebaa5",
+      "section_name": "Beurres cosmétiques pour soins nourrissants",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "4df2dbd45dcfe4ce",
+        "710407583e757442",
+        "752fef5a9b57cab9",
+        "7b2ba06c3908d163"
+      ],
+      "on_screen_names": [
+        "Beurre de mangue",
+        "Beurre de ricin",
+        "Beurre de sésame",
+        "Beurre de soja"
+      ],
+      "index": 118,
+      "start": 1020,
+      "end": 1032,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "0a5fb30ef49f756d",
+      "section_name": "Cires naturelles pour formulations cosmétiques",
+      "duration": 4,
+      "index": 119,
+      "start": 1032,
+      "end": 1036,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "0a5fb30ef49f756d",
+      "section_name": "Cires naturelles pour formulations cosmétiques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "58a5740bd62c65d4",
+        "e860273fafd81525",
+        "375311cf733d745d",
+        "b2761beb0ee86f34",
+        "eda879b95bdf6c5b",
+        "e4730abf7421ecd5"
+      ],
+      "on_screen_names": [
+        "Cire d’abeille",
+        "Cire d’olive",
+        "Cire de candelilla",
+        "Cire de carnauba",
+        "Cire de colza",
+        "Cire de jasmin"
+      ],
+      "index": 120,
+      "start": 1036,
+      "end": 1048,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "0a5fb30ef49f756d",
+      "section_name": "Cires naturelles pour formulations cosmétiques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "9524fe120666039c",
+        "1a0bd48b660406e1",
+        "46f655c52bf2f3ef",
+        "e984c188e9250a2c",
+        "c49ca0367a54a902"
+      ],
+      "on_screen_names": [
+        "Cire de jojoba",
+        "Cire de palme",
+        "Cire de riz",
+        "Cire de soja",
+        "Cire de tournesol"
+      ],
+      "index": 121,
+      "start": 1048,
+      "end": 1060,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "20ea254453e6ee59",
+      "section_name": "Cires synthétiques pour formulations cosmétiques",
+      "duration": 4,
+      "index": 122,
+      "start": 1060,
+      "end": 1064,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "20ea254453e6ee59",
+      "section_name": "Cires synthétiques pour formulations cosmétiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "715b43898a4a8808",
+        "917af1fa55cda87f"
+      ],
+      "on_screen_names": [
+        "Cire de paraffine",
+        "Cire de PEG"
+      ],
+      "index": 123,
+      "start": 1064,
+      "end": 1076,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "ef92b1a9538bd477",
+      "section_name": "Parfums et fragrances pour cosmétiques",
+      "duration": 4,
+      "index": 124,
+      "start": 1076,
+      "end": 1080,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "017db271cef967cf",
+      "section_name": "Parfums conventionnels pour cosmétiques",
+      "duration": 4,
+      "index": 125,
+      "start": 1080,
+      "end": 1084,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "5451d50d031b5d3b",
+      "section_name": "Huiles essentielles pour cosmétiques naturels",
+      "duration": 4,
+      "index": 126,
+      "start": 1084,
+      "end": 1088,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "5451d50d031b5d3b",
+      "section_name": "Huiles essentielles pour cosmétiques naturels",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "ec3e4976194421ba",
+        "436a5b3447810f17",
+        "d8ff5806ff823cf2",
+        "a0b7b316d2285fbf",
+        "1bfc16e4acb5b9db",
+        "bb20a9534527279e"
+      ],
+      "on_screen_names": [
+        "Huile essentielle d’eucalyptus",
+        "Huile essentielle d’ylang-ylang",
+        "Huile essentielle de cèdre de l’Atlas",
+        "Huile essentielle de gingembre",
+        "Huile essentielle de lavande",
+        "Huile essentielle de menthe poivrée"
+      ],
+      "index": 127,
+      "start": 1088,
+      "end": 1100,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "5451d50d031b5d3b",
+      "section_name": "Huiles essentielles pour cosmétiques naturels",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "f1fede49e272bb63",
+        "77d95fba556640aa",
+        "7c3aff071e5624b5",
+        "f090bc42286198b2"
+      ],
+      "on_screen_names": [
+        "Huile essentielle de menthe pouliot",
+        "Huile essentielle de pin",
+        "Huile essentielle de romarin",
+        "Huile essentielle de thé vert"
+      ],
+      "index": 128,
+      "start": 1100,
+      "end": 1112,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "9ca804ff092578f1",
+      "section_name": "Colorants pour formulations cosmétiques",
+      "duration": 4,
+      "index": 129,
+      "start": 1112,
+      "end": 1116,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "9ca804ff092578f1",
+      "section_name": "Colorants pour formulations cosmétiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e33c8a8899064d84",
+        "29b8877b83a7287a",
+        "9f67a8224714d64d"
+      ],
+      "on_screen_names": [
+        "Colorants minéraux",
+        "Colorants naturels",
+        "Colorants synthétiques"
+      ],
+      "index": 130,
+      "start": 1116,
+      "end": 1128,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "6ee035c890916794",
+      "section_name": "Conservateurs pour cosmétiques",
+      "duration": 4,
+      "index": 131,
+      "start": 1128,
+      "end": 1132,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "6ee035c890916794",
+      "section_name": "Conservateurs pour cosmétiques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "d947c487ef96863d",
+        "adbe02b78982c8e5",
+        "986cd4d2e4cac723",
+        "0fc267aa883df44f",
+        "98a9255ea6e33cdf",
+        "a11f0d8451c67638"
+      ],
+      "on_screen_names": [
+        "Acide déhydroacétique",
+        "Acide salicylique",
+        "Acide sorbique",
+        "Acnibio MXR",
+        "Alcool benzylique",
+        "Benzoate de sodium"
+      ],
+      "index": 132,
+      "start": 1132,
+      "end": 1144,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "6ee035c890916794",
+      "section_name": "Conservateurs pour cosmétiques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "34a4863226db4aec",
+        "54cb8fb8fdaa8381",
+        "f074c4a13fb7f97e",
+        "bdcac0bf87be9ae5"
+      ],
+      "on_screen_names": [
+        "Déhydroacétate de sodium",
+        "DMDM hydantoin",
+        "Phénoxyéthanol",
+        "Trelin P100"
+      ],
+      "index": 133,
+      "start": 1144,
+      "end": 1156,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "e7c18b0b17208bfe",
+      "section_name": "Antioxydants pour cosmétiques",
+      "duration": 4,
+      "index": 134,
+      "start": 1156,
+      "end": 1160,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "e7c18b0b17208bfe",
+      "section_name": "Antioxydants pour cosmétiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "1ff2886650059e51",
+        "152adc08377e884c",
+        "023a9463a1dee30b",
+        "42b9a597f9351383",
+        "d3adf56d7281aa10",
+        "d51748285f738054"
+      ],
+      "on_screen_names": [
+        "Acide citrique",
+        "BHA",
+        "BHT",
+        "Citrate de potassium",
+        "Citrates de sodium",
+        "Tocophérol (vitamine E)"
+      ],
+      "index": 135,
+      "start": 1160,
+      "end": 1172,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8a3c4256d3303900",
+      "section_name": "Émulsifiants, coémulsifiants et bases autoémulsifiantes",
+      "duration": 4,
+      "index": 136,
+      "start": 1172,
+      "end": 1176,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8a3c4256d3303900",
+      "section_name": "Émulsifiants, coémulsifiants et bases autoémulsifiantes",
+      "page": 1,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "3c2d85610a9f9ab5",
+        "1c6da56aa9c5a638",
+        "454a90a9c8f6756e",
+        "c8cc78f2815c04d3",
+        "7c9d84f349e8ee75",
+        "77e78b805d8eaa74"
+      ],
+      "on_screen_names": [
+        "Ceteareth-20",
+        "Ceteareth-25",
+        "Emulwax 1000",
+        "Glyceryl olivate",
+        "Hostaphat KL 340 D",
+        "Monolaurate de sorbitane (Span 20)"
+      ],
+      "index": 137,
+      "start": 1176,
+      "end": 1188,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8a3c4256d3303900",
+      "section_name": "Émulsifiants, coémulsifiants et bases autoémulsifiantes",
+      "page": 2,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "570a795ada921ecd",
+        "95853a96b95f9a45",
+        "47dcd5bfde575c23",
+        "3ed254a351c36a61",
+        "a549b66de4915a0e",
+        "bf52d603127aca29"
+      ],
+      "on_screen_names": [
+        "Oléate de sorbitan",
+        "PEG-4 distéarate",
+        "PEG-4 olivate",
+        "PEG-6 cocamide",
+        "PEG-7 glyceryl cocoate",
+        "Polysorbate 20"
+      ],
+      "index": 138,
+      "start": 1188,
+      "end": 1200,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8a3c4256d3303900",
+      "section_name": "Émulsifiants, coémulsifiants et bases autoémulsifiantes",
+      "page": 3,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "c444ab5646b1a491",
+        "ac417c7ba64d4e2f",
+        "c8af4d538191ab40",
+        "5cea78d1761ca048",
+        "ea465019f87763d0",
+        "9f058c7a59f4d97f"
+      ],
+      "on_screen_names": [
+        "Polysorbate 60",
+        "Sorbitane olivate",
+        "Stéarate de glycérol (Glyceryl stearate)",
+        "Stéarate de glycol",
+        "Stéarate de propylène glycol",
+        "TEA Stéarate"
+      ],
+      "index": 139,
+      "start": 1200,
+      "end": 1212,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "8a3c4256d3303900",
+      "section_name": "Émulsifiants, coémulsifiants et bases autoémulsifiantes",
+      "page": 4,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "4cf0fba33505c54b"
+      ],
+      "on_screen_names": [
+        "Trilaureth-4 phosphate (TLP4)"
+      ],
+      "index": 140,
+      "start": 1212,
+      "end": 1224,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7e25936c95988a18",
+      "section_name": "Épaississants pour formulations cosmétiques",
+      "duration": 4,
+      "index": 141,
+      "start": 1224,
+      "end": 1228,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7e25936c95988a18",
+      "section_name": "Épaississants pour formulations cosmétiques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "0b8dadcca1788e06",
+        "f3abb20e8ee11abb",
+        "3dafe41a7b34ccd9",
+        "8825143996bbcbaa",
+        "678e44a42166e7be",
+        "33af900ec37fd916"
+      ],
+      "on_screen_names": [
+        "Agar-agar",
+        "Amidon de maïs",
+        "Amidon de maïs modifié",
+        "Carbomères",
+        "Carboxyméthylcellulose",
+        "Gomme arabique"
+      ],
+      "index": 142,
+      "start": 1228,
+      "end": 1240,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7e25936c95988a18",
+      "section_name": "Épaississants pour formulations cosmétiques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "2ddbe844eac0e778",
+        "98dc2ec97e04e5a2",
+        "b2d923fe677f3528",
+        "a0981f1c93ee4d19",
+        "8a70fb431f4e16b0"
+      ],
+      "on_screen_names": [
+        "Gomme de guar",
+        "Gomme xanthane",
+        "Hydroxyéthylcellulose (HEC)",
+        "Hydroxypropylméthylcellulose (HPMC)",
+        "Polyacrylate 37"
+      ],
+      "index": 143,
+      "start": 1240,
+      "end": 1252,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "10a9e0aaf3b0651e",
+      "section_name": "Argiles pour soins cosmétiques",
+      "duration": 4,
+      "index": 144,
+      "start": 1252,
+      "end": 1256,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "10a9e0aaf3b0651e",
+      "section_name": "Argiles pour soins cosmétiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "de6682f04f0298b9",
+        "59b351b1a997730b",
+        "601c539c7d58f190"
+      ],
+      "on_screen_names": [
+        "Argile blanche",
+        "Argile rouge",
+        "Argile verte"
+      ],
+      "index": 145,
+      "start": 1256,
+      "end": 1268,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "29cfac5de0b02cf7",
+      "section_name": "Charbon actif en cosmétique",
+      "duration": 4,
+      "index": 146,
+      "start": 1268,
+      "end": 1272,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "29cfac5de0b02cf7",
+      "section_name": "Charbon actif en cosmétique",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "63334b075f7a0f95",
+        "b3244fc19e3e60cd"
+      ],
+      "on_screen_names": [
+        "Charbon actif minéral",
+        "Charbon actif végétal"
+      ],
+      "index": 147,
+      "start": 1272,
+      "end": 1284,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "9b48e037c9162027",
+      "section_name": "Vitamines en cosmétique",
+      "duration": 4,
+      "index": 148,
+      "start": 1284,
+      "end": 1288,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "9b48e037c9162027",
+      "section_name": "Vitamines en cosmétique",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "fb0a798a7beb5374",
+        "d51748285f738054",
+        "adc232065ab431ee",
+        "689e061be9deb812",
+        "15993d5890ef3c20",
+        "cd460e5d9ff6b95b"
+      ],
+      "on_screen_names": [
+        "Provitamine B5",
+        "Tocophérol (vitamine E)",
+        "Vitamine A (rétinol)",
+        "Vitamine B12",
+        "Vitamine B3 (niacinamide)",
+        "Vitamine C"
+      ],
+      "index": 149,
+      "start": 1288,
+      "end": 1300,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "9b48e037c9162027",
+      "section_name": "Vitamines en cosmétique",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "8e1c664821d1ed84"
+      ],
+      "on_screen_names": [
+        "Vitamine D"
+      ],
+      "index": 150,
+      "start": 1300,
+      "end": 1312,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "e46326878a3c4b86",
+      "section_name": "Microbilles & gommage",
+      "duration": 4,
+      "index": 151,
+      "start": 1312,
+      "end": 1316,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "e46326878a3c4b86",
+      "section_name": "Microbilles & gommage",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "8902108afde903cc",
+        "4fcd3d7561ef41bb"
+      ],
+      "on_screen_names": [
+        "Poudre exfoliante minérale",
+        "Poudre exfoliante végétale"
+      ],
+      "index": 152,
+      "start": 1316,
+      "end": 1328,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7cbdc3365662772c",
+      "section_name": "Savons de toilette",
+      "duration": 4,
+      "index": 153,
+      "start": 1328,
+      "end": 1332,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "matiere-premiere-cosmetique",
+      "section_id": "7cbdc3365662772c",
+      "section_name": "Savons de toilette",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "a89fa7711dadbd45",
+        "d31f3181fc20aad9",
+        "410520cf866aab7d",
+        "4619b8c5404bdb28",
+        "87f545d982586eb0"
+      ],
+      "on_screen_names": [
+        "Savon calcique (liniment oléocalcaire)",
+        "Savon glycériné",
+        "Savon métallique",
+        "Savon noir luxe (oléate de potassium)",
+        "Savon sodique"
+      ],
+      "index": 154,
+      "start": 1332,
+      "end": 1344,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "produits-chimiques-industriels",
+      "duration": 7,
+      "user_image": "assets/user/category-produits-chimiques-industriels.jpg",
+      "index": 155,
+      "start": 1344,
+      "end": 1351,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "66cf7fad89356881",
+      "section_name": "Liste des produits chimiques industriels par catégorie",
+      "duration": 4,
+      "index": 156,
+      "start": 1351,
+      "end": 1355,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "851e9680825f08b2",
+      "section_name": "Acides",
+      "duration": 4,
+      "index": 157,
+      "start": 1355,
+      "end": 1359,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "851e9680825f08b2",
+      "section_name": "Acides",
+      "page": 1,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "24b3ad7500899f68",
+        "b4630931fcd06547",
+        "6b5605e7c9f79036",
+        "98d7382aeddbc0d5",
+        "273b8ca7d39b49c4",
+        "428850d230d27191"
+      ],
+      "on_screen_names": [
+        "Acide acétique",
+        "Acide ascorbique",
+        "Acide benzoïque",
+        "Acide chlorhydrique",
+        "Acide citrique",
+        "Acide dodocyl benzene sulphonique"
+      ],
+      "index": 158,
+      "start": 1359,
+      "end": 1371,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "851e9680825f08b2",
+      "section_name": "Acides",
+      "page": 2,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "1e27b65da21205dd",
+        "d1aa7b348a7832ac",
+        "830c48f800e9bbbb",
+        "a93582597414313b",
+        "ed19759f82cb2f86",
+        "37b158039b39d6eb"
+      ],
+      "on_screen_names": [
+        "Acide etiedronque",
+        "Acide fluorhydrique",
+        "Acide fluorosilicique",
+        "Acide formique",
+        "Acide glycolique",
+        "Acide lactique"
+      ],
+      "index": 159,
+      "start": 1371,
+      "end": 1383,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "851e9680825f08b2",
+      "section_name": "Acides",
+      "page": 3,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "e5fd09a20eb61fd4",
+        "0282e4b7f01e6925",
+        "41223fec8f8a5938",
+        "ecc2c819e42bd284",
+        "0ad0837abd73147e",
+        "ef28b119c704596d"
+      ],
+      "on_screen_names": [
+        "Acide maliéque",
+        "Acide nitrique",
+        "Acide oxalique",
+        "Acide phosphoreux",
+        "Acide phosphorique",
+        "Acide phtalique"
+      ],
+      "index": 160,
+      "start": 1383,
+      "end": 1395,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "851e9680825f08b2",
+      "section_name": "Acides",
+      "page": 4,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "1e4a93be0b7abd02",
+        "939649f639af8330",
+        "7d683ec2367d220a"
+      ],
+      "on_screen_names": [
+        "Acide sulfamique",
+        "Acide sulfurique",
+        "Acide tartrique"
+      ],
+      "index": 161,
+      "start": 1395,
+      "end": 1407,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "c96b463ccd8a4d18",
+      "section_name": "Solvants",
+      "duration": 4,
+      "index": 162,
+      "start": 1407,
+      "end": 1411,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "c96b463ccd8a4d18",
+      "section_name": "Solvants",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "24b3ad7500899f68"
+      ],
+      "on_screen_names": [
+        "Acide acétique"
+      ],
+      "index": 163,
+      "start": 1411,
+      "end": 1423,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "85eafc0dccf8d553",
+      "section_name": "Solvants oxygénés",
+      "duration": 4,
+      "index": 164,
+      "start": 1423,
+      "end": 1427,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "85eafc0dccf8d553",
+      "section_name": "Solvants oxygénés",
+      "page": 1,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "8390e6f868251e9a",
+        "937d10feef0b25da",
+        "769559885eb389fe",
+        "7c083fdfb32259ac",
+        "dcd0a4b0b22618a6",
+        "e32cb37cded1afff"
+      ],
+      "on_screen_names": [
+        "acétate d'éthyle",
+        "acétate d’isobutyle",
+        "acétate d’isopropyle",
+        "acétate de butyle",
+        "acétate de méthyle",
+        "acétone"
+      ],
+      "index": 165,
+      "start": 1427,
+      "end": 1439,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "85eafc0dccf8d553",
+      "section_name": "Solvants oxygénés",
+      "page": 2,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "b1fb7898c4c22a1c",
+        "c2ef83e34f8a6d0b",
+        "4bbcd6acacd9ff8f",
+        "0c77d5ec147df24d",
+        "93a2dccd19ee7055",
+        "4788683ae79f4b10"
+      ],
+      "on_screen_names": [
+        "butyl diglycol",
+        "butyl glycol",
+        "Diméthylsulfoxyde",
+        "Ester éthylique d’huile végétale",
+        "ester méthylique d’huile végétale",
+        "éthanol"
+      ],
+      "index": 166,
+      "start": 1439,
+      "end": 1451,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "85eafc0dccf8d553",
+      "section_name": "Solvants oxygénés",
+      "page": 3,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "7999c22d0e3a3505",
+        "a19fb5be60640835",
+        "2aecddeef06f4caa",
+        "e6f9c3d2b9b91451",
+        "fbff9f01da38b79e",
+        "57eabf7f65880701"
+      ],
+      "on_screen_names": [
+        "Hexaméthylphosphoramide",
+        "isopropanol",
+        "méthanol",
+        "monoethylene glycol",
+        "N,N-Diméthylformamide",
+        "polyethylene glycol"
+      ],
+      "index": 167,
+      "start": 1451,
+      "end": 1463,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "85eafc0dccf8d553",
+      "section_name": "Solvants oxygénés",
+      "page": 4,
+      "pages": 4,
+      "duration": 12,
+      "product_ids": [
+        "f0e32db7da9f618b"
+      ],
+      "on_screen_names": [
+        "propylene glycol"
+      ],
+      "index": 168,
+      "start": 1463,
+      "end": 1475,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "09a95ed1ec1a1829",
+      "section_name": "Solvants halogénés",
+      "duration": 4,
+      "index": 169,
+      "start": 1475,
+      "end": 1479,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "09a95ed1ec1a1829",
+      "section_name": "Solvants halogénés",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "d87ae38cc31d5943",
+        "88f84dbb15f98898",
+        "884fe0c3448d198d",
+        "9d0a3753e77b961f",
+        "1a76c2f1843a2295",
+        "2a29c0527bc6527c"
+      ],
+      "on_screen_names": [
+        "Chlorure de méthylène",
+        "Dichlorométhane",
+        "Perchloroéthylène",
+        "Tétrachlorométhane",
+        "Trichloréthylène",
+        "Trichloromethane (Chloroforme)"
+      ],
+      "index": 170,
+      "start": 1479,
+      "end": 1491,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "542030690542f2f1",
+      "section_name": "Hydrocarbures aliphatiques",
+      "duration": 4,
+      "index": 171,
+      "start": 1491,
+      "end": 1495,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "542030690542f2f1",
+      "section_name": "Hydrocarbures aliphatiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "a5ec25a42065037c",
+        "44d7def0afddd453",
+        "cf7918bdcb788792",
+        "eca0ad148e358a27",
+        "8f33b47bc70db2d3",
+        "7623cdf31415170d"
+      ],
+      "on_screen_names": [
+        "Benzène",
+        "Cyclohexane",
+        "Hexane",
+        "Oléfines",
+        "toluène",
+        "xylène"
+      ],
+      "index": 172,
+      "start": 1495,
+      "end": 1507,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "e34e7717400c2d56",
+      "section_name": "Bases",
+      "duration": 4,
+      "index": 173,
+      "start": 1507,
+      "end": 1511,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "e34e7717400c2d56",
+      "section_name": "Bases",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "f42a0974aa4e4e8a",
+        "805b678a045cc2c1",
+        "dc689178d87be9ce",
+        "c0ea4df12b1209da",
+        "fd166403b81aa5f0",
+        "ea80a1cf4f2c06fd"
+      ],
+      "on_screen_names": [
+        "Ammoniaque",
+        "Bicarbonate de sodium",
+        "Cabonate de potassium",
+        "Carbnate de sodium",
+        "Carbonate de calcium",
+        "Hydroxyde de potassium"
+      ],
+      "index": 174,
+      "start": 1511,
+      "end": 1523,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "e34e7717400c2d56",
+      "section_name": "Bases",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "f813205506977b03",
+        "27ad5bbb43172ccb",
+        "2a47eb70a25cb515",
+        "25ccb8701def1345",
+        "af501c03245d1b6b",
+        "beb2548c03059cc0"
+      ],
+      "on_screen_names": [
+        "Hydroxyde de sodium",
+        "Metasilicate de sodium",
+        "Monoethanolamine",
+        "Silicate de potassium",
+        "Silicate de sodium",
+        "Triethanolamine"
+      ],
+      "index": 175,
+      "start": 1523,
+      "end": 1535,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "0cad1167c949b3ff",
+      "section_name": "Esters d’acides gras",
+      "duration": 4,
+      "index": 176,
+      "start": 1535,
+      "end": 1539,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "0cad1167c949b3ff",
+      "section_name": "Esters d’acides gras",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "e3462b9fe32d1fd9",
+        "4477ebf2bfd0d120",
+        "eb7c4e166b39ee96",
+        "6a5675b04a3e8645",
+        "127c5e2d2c3f530c",
+        "61459d1571669f7c"
+      ],
+      "on_screen_names": [
+        "Cocoate de glycérol PEG 7",
+        "Monolaurate de sorbitan",
+        "Myristate d’isopropyle",
+        "Oléate de sorbitan",
+        "Polysorbate 20",
+        "Polysorbate 60"
+      ],
+      "index": 177,
+      "start": 1539,
+      "end": 1551,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "0cad1167c949b3ff",
+      "section_name": "Esters d’acides gras",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "e6cbb4cc860e4396",
+        "fd3cc528ab06e497",
+        "d095a86643bfb8ee",
+        "62d26c4af04fb61d",
+        "b4a19b9bd3bb2cbd",
+        "17d5463913162136"
+      ],
+      "on_screen_names": [
+        "Polysorbate 80",
+        "Stéarate de glycérol",
+        "Stéarate de glycol",
+        "Stéarate de propylène glycol",
+        "Stéarate de zinc",
+        "Trioléate de glycérol"
+      ],
+      "index": 178,
+      "start": 1551,
+      "end": 1563,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "7b3c5a2087495088",
+      "section_name": "Alcools",
+      "duration": 4,
+      "index": 179,
+      "start": 1563,
+      "end": 1567,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "3b96e838f8b3e649",
+      "section_name": "Monoalcools",
+      "duration": 4,
+      "index": 180,
+      "start": 1567,
+      "end": 1571,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "3b96e838f8b3e649",
+      "section_name": "Monoalcools",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "be845623936ce92a",
+        "c7ab76a3d6e0f0af",
+        "34c6ef968d55bb90",
+        "4b004877999d7f89",
+        "257fa22a395fecc7"
+      ],
+      "on_screen_names": [
+        "alcool benzylique",
+        "Alcool butylique",
+        "Alcool ethylique",
+        "Alcool ispropylique",
+        "Alcool méthylique"
+      ],
+      "index": 181,
+      "start": 1571,
+      "end": 1583,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "b5a2d688223c04c8",
+      "section_name": "Dialcools",
+      "duration": 4,
+      "index": 182,
+      "start": 1583,
+      "end": 1587,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "b5a2d688223c04c8",
+      "section_name": "Dialcools",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "fe16a1a48b78c838",
+        "f0e32db7da9f618b"
+      ],
+      "on_screen_names": [
+        "Mon éthylène glycol",
+        "propylene glycol"
+      ],
+      "index": 183,
+      "start": 1587,
+      "end": 1599,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "a6502e5a9a3fd93d",
+      "section_name": "Polyalcools",
+      "duration": 4,
+      "index": 184,
+      "start": 1599,
+      "end": 1603,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "a6502e5a9a3fd93d",
+      "section_name": "Polyalcools",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "25de5bf7047e368e",
+        "e0aa950bca0d6203"
+      ],
+      "on_screen_names": [
+        "Glycérine",
+        "Sorbitol"
+      ],
+      "index": 185,
+      "start": 1603,
+      "end": 1615,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "f7c626ae67323b47",
+      "section_name": "Alcools gras",
+      "duration": 4,
+      "index": 186,
+      "start": 1615,
+      "end": 1619,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "f7c626ae67323b47",
+      "section_name": "Alcools gras",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6a46a5aa1cb41223",
+        "eb6596350f9f0993",
+        "35cc0e2ec24017f5"
+      ],
+      "on_screen_names": [
+        "Alcool cétylique pur C16",
+        "Alcool stéarylique pur C18",
+        "Alcools cetostearylique C16 / C18"
+      ],
+      "index": 187,
+      "start": 1619,
+      "end": 1631,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "5c365a4f62508021",
+      "section_name": "Tensioactifs",
+      "duration": 4,
+      "index": 188,
+      "start": 1631,
+      "end": 1635,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "1d8b10830eaada1d",
+      "section_name": "Tensioactifs anioniques",
+      "duration": 4,
+      "index": 189,
+      "start": 1635,
+      "end": 1639,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "1d8b10830eaada1d",
+      "section_name": "Tensioactifs anioniques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "c16efae8c9ea6f64",
+        "a7ef9b8622759dea",
+        "ce51ad0016ad8e64",
+        "600789056e65aee2",
+        "9a61dc4cd81d0d8f",
+        "35409d1d9ac72e58"
+      ],
+      "on_screen_names": [
+        "Alpha-oléfine sulfonée (Sodium C14-16 Olefin Sulfonate)",
+        "Disodium Lauryl Sulfosuccinate (DLSS)",
+        "Sodium Coco-sulfate (SCS)",
+        "Sodium Cocoyl Isethionate",
+        "Sodium Dodecylsulfate",
+        "Sodium Laureth Sulfate (SLES)"
+      ],
+      "index": 190,
+      "start": 1639,
+      "end": 1651,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "1d8b10830eaada1d",
+      "section_name": "Tensioactifs anioniques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "e30709fd7380405c"
+      ],
+      "on_screen_names": [
+        "Sodium Lauryl Sulfate (SLS) ou Laurylsulfate de sodium (SDS)"
+      ],
+      "index": 191,
+      "start": 1651,
+      "end": 1663,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "018d50cc59d6a85b",
+      "section_name": "Tensioactifs non ioniques",
+      "duration": 4,
+      "index": 192,
+      "start": 1663,
+      "end": 1667,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "018d50cc59d6a85b",
+      "section_name": "Tensioactifs non ioniques",
+      "page": 1,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "8daa883c29590d0e",
+        "7199157315c9e8aa",
+        "874fd6306065f78e",
+        "36a0b6df6dbafd22",
+        "9efce784d9cec3c0",
+        "e2f0186186e0e379"
+      ],
+      "on_screen_names": [
+        "Acide polyglycol ester",
+        "Alcool décylique polyglycolether",
+        "Alcool gras éthoxylé C12/14 (Laureth-x)",
+        "Alcool gras éthoxylé C16/18",
+        "Alcool gras ethoxylé C18 + 2 EO",
+        "Alcool isodécyl polyglycolether"
+      ],
+      "index": 193,
+      "start": 1667,
+      "end": 1679,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "018d50cc59d6a85b",
+      "section_name": "Tensioactifs non ioniques",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "a788df59366c1fc7",
+        "0950c16e2893c290",
+        "35e7e95920e831cb",
+        "6eacccabb21c62a3",
+        "cc41b3c395daed04"
+      ],
+      "on_screen_names": [
+        "Alcool isotridécyl polyglycolether",
+        "Alcool polyglycolether",
+        "Alcools C9/C11 éthoxylés (Rokanol NL)",
+        "Alcools gras éthoxylés propoxylés (Rokanol LP)",
+        "Cococamide DEA & Laureth-2"
+      ],
+      "index": 194,
+      "start": 1679,
+      "end": 1691,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "6e606b3bc9988e6b",
+      "section_name": "Tensioactifs amphotères",
+      "duration": 4,
+      "index": 195,
+      "start": 1691,
+      "end": 1695,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "6e606b3bc9988e6b",
+      "section_name": "Tensioactifs amphotères",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "6d30cc98cd471f5b",
+        "5a7734bfff72bc0c",
+        "5c9a559b0bedd19e",
+        "5f5a43c899cadd28"
+      ],
+      "on_screen_names": [
+        "alkylamidobétaïnes",
+        "Alkylbétaïnes",
+        "Cocamidopropyl bétaïne",
+        "sulfobétaïnes"
+      ],
+      "index": 196,
+      "start": 1695,
+      "end": 1707,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-chimiques-industriels",
+      "section_id": "9a1a6c4b7bfb46e9",
+      "section_name": "Tensioactifs cationiques",
+      "duration": 4,
+      "index": 197,
+      "start": 1707,
+      "end": 1711,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-chimiques-industriels",
+      "section_id": "9a1a6c4b7bfb46e9",
+      "section_name": "Tensioactifs cationiques",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e7a14150a585e869",
+        "d84a363fad485eec",
+        "e2e4eb753d8cbda4",
+        "52c92d5cddd3820f",
+        "dbfdbe51613f32cf",
+        "47b9fc5ff22d78e2"
+      ],
+      "on_screen_names": [
+        "Bromure de dodécyltriméthylammonium",
+        "Chlorure de benzalkonium",
+        "Chlorure de cétyltriméthylammonium (CTAC)",
+        "Chlorure de dodécyltriméthylammonium (DTAC)",
+        "Chlorure de tétrabutylammonium",
+        "Chlorure de tétradécyltriméthylammonium"
+      ],
+      "index": 198,
+      "start": 1711,
+      "end": 1723,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "traitement-des-eaux",
+      "duration": 7,
+      "user_image": "assets/user/category-traitement-des-eaux.jpg",
+      "index": 199,
+      "start": 1723,
+      "end": 1730,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "traitement-des-eaux",
+      "section_id": "9f7a2bf16a33c2b5",
+      "section_name": "Produits pour le traitement de l’eau de chaudière",
+      "duration": 4,
+      "index": 200,
+      "start": 1730,
+      "end": 1734,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "traitement-des-eaux",
+      "section_id": "9f7a2bf16a33c2b5",
+      "section_name": "Produits pour le traitement de l’eau de chaudière",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "00e2b51703067720",
+        "c7943883b1e8815d",
+        "d3ef5d58e3ef49dd",
+        "5b02b9ff383ec428"
+      ],
+      "on_screen_names": [
+        "AQUATEC CH-01",
+        "AQUATEC HEDP CH-03",
+        "AQUATEC NEUTRAL CH-05",
+        "DETARTREMIX RM 90"
+      ],
+      "index": 201,
+      "start": 1734,
+      "end": 1746,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "traitement-des-eaux",
+      "section_id": "0cba984e1451708d",
+      "section_name": "Produits pour le traitement des circuits de refroidissement",
+      "duration": 4,
+      "index": 202,
+      "start": 1746,
+      "end": 1750,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "traitement-des-eaux",
+      "section_id": "0cba984e1451708d",
+      "section_name": "Produits pour le traitement des circuits de refroidissement",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "bab3f1f9cd476f23",
+        "d5ad1606cd28b55e",
+        "62701609fb2a7ef2"
+      ],
+      "on_screen_names": [
+        "AQUALER CR-01",
+        "NEUTROCIDE A50/CR",
+        "OXYCIDE AP/8- CR"
+      ],
+      "index": 203,
+      "start": 1750,
+      "end": 1762,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "traitement-des-eaux",
+      "section_id": "093dd5a59f390610",
+      "section_name": "Produits spécifiques pour les systèmes d’osmose inverse",
+      "duration": 4,
+      "index": 204,
+      "start": 1762,
+      "end": 1766,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "traitement-des-eaux",
+      "section_id": "093dd5a59f390610",
+      "section_name": "Produits spécifiques pour les systèmes d’osmose inverse",
+      "page": 1,
+      "pages": 1,
+      "duration": 12,
+      "product_ids": [
+        "e3964c9aacf49b38",
+        "573cab5479c8efe4",
+        "f911c9ca85ac59d7",
+        "23355e76dfdbc53f"
+      ],
+      "on_screen_names": [
+        "AQUATEC HEDP RO-04",
+        "AQUATEC RO-01",
+        "AQUATEC RO-02",
+        "AQUATEC RO-03"
+      ],
+      "index": 205,
+      "start": 1766,
+      "end": 1778,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "traitement-des-eaux",
+      "section_id": "a21d917b7a5ac6da",
+      "section_name": "Produits chimiques pour le traitement des eaux usées",
+      "duration": 4,
+      "index": 206,
+      "start": 1778,
+      "end": 1782,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "traitement-des-eaux",
+      "section_id": "a21d917b7a5ac6da",
+      "section_name": "Produits chimiques pour le traitement des eaux usées",
+      "page": 1,
+      "pages": 2,
+      "duration": 13,
+      "product_ids": [
+        "b025418bc4acfd5d",
+        "60786a5a21d96e9f",
+        "02be9b255b39b59e",
+        "5d22b699169346f1",
+        "6c002449363b2082",
+        "c57f93f863d1c1d0"
+      ],
+      "on_screen_names": [
+        "ACIDE SULFURIQUE",
+        "CHAUX VIVE",
+        "HYDROXYDE DE SODIUM",
+        "HYPOCHLORITE DE SODIUM 48-50°",
+        "NOFOAM TP-S",
+        "NUTRIBACTER (18 -3,6 - 5) Nutriment pour boues activées en traitement des eaux usées"
+      ],
+      "index": 207,
+      "start": 1782,
+      "end": 1795,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "traitement-des-eaux",
+      "section_id": "a21d917b7a5ac6da",
+      "section_name": "Produits chimiques pour le traitement des eaux usées",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "eea78ec18829fdec",
+        "48e56514e0199bb4"
+      ],
+      "on_screen_names": [
+        "PEROXYDE D'HYDROGENE",
+        "POLY ALUMINIUM CHLORIDE (PAC)"
+      ],
+      "index": 208,
+      "start": 1795,
+      "end": 1807,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "chapter",
+      "range": "produits-de-lavage-et-dentretien-des-vehicules",
+      "duration": 7,
+      "user_image": "assets/user/category-produits-de-lavage-et-dentretien-des-vehicules.jpg",
+      "index": 209,
+      "start": 1807,
+      "end": 1814,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "subcategory",
+      "range": "produits-de-lavage-et-dentretien-des-vehicules",
+      "section_id": "767350793e1ed8ff",
+      "section_name": "Produits de lavage et d’entretien auto professionnels",
+      "duration": 4,
+      "index": 210,
+      "start": 1814,
+      "end": 1818,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-de-lavage-et-dentretien-des-vehicules",
+      "section_id": "767350793e1ed8ff",
+      "section_name": "Produits de lavage et d’entretien auto professionnels",
+      "page": 1,
+      "pages": 2,
+      "duration": 13,
+      "product_ids": [
+        "9b994eeb3c997b62",
+        "a1e203b0316bb4ad",
+        "dc7ecbc199cd1640",
+        "915cb7b8beb9b903",
+        "a61299085c288aeb",
+        "40bb153f3e27db7e"
+      ],
+      "on_screen_names": [
+        "AdBlue ROCKET",
+        "ROCKET PREMELANGE 50/50 (-37°c)",
+        "SUPER ROBOT DETACHANT TISSU A SEC",
+        "SUPER ROBOT jante/moteur",
+        "SUPER ROBOT LAVE GLACE AUTO CONCENTRE",
+        "SUPER ROBOT NETTOYANT ET RENOVATEUR"
+      ],
+      "index": 211,
+      "start": 1818,
+      "end": 1831,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "products",
+      "range": "produits-de-lavage-et-dentretien-des-vehicules",
+      "section_id": "767350793e1ed8ff",
+      "section_name": "Produits de lavage et d’entretien auto professionnels",
+      "page": 2,
+      "pages": 2,
+      "duration": 12,
+      "product_ids": [
+        "ba01597c59d4e5fd",
+        "b777c8d2294ca3c2"
+      ],
+      "on_screen_names": [
+        "SUPER ROBOT NT/50 TYRE SHINE",
+        "SUPER ROBOT SHAMPOING AUTO TOUT EN UN"
+      ],
+      "index": 212,
+      "start": 1831,
+      "end": 1843,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "clients",
+      "duration": 10,
+      "index": 213,
+      "start": 1843,
+      "end": 1853,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "salon",
+      "duration": 8,
+      "index": 214,
+      "start": 1853,
+      "end": 1861,
+      "logo_path": "assets/user/logo-original.jpg"
+    },
+    {
+      "kind": "closing",
+      "duration": 10,
+      "index": 215,
+      "start": 1861,
+      "end": 1871,
+      "logo_path": "assets/user/logo-original.jpg"
+    }
+  ],
+  "category_entries": 503,
+  "unique_normalized_names": 493,
+  "range_counts": {
+    "hygiene-professionnelle-et-institutionnelle": 117,
+    "hygiene-en-milieu-medicale": 46,
+    "hygiene-professionnelle-ecologique": 9,
+    "matiere-premiere-cosmetique": 189,
+    "produits-chimiques-industriels": 115,
+    "traitement-des-eaux": 19,
+    "produits-de-lavage-et-dentretien-des-vehicules": 8
+  },
+  "music": "assets/saraproc-ambient-loop.wav",
+  "voice_over": false,
+  "layout_checks": [],
+  "logo_path": "assets/user/logo-original.jpg",
+  "user_image_policy": {
+    "fit": "contain",
+    "crop": false,
+    "recolor": false,
+    "preserve_aspect_ratio": true
+  },
+  "logo_policy": "Original supplied JPG, complete, proportional fit; no crop, redraw or recolouring"
+}

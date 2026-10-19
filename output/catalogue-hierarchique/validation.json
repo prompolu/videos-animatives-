@@ -1,0 +1,802 @@
+{
+  "validated_at_utc": "2026-10-19T19:50:06.986249+00:00",
+  "coverage": {
+    "scope": "Named references in frozen official sources; not a stock or distinct-formulation audit",
+    "category_mentions": 503,
+    "distinct_normalized_names": 493,
+    "ranges": [
+      {
+        "range": "hygiene-professionnelle-et-institutionnelle",
+        "included_source_rows": 117,
+        "displayed_reference_names": 117,
+        "excluded_names": [],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "hygiene-en-milieu-medicale",
+        "included_source_rows": 46,
+        "displayed_reference_names": 46,
+        "excluded_names": [],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "hygiene-professionnelle-ecologique",
+        "included_source_rows": 9,
+        "displayed_reference_names": 9,
+        "excluded_names": [],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "matiere-premiere-cosmetique",
+        "included_source_rows": 189,
+        "displayed_reference_names": 189,
+        "excluded_names": [],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "produits-chimiques-industriels",
+        "included_source_rows": 116,
+        "displayed_reference_names": 115,
+        "excluded_names": [],
+        "normalization_collisions": [
+          {
+            "input_names": [
+              "propylene glycol",
+              "Propylène glycol"
+            ],
+            "display_name": "propylene glycol",
+            "basis": "same normalized spelling (case, accents or punctuation)"
+          }
+        ],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "traitement-des-eaux",
+        "included_source_rows": 19,
+        "displayed_reference_names": 19,
+        "excluded_names": [
+          "WATER BLEU CHLORE LENT EN GALET 200g",
+          "WATER BLEU FLOCULANT CLARIFIANT EN GRANULES",
+          "WATER BLEU CHLORE DE CHOC GRANULE 70% min",
+          "WATER BLUE pH Minus (pH-) LIQUIDE",
+          "WATER BLEU pH + EN POUDRE",
+          "WATER BLUE ALGICIDE MULTIFONCTION CONENTRE",
+          "WATER BLEU DETARTRANT INTENSIF DES BASSINS"
+        ],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      },
+      {
+        "range": "produits-de-lavage-et-dentretien-des-vehicules",
+        "included_source_rows": 8,
+        "displayed_reference_names": 8,
+        "excluded_names": [],
+        "normalization_collisions": [],
+        "explicit_alias_matches": []
+      }
+    ],
+    "csv_coverage": "exact match"
+  },
+  "source_assets": {
+    "manifest_image_records_checked": 163,
+    "pdf_records_checked": 9,
+    "unique_files_checked": 131,
+    "sha256_matches_frozen_manifests": true,
+    "files": [
+      {
+        "file": "assets/site/branding/logo_footer.png",
+        "sha256": "d1a953e4a6788ff1c7aa613ab370a339d17725a81fa510cac6f72fcc9ea618b8"
+      },
+      {
+        "file": "assets/site/branding/saraproc-logo.png",
+        "sha256": "6eadc34ed85ee6cef35f6fae5cd86b0cdc150999e0234218deced0dd241bc007"
+      },
+      {
+        "file": "assets/site/catalog/catalogue-hygiene-medicale.pdf",
+        "sha256": "57a43e9067c46bbc646702a7000dd82ca1f45f49e33922231ad258c5c003f290"
+      },
+      {
+        "file": "assets/site/catalog/catalogue-matiere-premiere-cosmetique.pdf",
+        "sha256": "77b6c9922ecdca0c9f228f978f634dc75519947699ce59313f17269b0442f81e"
+      },
+      {
+        "file": "assets/site/catalog/industrial-catalogue-officiel.pdf",
+        "sha256": "cc5e3f4c7e8184c2cf447c750c4dafbf24394f2ff36d891babbecd7f8e2f5514"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-1.pdf",
+        "sha256": "9ab4c643fe90d035829848eba3b523f9a042d911537ac9be9478eace5f08ed0b"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-14.pdf",
+        "sha256": "e919548c48542568a46599313f02374f6ac86f6f34595a3fd57bbcb063dbda6c"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-2.pdf",
+        "sha256": "380f6649c1a1c6e7b0a68bbc36bd6095a9f25e23a8f203d5fabf1d25342a037b"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-3.pdf",
+        "sha256": "f827774718226887053c980b494dbab890b66e16cb578e874121e3ca0506d1c7"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-5.pdf",
+        "sha256": "f9f0f78f55b12ea65457b31f9318cfa4906b664939ab11e2553951bc5eb82e4e"
+      },
+      {
+        "file": "assets/site/catalog/official-professional-catalogue-6.pdf",
+        "sha256": "4602b929656a2d039433fffe947393237eb9c4181af4296eb7466bddfa153724"
+      },
+      {
+        "file": "assets/site/catalogue-images/009f80e391068692c778eb91.jpg",
+        "sha256": "009f80e391068692c778eb91628e081d9ffd6d947ce322b411eb4fad075164cf"
+      },
+      {
+        "file": "assets/site/catalogue-images/011ad34cfa662a3ef830113c.jpg",
+        "sha256": "011ad34cfa662a3ef830113c86a65bd9ef9180701981f17ecbd295491f6e9cff"
+      },
+      {
+        "file": "assets/site/catalogue-images/0a23b195cd7600cba7a8975a.jpg",
+        "sha256": "0a23b195cd7600cba7a8975a16321e969f760df2ffc4d4c5d68ea8db49f7a158"
+      },
+      {
+        "file": "assets/site/catalogue-images/0af0ca28778d2ebe4a24cd34.jpg",
+        "sha256": "0af0ca28778d2ebe4a24cd34103a63f69696353e57763da21f57e4d176bf5737"
+      },
+      {
+        "file": "assets/site/catalogue-images/0ee368b2e82634cac545f086.jpg",
+        "sha256": "0ee368b2e82634cac545f0868eb3e69d0024763a636d6440601d407e86a23173"
+      },
+      {
+        "file": "assets/site/catalogue-images/1390c899f9d6d0b8f5849b47.jpg",
+        "sha256": "1390c899f9d6d0b8f5849b472478d012c2459c21f0ed528df39f5a60ef9dc4d4"
+      },
+      {
+        "file": "assets/site/catalogue-images/16d58656d43f24de296255de.jpg",
+        "sha256": "16d58656d43f24de296255de07cee0a7541514ad1bbf786916aaa789bed8bf0a"
+      },
+      {
+        "file": "assets/site/catalogue-images/1b6e9e4d5b57309c69eec7b9.jpg",
+        "sha256": "1b6e9e4d5b57309c69eec7b93921c05f272309b74cd9619fe3a5986a6538cbd7"
+      },
+      {
+        "file": "assets/site/catalogue-images/1e141370aa78fd03c9b5a400.jpg",
+        "sha256": "1e141370aa78fd03c9b5a400f7ba482b670e109328a0263b59bd7b7015b0e6f2"
+      },
+      {
+        "file": "assets/site/catalogue-images/1e9d9dd13797317667a3b4bd.jpg",
+        "sha256": "1e9d9dd13797317667a3b4bdf8fe28444a9a85eaaffe80389cbadcdbaaf02ad6"
+      },
+      {
+        "file": "assets/site/catalogue-images/21a7ca08d0154cb255fb4d09.jpg",
+        "sha256": "21a7ca08d0154cb255fb4d092be78a4afec8390e219b16867d198e9f1c8efe8b"
+      },
+      {
+        "file": "assets/site/catalogue-images/21a9b29eb216ef929c3513f7.jpg",
+        "sha256": "21a9b29eb216ef929c3513f7551bfb01f1fd6f794909c3610b6f996953ec980d"
+      },
+      {
+        "file": "assets/site/catalogue-images/25ac7ec08444c5a0a4f19b3f.png",
+        "sha256": "25ac7ec08444c5a0a4f19b3f032e8e5c9290daf190cf66c89e2b8a6e3c61ee8c"
+      },
+      {
+        "file": "assets/site/catalogue-images/277d12e8ac8dfd9ac2675eb4.jpg",
+        "sha256": "277d12e8ac8dfd9ac2675eb429e214163260733bdea1a48696b23edecebb6638"
+      },
+      {
+        "file": "assets/site/catalogue-images/2b414261f816786db7623e7b.jpg",
+        "sha256": "2b414261f816786db7623e7bf6861102335a010fdd164242f0179c4d4e6705f8"
+      },
+      {
+        "file": "assets/site/catalogue-images/2bdbbf300c980d3166d1e5a8.jpg",
+        "sha256": "2bdbbf300c980d3166d1e5a8c9a9576cfcd7c774cf38134355d777efa0bad601"
+      },
+      {
+        "file": "assets/site/catalogue-images/2eddb660a4f10e03af68fc30.jpg",
+        "sha256": "2eddb660a4f10e03af68fc302c7721219cf93c897eaad5bbd6667dbe6f14143d"
+      },
+      {
+        "file": "assets/site/catalogue-images/34d6658d3c3e6bc9cdf6ac35.jpg",
+        "sha256": "34d6658d3c3e6bc9cdf6ac354172b6be3ac3005e820444226f4a86cc160b9bcd"
+      },
+      {
+        "file": "assets/site/catalogue-images/35919ed017b8da665e50b2e1.jpg",
+        "sha256": "35919ed017b8da665e50b2e1b538940323d4b0e3aa1f020693bb4c8f6e783796"
+      },
+      {
+        "file": "assets/site/catalogue-images/4246d4a89d0866d325e9939f.jpg",
+        "sha256": "4246d4a89d0866d325e9939f00d59c8c49823871e112ed620897476efd981e43"
+      },
+      {
+        "file": "assets/site/catalogue-images/427e28911e3592d0caf6af59.jpg",
+        "sha256": "427e28911e3592d0caf6af59a9f914a0b26ea74a6a4c2b9c37e67a19c0b71d45"
+      },
+      {
+        "file": "assets/site/catalogue-images/4442b580018fe318d1ed3695.jpg",
+        "sha256": "4442b580018fe318d1ed3695094e519fa18d08f661991cc743b72e4fff691b4c"
+      },
+      {
+        "file": "assets/site/catalogue-images/4adbc9adfbecd81ae955db58.jpg",
+        "sha256": "4adbc9adfbecd81ae955db584af9bc074d6884eb9f1af1216c2061fa14096f3d"
+      },
+      {
+        "file": "assets/site/catalogue-images/4b796a0610695bd3531368bf.png",
+        "sha256": "4b796a0610695bd3531368bf5e1fdf5536cd88288d50c90a05f7c15f38602914"
+      },
+      {
+        "file": "assets/site/catalogue-images/4c6a10f901d4732e3d564300.jpg",
+        "sha256": "4c6a10f901d4732e3d5643009abf69800b6b1edf3aa333c2baea5e297397a6fc"
+      },
+      {
+        "file": "assets/site/catalogue-images/500f2d8b5d1d2ccc239f92b4.jpg",
+        "sha256": "500f2d8b5d1d2ccc239f92b42681aeea8984922f974cf3deaf3e268ba8f4aef2"
+      },
+      {
+        "file": "assets/site/catalogue-images/525b8ad3e25ef5216c0b78a9.jpg",
+        "sha256": "525b8ad3e25ef5216c0b78a98dd141f14bec88cf804f19fb2760acef1f158b12"
+      },
+      {
+        "file": "assets/site/catalogue-images/53ed1e79ef10e25fd05c3527.jpg",
+        "sha256": "53ed1e79ef10e25fd05c3527d8d61eb479a2b916efdf29cf8f2a9aadbc971aa9"
+      },
+      {
+        "file": "assets/site/catalogue-images/5883de8efe602603c6544492.jpg",
+        "sha256": "5883de8efe602603c65444920ae698069cdd87f8af177c5f6e09fb52c9512146"
+      },
+      {
+        "file": "assets/site/catalogue-images/5ab4d718c8145b7890c0c84e.jpg",
+        "sha256": "5ab4d718c8145b7890c0c84efa041ab7eaa59b57751b916c1767ca6ba4429272"
+      },
+      {
+        "file": "assets/site/catalogue-images/5b664b1072bdb2d5b9b46ef4.jpg",
+        "sha256": "5b664b1072bdb2d5b9b46ef46e4e131a13acd2a1a5580b7fa424a94bd13cca64"
+      },
+      {
+        "file": "assets/site/catalogue-images/5db62deb371f756c2207d584.jpg",
+        "sha256": "5db62deb371f756c2207d584a7029f93f4b75ec92faaf68f290cb76a8e8c2e9f"
+      },
+      {
+        "file": "assets/site/catalogue-images/6186b88cc2b66335cdafa04a.jpg",
+        "sha256": "6186b88cc2b66335cdafa04a51cc527900f5688f9527935a6ea578f9efc5dc33"
+      },
+      {
+        "file": "assets/site/catalogue-images/67279e113383172bf4108894.jpg",
+        "sha256": "67279e113383172bf4108894e575a9e62c8a3bd94026033e7b07fe35510120cc"
+      },
+      {
+        "file": "assets/site/catalogue-images/6dd3814b4639ec43ef6f976d.jpg",
+        "sha256": "6dd3814b4639ec43ef6f976dc8646ad1e40dd28380e6ea3076037007ecb50145"
+      },
+      {
+        "file": "assets/site/catalogue-images/6e84ab4a719eb2e089478633.jpg",
+        "sha256": "6e84ab4a719eb2e089478633775fb8220ed4f21d7ef344cabfed0e00bd9e1930"
+      },
+      {
+        "file": "assets/site/catalogue-images/70d1de4c06d0a9145648c3fd.jpg",
+        "sha256": "70d1de4c06d0a9145648c3fd65829f3390cb7d0dd47eecb28fbdcf6bc8043048"
+      },
+      {
+        "file": "assets/site/catalogue-images/7717e44cbe7dcc3cd34211e8.jpg",
+        "sha256": "7717e44cbe7dcc3cd34211e8518dac7454a8e760faac13a730f8f92cd72fc31f"
+      },
+      {
+        "file": "assets/site/catalogue-images/7d2e2aa6514f733a2660b805.jpg",
+        "sha256": "7d2e2aa6514f733a2660b805f6d8b7c296859299faa28cd821ed65139d8b085c"
+      },
+      {
+        "file": "assets/site/catalogue-images/81f4124ac1f576e368d7abed.jpg",
+        "sha256": "81f4124ac1f576e368d7abedf9323fef257c12cb1d5c342c136e967db3b000af"
+      },
+      {
+        "file": "assets/site/catalogue-images/8254af79fd06429d21869351.jpg",
+        "sha256": "8254af79fd06429d218693515bd60e7c9fe32b99def5d314ff025cf5c9cccafb"
+      },
+      {
+        "file": "assets/site/catalogue-images/848cb389d7cd01933acaa62c.jpg",
+        "sha256": "848cb389d7cd01933acaa62c9f8eacb39b37d1d64929b4ad48dae9a971c926f5"
+      },
+      {
+        "file": "assets/site/catalogue-images/852b6ed6a4c5589e5428ab09.jpg",
+        "sha256": "852b6ed6a4c5589e5428ab0932db72d7655b9d66821980d1cfb5f01d13a20bfa"
+      },
+      {
+        "file": "assets/site/catalogue-images/86fb2881a14bd8f6f42112c7.jpg",
+        "sha256": "86fb2881a14bd8f6f42112c7ff7cd206481f4db693e5a42f7d86d4d4f986f13f"
+      },
+      {
+        "file": "assets/site/catalogue-images/8b1fd6fc79f231379043f705.jpg",
+        "sha256": "8b1fd6fc79f231379043f705a7975501d4fb00c68fcec8f212985a454f8a0446"
+      },
+      {
+        "file": "assets/site/catalogue-images/8b98dabe739839fcebddd853.jpg",
+        "sha256": "8b98dabe739839fcebddd853e055b81a04523ff1465ad5831a536deb29eaf790"
+      },
+      {
+        "file": "assets/site/catalogue-images/8c45216944103eaa8b199ce2.jpg",
+        "sha256": "8c45216944103eaa8b199ce2ce77fcb6c402394d72b69badc4a94fa489806b5e"
+      },
+      {
+        "file": "assets/site/catalogue-images/8da970b45958d1d5d19bff08.jpg",
+        "sha256": "8da970b45958d1d5d19bff08066bcb3c3e54595c3c8c59e54ad86547ae6d42e0"
+      },
+      {
+        "file": "assets/site/catalogue-images/8e0ed4bd583848f2c321aecf.jpg",
+        "sha256": "8e0ed4bd583848f2c321aecf88bd98990e2cd32fb684367ba624d62f0853153d"
+      },
+      {
+        "file": "assets/site/catalogue-images/95af539145a5ef865a8919f5.jpg",
+        "sha256": "95af539145a5ef865a8919f5cb96294f65f9a6531af668ee181df9cb9276ab3f"
+      },
+      {
+        "file": "assets/site/catalogue-images/99708a30b4da595d21c336d5.jpg",
+        "sha256": "99708a30b4da595d21c336d5fdb88100bc282badbaf1cdf0999b78a37ee69d38"
+      },
+      {
+        "file": "assets/site/catalogue-images/9d1ebf8f932c4d9b13683e14.jpg",
+        "sha256": "9d1ebf8f932c4d9b13683e14e82d23a2eeede3bda3180d8c69df5782e29ddfc8"
+      },
+      {
+        "file": "assets/site/catalogue-images/a1aca997563eef33f461e10e.jpg",
+        "sha256": "a1aca997563eef33f461e10e0f9bdbbcacec080c8f960218f762041224264f53"
+      },
+      {
+        "file": "assets/site/catalogue-images/a3c1db172bde0ae64288d29b.jpg",
+        "sha256": "a3c1db172bde0ae64288d29ba7ae874c7c01e9ac50b99c33f6260869c81acd41"
+      },
+      {
+        "file": "assets/site/catalogue-images/a50d82397a589dc11e500c55.jpg",
+        "sha256": "a50d82397a589dc11e500c55d1fecc91fd95ceb331f679b5f39c3a57c9816503"
+      },
+      {
+        "file": "assets/site/catalogue-images/a68e844d9b4a40a471263f23.jpg",
+        "sha256": "a68e844d9b4a40a471263f23b1292815e1ce9bc54743964d9658f00e4e03ad99"
+      },
+      {
+        "file": "assets/site/catalogue-images/ac95947cfbdb4fb28f89db9c.jpg",
+        "sha256": "ac95947cfbdb4fb28f89db9c7515d478b9cfd1105f4633ba912196fe206ff4f8"
+      },
+      {
+        "file": "assets/site/catalogue-images/ad0aa670c2358d1896104f93.jpg",
+        "sha256": "ad0aa670c2358d1896104f93a69f859942525a68804c562af08c9d68a40dbc19"
+      },
+      {
+        "file": "assets/site/catalogue-images/af572c422f8b409671921047.jpg",
+        "sha256": "af572c422f8b40967192104798156dd4d0f3fb4f39f38a78d185faae60ce28c7"
+      },
+      {
+        "file": "assets/site/catalogue-images/b0130e1142754a1ac98e5dfa.jpg",
+        "sha256": "b0130e1142754a1ac98e5dfaae2118e3b4bbb241cbca4564f1f6f0acf9fdcc2d"
+      },
+      {
+        "file": "assets/site/catalogue-images/b06e82ea2b042e46d409f315.jpg",
+        "sha256": "b06e82ea2b042e46d409f315f144d0c2ca9d11ce0986d8a6c88aa11914f3a0be"
+      },
+      {
+        "file": "assets/site/catalogue-images/b0f1a312743dc6bd6013358e.jpg",
+        "sha256": "b0f1a312743dc6bd6013358ebfc6def2e82ff0aeb7969311bd85f944d4ca54a0"
+      },
+      {
+        "file": "assets/site/catalogue-images/bd356e028b80f122422a0457.jpg",
+        "sha256": "bd356e028b80f122422a0457d42cb2878c9e4afa187e9c82cf1344db5b61fb4b"
+      },
+      {
+        "file": "assets/site/catalogue-images/bf3f3d85c865218041309274.jpg",
+        "sha256": "bf3f3d85c8652180413092745aa5b96d4fd47431224535497a1a6514c36ffdd5"
+      },
+      {
+        "file": "assets/site/catalogue-images/c00557f8b7a2d6e9e4c8d5b9.jpg",
+        "sha256": "c00557f8b7a2d6e9e4c8d5b98054d89f444c0ee0ba8ef008b79a76837653f2a4"
+      },
+      {
+        "file": "assets/site/catalogue-images/c05cafad5d0f07249dcfcbe7.jpg",
+        "sha256": "c05cafad5d0f07249dcfcbe777ad03c9ecb4a8fe4a9d8566be43ead667caee70"
+      },
+      {
+        "file": "assets/site/catalogue-images/c291f2085cf9d22f0a759fbb.jpg",
+        "sha256": "c291f2085cf9d22f0a759fbb299a748e7d32088628c77057cde2aa75bb88c05a"
+      },
+      {
+        "file": "assets/site/catalogue-images/c4d2ee3e1e70fb691835900f.jpg",
+        "sha256": "c4d2ee3e1e70fb691835900f41b2119481472dc1d28a2521049022c2aa498799"
+      },
+      {
+        "file": "assets/site/catalogue-images/d35c8c360923df5c7267859b.jpg",
+        "sha256": "d35c8c360923df5c7267859b71d5a4d18aeda6d51226821002624994b3b4dddd"
+      },
+      {
+        "file": "assets/site/catalogue-images/d395e8773127e827f1289be4.jpg",
+        "sha256": "d395e8773127e827f1289be47f85b055d1fd607c6a6a6174ec77518f6e1d33b9"
+      },
+      {
+        "file": "assets/site/catalogue-images/d3ffd449b83b13061e005eca.jpg",
+        "sha256": "d3ffd449b83b13061e005eca20e390a926ddbd06ca8e4200195f324f81927dc1"
+      },
+      {
+        "file": "assets/site/catalogue-images/d80f62e48eece385bc97bd66.jpg",
+        "sha256": "d80f62e48eece385bc97bd66349ccb55fa61af9d058fc06cddce414bee4aa7b1"
+      },
+      {
+        "file": "assets/site/catalogue-images/d9a9fea866488c06d0cb7775.jpg",
+        "sha256": "d9a9fea866488c06d0cb77753cf8a24dc8e28052c965509d850a8f3c3cc935e4"
+      },
+      {
+        "file": "assets/site/catalogue-images/de47144877dc64df7e077ba3.jpg",
+        "sha256": "de47144877dc64df7e077ba3b08b130e0acc891f985fe4643fe6ef51fa9ea470"
+      },
+      {
+        "file": "assets/site/catalogue-images/de88bffe04c4803db2e968b8.jpg",
+        "sha256": "de88bffe04c4803db2e968b8a5034f36ed09b58a77bd2686d3be89a1a86e5e30"
+      },
+      {
+        "file": "assets/site/catalogue-images/e07c5fa19d0f197936fd0327.jpg",
+        "sha256": "e07c5fa19d0f197936fd0327e7015157383a8416c9445dadca1cc09f867aa296"
+      },
+      {
+        "file": "assets/site/catalogue-images/e41ae5c9c62b1c026aa116ea.jpg",
+        "sha256": "e41ae5c9c62b1c026aa116ea6ed27628e59febfa0c569248bbd6f9d8988bd527"
+      },
+      {
+        "file": "assets/site/catalogue-images/e5964fea4d88fd419721e0cc.jpg",
+        "sha256": "e5964fea4d88fd419721e0cce48d0da363ca5c6d65b30cd80c9e6b9c6d4abf37"
+      },
+      {
+        "file": "assets/site/catalogue-images/e822dae251c429e2c1238232.jpg",
+        "sha256": "e822dae251c429e2c1238232acbe19a474ce8d9ef5ddf7deb18cbb982288c51b"
+      },
+      {
+        "file": "assets/site/catalogue-images/e8e867d60ab680f53f24ebb8.jpg",
+        "sha256": "e8e867d60ab680f53f24ebb8de17f208b2f0c447a650dda81cf7ba77c76be422"
+      },
+      {
+        "file": "assets/site/catalogue-images/ea04c75646f571a77c2d4518.jpg",
+        "sha256": "ea04c75646f571a77c2d45183e6a288c9190f751daaec3ad3a8d537982baf9c8"
+      },
+      {
+        "file": "assets/site/catalogue-images/eb09a38626f8d90c3e10ae13.jpg",
+        "sha256": "eb09a38626f8d90c3e10ae13bd9e0de5d1ed5f85ded6e04cb2949ff2f3c0db10"
+      },
+      {
+        "file": "assets/site/catalogue-images/ec490fa556c5092be4ba1cf1.jpg",
+        "sha256": "ec490fa556c5092be4ba1cf1c63e22912206657458d0972eaa674ae10a19a3df"
+      },
+      {
+        "file": "assets/site/catalogue-images/ee4b092b606364ef6a33ff3e.png",
+        "sha256": "ee4b092b606364ef6a33ff3ec153c4c2eff69c94d39194f803295323cdfb2553"
+      },
+      {
+        "file": "assets/site/catalogue-images/fc8a9ac0981640486227578f.jpg",
+        "sha256": "fc8a9ac0981640486227578f7d1f72554a2bc6d7fb8b55adc0bc96c0c19eff9c"
+      },
+      {
+        "file": "assets/site/catalogue-images/fca88f068ac74f0963ef90ab.jpg",
+        "sha256": "fca88f068ac74f0963ef90abc1b53c9a6628a555dd2f389f6611d7cbb4c73069"
+      },
+      {
+        "file": "assets/site/catalogue-images/fd814ae32f43e3707e9a3633.jpg",
+        "sha256": "fd814ae32f43e3707e9a36339b3d4122d02220fd45ed2ab87c2faeaea3d25c53"
+      },
+      {
+        "file": "assets/site/catalogue-images/ff8147813a82a9d006fecb3d.jpg",
+        "sha256": "ff8147813a82a9d006fecb3d5f1c83c8ffad9ae07176e3ed3ef19c283e204f89"
+      },
+      {
+        "file": "assets/site/clients/01M4V0XKFT4HTQGFBW7WA1WD1N.jpg",
+        "sha256": "3dcc49ff3d6101caf7efa3234a38f0dd163a2370f749a26a8c18dd73f7bce6c6"
+      },
+      {
+        "file": "assets/site/clients/01M4V12Z3BB635VBKJ7G5CRH5T.png",
+        "sha256": "5daacaef3bae6859b96b46add2354d3890ba1988e6351e6212a3082017fd5309"
+      },
+      {
+        "file": "assets/site/clients/01M4V15KT38682KJNTP95YQJDG.jpg",
+        "sha256": "6147cf92b3d0e03b24c6ac51254f0f284e12c9528b96f3332b42887622b2c0e1"
+      },
+      {
+        "file": "assets/site/clients/01M4V18KZ1AS57DEJZPBBZXAMH.png",
+        "sha256": "61f3ee4a4c393862d840a13b83dd093e7e6e79693ab8e626702410f7994df38d"
+      },
+      {
+        "file": "assets/site/clients/01M4V1BMEJXFYRGBATBKS2M741.jpg",
+        "sha256": "a7397728658c6b0a5c81324ea8499a87498dfc909a1f8d6a4799524be2c99510"
+      },
+      {
+        "file": "assets/site/clients/01M4V1CH3BS2BAJ85D0W2ECDNT.png",
+        "sha256": "86664bb1c3e926510d66f3b2d84790bd00c5747116e43589b32a43cf39ecbe47"
+      },
+      {
+        "file": "assets/site/clients/01M4V1H9J51YC38STQXNFM6Z7X.jpg",
+        "sha256": "11f3933d7f8c06a9f83c6d10d124b4e70b4a8aa9f2c0c8472d4c5ae08a185fff"
+      },
+      {
+        "file": "assets/site/products/bioma-cidex-d1-scrub-5-pcmx-cg.jpg",
+        "sha256": "f9d41d14a1b5506cb6c4dd36c43ede7fd8c9796e469d286997805ba84cd8d624"
+      },
+      {
+        "file": "assets/site/products/bioma-luxury-ec-90-full-care-make-cream.jpg",
+        "sha256": "d0697bcaf1227463f589541127b11f8d7757ad7e3e9c33f741a52e5e7438ab28"
+      },
+      {
+        "file": "assets/site/products/bioma-luxury-hair-care-free-sulfate.jpg",
+        "sha256": "26dede546b15d2df1f10349c0bf7ea84b0f1b522c86e9abe85703b7b64bf8586"
+      },
+      {
+        "file": "assets/site/products/bioma-luxury-soap-melt-pour.jpg",
+        "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a"
+      },
+      {
+        "file": "assets/site/products/biomaseptol-gel-hydoalcoolique.jpg",
+        "sha256": "7510dfd050275f1715a34172e3f410072ceb863ccf70222653dd59f04757d577"
+      },
+      {
+        "file": "assets/site/products/dermo-cidex.jpg",
+        "sha256": "7afc92fc30483a557d1335e28ab22aa4aa94ccf08d65133aa679c3c65e11382d"
+      },
+      {
+        "file": "assets/site/products/germa-surf-ndd.jpg",
+        "sha256": "fadd7c53ae2ce0864cdb866fd7e32c381a6613d8f141f6abd0595f1bd5c3d4be"
+      },
+      {
+        "file": "assets/site/products/germacid-e4-blend-quadrizymes.jpg",
+        "sha256": "91c240ddf11fe989984ec236c35cf875c5383c3885b11148e8a3da05935e523d"
+      },
+      {
+        "file": "assets/site/ranges/cosmetic/bioma-soap.jpg",
+        "sha256": "9c700fd2aeece234854a3e02431167fc891c4c17be388057bd411303099f480a"
+      },
+      {
+        "file": "assets/site/ranges/cosmetic/cirquat-cdc-esters-c40-c46.jpg",
+        "sha256": "78da613069842ff4717022d30d371408cf5395a20cc706d6633aaa09de43293b"
+      },
+      {
+        "file": "assets/site/ranges/cosmetic/les-huiles-vegetales-aux-vertus-cosmetiques.webp",
+        "sha256": "bda4269ce4b7c35be96480c357ab87aae47ac68b5b705616c40d330c3bb2d989"
+      },
+      {
+        "file": "assets/site/ranges/ecological/biomatic-detazyme-pro.jpg",
+        "sha256": "93eec5b3fb64eae62cfbdcd6eaee2d3e857c215c3e420125431d29ec0d7d9a3b"
+      },
+      {
+        "file": "assets/site/ranges/ecological/biomatic-nature-linge.jpg",
+        "sha256": "bf332463fa550c64d35923acd68878c6ea77a224c8c98c06cc607cc8751a68c4"
+      },
+      {
+        "file": "assets/site/ranges/ecological/oxycide-ap-8-bl.jpg",
+        "sha256": "271407c70bacb1afd98e2a711629f5771cd6c7da831d87edadefdd274d81a5b2"
+      },
+      {
+        "file": "assets/site/ranges/industry/acide-sulfurique.jpg",
+        "sha256": "b09332d849b30d0cda0a6217dd19617b86a765d95b781c4824a9ce7a1b436bf2"
+      },
+      {
+        "file": "assets/site/ranges/industry/hydroxyde-de-sodium.jpg",
+        "sha256": "d3ec1d947ca4a4b061eec4122ab50b4106d3d7649e8e0f2e1e054eba679f29dc"
+      },
+      {
+        "file": "assets/site/ranges/industry/peroxyde-d-hydrogene.jpg",
+        "sha256": "34eac36addc15fafced35e9081d97abcddcd676b05a02f0c1cca224cf443988b"
+      },
+      {
+        "file": "assets/site/ranges/professional/agronet-alcalin-k50-cp.jpg",
+        "sha256": "a545d21fa825346765a76e7bae74699d107d29be14352c54c0428bf6bf713564"
+      },
+      {
+        "file": "assets/site/ranges/professional/vitrol-tp-10.jpg",
+        "sha256": "f31bb7b5aab6dde246984d391dd9552a503a765b81d81e15a147bc00df07ced9"
+      },
+      {
+        "file": "assets/site/ranges/vehicles/super-robot-detachant-tissu-a-sec.jpg",
+        "sha256": "c3ffbf93dcb60d852786e6ebc594b6b67bdb9534d1aeec9961d483729fd23217"
+      },
+      {
+        "file": "assets/site/ranges/vehicles/super-robot-lave-glace-auto-concentre.jpg",
+        "sha256": "6a34205079e273dbb1a6296dab5119eca96755241e1b2e4be3111ded3c771fd4"
+      },
+      {
+        "file": "assets/site/ranges/vehicles/super-robot-shampoing-auto-tout-en-un.jpg",
+        "sha256": "a74b4747605696a3b3e49d4e9fcd45da2140396319e11b5667b6ae322ae18b1c"
+      },
+      {
+        "file": "assets/site/ranges/water/aquatec-ch-01.jpg",
+        "sha256": "b37f1884a2983339d93a069840e572b82c250047e2e01bd9a1feb966e0e1e00c"
+      },
+      {
+        "file": "assets/site/ranges/water/aquatec-ro-02.jpg",
+        "sha256": "3b3ad0b41ff3f9a2e71177873b29192615f3b83107452b944e04f430282c210c"
+      },
+      {
+        "file": "assets/site/ranges/water/poly-aluminium-chloride-pac.jpg",
+        "sha256": "0a8bfb6062da4c1726a559d260a87e46331e3e55efa2ddac129f0cad21f2a187"
+      }
+    ]
+  },
+  "user_artwork": {
+    "original_files": 9,
+    "byte_exact_originals": true,
+    "files": [
+      {
+        "file": "assets/user/logo-original.jpg",
+        "sha256": "e00e285b29829ea60172dca0d487572b6d08066491b0ed31bf40cf2977359e11",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-hygiene-professionnelle-et-institutionnelle.jpg",
+        "sha256": "c72631cb167ab54b3182c8bfe1ac46e320a37eb4e01d6cc786a18335ccc72298",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-hygiene-professionnelle-ecologique.jpg",
+        "sha256": "af6af4f13875734db0e20df5941aedad4fdd016025c101335e9819445c1a72ce",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-matiere-premiere-cosmetique.jpg",
+        "sha256": "33b6dc1820f6d7d145b2ef880ed974fca2467492ef482f100e966d97157d347c",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-produits-chimiques-industriels.jpg",
+        "sha256": "833b3380f2e1af084084303a64edd05fdbd58ae9f43c48ec2a1d97f82eccf763",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-traitement-des-eaux.jpg",
+        "sha256": "d0c2ae4c27c7b1adf8cf3a4110ff5a2256776fcca0751ea349fc2bd24f129b0f",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-produits-de-lavage-et-dentretien-des-vehicules.jpg",
+        "sha256": "5b0936c93adfc6111c2d63814481c0fd09fe16bcbd147260fe6ff3c40c456e47",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/laboratoire.jpg",
+        "sha256": "c90e1d6d59ae15d5899c61cab6fae292463529eaa24b23a111043371450a6f80",
+        "compared_to_available_user_attachment": true
+      },
+      {
+        "file": "assets/user/category-hygiene-en-milieu-medicale.jpg",
+        "sha256": "a66f0d472e3bf40c5dfe4bcb7b49b60367dc27df3183687fe4e2538a1cb5465a",
+        "compared_to_available_user_attachment": true
+      }
+    ]
+  },
+  "hierarchy": {
+    "source_product_ids": 503,
+    "sections": 86,
+    "product_section_memberships": 509,
+    "source_pointer_membership_evidence": {
+      "source_subcategory_label": 504,
+      "official_grouped_product_context": 3,
+      "explicit_product_name": 2
+    },
+    "products_repeated_in_several_sections": 6,
+    "all_source_products_retained": true,
+    "ranges": [
+      {
+        "range": "hygiene-professionnelle-et-institutionnelle",
+        "sections": 23,
+        "section_product_appearances": 118
+      },
+      {
+        "range": "hygiene-en-milieu-medicale",
+        "sections": 12,
+        "section_product_appearances": 46
+      },
+      {
+        "range": "hygiene-professionnelle-ecologique",
+        "sections": 2,
+        "section_product_appearances": 9
+      },
+      {
+        "range": "matiere-premiere-cosmetique",
+        "sections": 26,
+        "section_product_appearances": 192
+      },
+      {
+        "range": "produits-chimiques-industriels",
+        "sections": 18,
+        "section_product_appearances": 117
+      },
+      {
+        "range": "traitement-des-eaux",
+        "sections": 4,
+        "section_product_appearances": 19
+      },
+      {
+        "range": "produits-de-lavage-et-dentretien-des-vehicules",
+        "sections": 1,
+        "section_product_appearances": 8
+      }
+    ]
+  },
+  "timeline": {
+    "scenes": 216,
+    "duration_seconds": 1871,
+    "sections_introduced": 86,
+    "product_section_cards": 509,
+    "all_503_product_ids_shown": true,
+    "all_nine_user_images_used": true,
+    "whole_original_artwork_policy": {
+      "fit": "contain",
+      "crop": false,
+      "recolor": false,
+      "preserve_aspect_ratio": true
+    },
+    "product_typography": {
+      "checked_cards": 509,
+      "minimum_font_px": 31,
+      "exact_characters_after_wrapping": true,
+      "measured_glyph_bounds": "passed"
+    }
+  },
+  "csv_exports": {
+    "catalogue_rows": 509,
+    "exact_hierarchy_membership_match": true,
+    "chapter_rows": 93,
+    "exact_timeline_chapters_match": true
+  },
+  "ambient_source": {
+    "file": "assets/saraproc-ambient-loop.wav",
+    "sha256": "8832f8199388286c66036532f74a276f4ce4d8770b0a2df633c0101ebcbf0556",
+    "duration_seconds": 40.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "peak_dbfs": -11.0,
+    "rms_dbfs": -23.152,
+    "signal_present_without_clipping": true
+  },
+  "videos": [
+    {
+      "file": "saraproc-maroc-categories-sous-categories-musique.mp4",
+      "duration_seconds": 1871,
+      "decoded_frames": 56130,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "audio": "AAC stereo 48 kHz",
+      "full_ffmpeg_xerror_decode": "passed",
+      "bytes": 86975764,
+      "sha256": "b6f7d1ce3b4b5ee0a1c8cae9bd26d9a925459a3fa06566883b20729f2e90ba50"
+    },
+    {
+      "file": "saraproc-maroc-categories-sous-categories-sans-son.mp4",
+      "duration_seconds": 1871,
+      "decoded_frames": 56130,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "fps": 30,
+      "video_codec": "h264",
+      "audio": null,
+      "full_ffmpeg_xerror_decode": "passed",
+      "bytes": 55391312,
+      "sha256": "45c890566c901feacbf992949e9acc5df9a4db79f1be6104871a3553f6c64d73"
+    }
+  ],
+  "archive": {
+    "file": "Saraproc-Maroc-categories-sous-categories.zip",
+    "bytes": 82169371,
+    "sha256": "5fc4724d7c92748ef8068523e466c305ae231db93d29a839fa2aa033356b2b8c",
+    "member_sha256": {
+      "saraproc-maroc-categories-sous-categories-musique.mp4": "b6f7d1ce3b4b5ee0a1c8cae9bd26d9a925459a3fa06566883b20729f2e90ba50",
+      "produits-par-sous-categorie.csv": "eb66b63ca0c0a0d1f221c495dc4c632dedfb33a553d5a3f52ec9f5411e32869a",
+      "chapitres.csv": "679b61edd358dbbf9a5aca12ffbf5a470f76c80d24f377ce930e02852ba3f1b4",
+      "storyboard.jpg": "9248ee807fe3dcf899bc4e06fa657142a8758ad5df23242ebbfd9baf6353d96e"
+    },
+    "members_match_current_files": true
+  },
+  "artifact_sha256": {
+    "hierarchy.json": "f85d0793a2b26e4a9da603a7c6dadc1426c2efff71295d933bda65f68d2d3f31",
+    "timeline.json": "af39c1d52b8b9be8abbdfb6921b126dece9ab577274efad6e40b3924c94b2957",
+    "manifest.json": "9fef6025db9bbac900cb507c3aef32ac80a758d34e0e4dd44f6f464e602e8440"
+  },
+  "status": "passed"
+}

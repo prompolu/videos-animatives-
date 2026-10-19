@@ -1,4 +1,43 @@
-# Saraproc Maroc — catalogue animé des sept gammes
+# Saraproc Maroc — catalogue animé par catégorie et sous-catégorie
+
+La nouvelle version est dans **[`output/catalogue-hierarchique/`](output/catalogue-hierarchique/)** : **31 min 11 s**, en français, Full HD, avec musique d’ambiance originale et sans voix off. Elle suit le parcours **catégorie → sous-catégorie → produits**, avec les neuf visuels fournis par l’utilisateur. Le logo complet est affiché dans ses couleurs et proportions d’origine, sans recadrage ni retouche.
+
+- [Télécharger la vidéo avec musique](output/catalogue-hierarchique/saraproc-maroc-categories-sous-categories-musique.mp4).
+- [Télécharger le ZIP](output/catalogue-hierarchique/Saraproc-Maroc-categories-sous-categories.zip) : vidéo musicale, liste des produits par sous-catégorie, chapitres et storyboard.
+- [Voir le storyboard](output/catalogue-hierarchique/storyboard.jpg) et [les chapitres](output/catalogue-hierarchique/chapitres.csv).
+- [Version sans son](output/catalogue-hierarchique/saraproc-maroc-categories-sous-categories-sans-son.mp4).
+
+Le montage présente **7 catégories et 86 sections**, dont 65 sous-catégories ou sous-niveaux du site et 21 familles supplémentaires des PDF officiels. Les 503 mentions du relevé précédent sont conservées ; leurs appartenances à plusieurs sous-catégories produisent 509 apparitions. Ces chiffres ne désignent pas un nombre de SKU vérifiés. L’annonce « Plus de 320 produits au catalogue Saraproc » est conservée.
+
+Chaque sous-catégorie dispose d’un carton, puis de pages de six produits au maximum, lisibles pendant au moins 12 secondes. Les photographies officielles disponibles accompagnent les noms. Les matières sans photo documentée gardent une présentation typographique. Deux rubriques de parfums sont nommées sans inventer de références absentes des sources. Les bannières fournies sont montrées en entier ; la présence d’une piscine dans le visuel fourni pour les eaux ne modifie pas la sélection de produits industriels.
+
+Les originaux et leurs empreintes sont dans [assets/user/manifest.json](assets/user/manifest.json). La hiérarchie et les preuves de rattachement sont dans [hierarchy.json](output/catalogue-hierarchique/hierarchy.json). La nouvelle musique douce, sans batterie ni échantillon tiers, est documentée dans [assets/ambient-music-notes.md](assets/ambient-music-notes.md).
+
+| Début | Catégorie |
+| --- | --- |
+| 00:19 | Hygiène professionnelle et institutionnelle |
+| 07:46 | Hygiène en milieu hospitalier |
+| 11:17 | Hygiène professionnelle écologique |
+| 11:56 | Matières premières cosmétiques |
+| 22:24 | Produits chimiques pour les industries |
+| 28:43 | Traitement des eaux industrielles |
+| 30:07 | Lavage et entretien des véhicules |
+
+Pour reproduire cette version depuis la racine du dépôt, avec les prérequis décrits ci-dessous :
+
+```bash
+python3 tools/prepare_hierarchy.py
+python3 tools/compose_ambient_loop.py
+python3 tools/render_hierarchical_video.py --stills
+python3 tools/render_hierarchical_video.py
+python3 tools/validate_hierarchical_video.py
+```
+
+Le [brief de cette régénération](creative/brief-hierarchique-fr.md) décrit les choix de présentation. Le rapport [validation.json](output/catalogue-hierarchique/validation.json) contrôle la couverture des noms, les neuf fichiers originaux, la lisibilité, le décodage intégral des MP4 et le contenu exact du ZIP.
+
+**Validation réussie :** les deux MP4 ont été décodés entièrement, avec chacun 56 130 images sur 1 871 secondes. Les 509 cartes conservent les noms exacts, avec une taille minimale mesurée de 31 pixels. Les neuf JPG sont identiques aux pièces jointes et les quatre fichiers du ZIP correspondent aux exports courants.
+
+## Version précédente : catalogue des sept gammes, 19 min 19 s
 
 La version longue présente les noms des produits et matières des **sept gammes demandées**, d’après les pages et catalogues PDF officiels de Saraproc Maroc. Le film exporté et validé dure **19 min 19 s** en Full HD, en français, avec une version musicale et une version silencieuse, **sans voix off**. Les noms sont répartis sur des écrans de six références au maximum, pendant au moins 12 secondes par écran.
 

@@ -1,0 +1,114 @@
+{
+  "source": "Images jointes par l’utilisateur à la demande de régénération de la vidéo.",
+  "preservation": "Chaque JPG est conservé octet pour octet. Le logo complet ne doit être ni redessiné, ni recoloré, ni recadré. Affichage proportionnel de l’image entière uniquement.",
+  "images": [
+    {
+      "original_source_filename": "1-Pasted-Image-1.jpg",
+      "path": "assets/user/logo-original.jpg",
+      "sha256": "e00e285b29829ea60172dca0d487572b6d08066491b0ed31bf40cf2977359e11",
+      "bytes": 72486,
+      "width": 1169,
+      "height": 668,
+      "role": "company-logo",
+      "category_slug": null,
+      "description": "Logo complet Saraproc Maroc, y compris la signature Import - Export / Fabricant & Négociant.",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "2-Pasted-Image-2.jpg",
+      "path": "assets/user/category-hygiene-professionnelle-et-institutionnelle.jpg",
+      "sha256": "c72631cb167ab54b3182c8bfe1ac46e320a37eb4e01d6cc786a18335ccc72298",
+      "bytes": 205633,
+      "width": 1280,
+      "height": 720,
+      "role": "category-art",
+      "category_slug": "hygiene-professionnelle-et-institutionnelle",
+      "description": "Hygiène professionnelle et institutionnelle",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "3-Pasted-Image-2.jpg",
+      "path": "assets/user/category-hygiene-professionnelle-ecologique.jpg",
+      "sha256": "af6af4f13875734db0e20df5941aedad4fdd016025c101335e9819445c1a72ce",
+      "bytes": 197886,
+      "width": 1280,
+      "height": 720,
+      "role": "category-art",
+      "category_slug": "hygiene-professionnelle-ecologique",
+      "description": "Hygiène professionnelle écologique",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "4-Pasted-Image-2.jpg",
+      "path": "assets/user/category-matiere-premiere-cosmetique.jpg",
+      "sha256": "33b6dc1820f6d7d145b2ef880ed974fca2467492ef482f100e966d97157d347c",
+      "bytes": 211446,
+      "width": 1280,
+      "height": 720,
+      "role": "category-art",
+      "category_slug": "matiere-premiere-cosmetique",
+      "description": "Matières premières cosmétiques",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "5-Pasted-Image-2.jpg",
+      "path": "assets/user/category-produits-chimiques-industriels.jpg",
+      "sha256": "833b3380f2e1af084084303a64edd05fdbd58ae9f43c48ec2a1d97f82eccf763",
+      "bytes": 244147,
+      "width": 1280,
+      "height": 713,
+      "role": "category-art",
+      "category_slug": "produits-chimiques-industriels",
+      "description": "Produits chimiques pour les industries",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "6-Pasted-Image-2.jpg",
+      "path": "assets/user/category-traitement-des-eaux.jpg",
+      "sha256": "d0c2ae4c27c7b1adf8cf3a4110ff5a2256776fcca0751ea349fc2bd24f129b0f",
+      "bytes": 281845,
+      "width": 1280,
+      "height": 720,
+      "role": "category-art",
+      "category_slug": "traitement-des-eaux",
+      "description": "Traitement des eaux industrielles",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "7-Pasted-Image-2.jpg",
+      "path": "assets/user/category-produits-de-lavage-et-dentretien-des-vehicules.jpg",
+      "sha256": "5b0936c93adfc6111c2d63814481c0fd09fe16bcbd147260fe6ff3c40c456e47",
+      "bytes": 251952,
+      "width": 1280,
+      "height": 713,
+      "role": "category-art",
+      "category_slug": "produits-de-lavage-et-dentretien-des-vehicules",
+      "description": "Produits de lavage et entretien des véhicules",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "8-Pasted-Image-2.jpg",
+      "path": "assets/user/laboratoire.jpg",
+      "sha256": "c90e1d6d59ae15d5899c61cab6fae292463529eaa24b23a111043371450a6f80",
+      "bytes": 217199,
+      "width": 1280,
+      "height": 720,
+      "role": "company-introduction",
+      "category_slug": null,
+      "description": "Laboratoires Saraproc : fabricant marocain de produits d’hygiène et de cosmétique",
+      "byte_identical_to_user_attachment": true
+    },
+    {
+      "original_source_filename": "9-Pasted-Image-2.jpg",
+      "path": "assets/user/category-hygiene-en-milieu-medicale.jpg",
+      "sha256": "a66f0d472e3bf40c5dfe4bcb7b49b60367dc27df3183687fe4e2538a1cb5465a",
+      "bytes": 181671,
+      "width": 1280,
+      "height": 720,
+      "role": "category-art",
+      "category_slug": "hygiene-en-milieu-medicale",
+      "description": "Hygiène en milieu hospitalier",
+      "byte_identical_to_user_attachment": true
+    }
+  ]
+}
