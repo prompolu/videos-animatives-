@@ -1,0 +1,38 @@
+{
+  "programs": [],
+  "stream_groups": [],
+  "streams": [
+    {
+      "codec_name": "h264",
+      "codec_type": "video",
+      "width": 720,
+      "height": 1280,
+      "duration": "17.000000",
+      "nb_read_frames": "408"
+    },
+    {
+      "codec_name": "aac",
+      "codec_type": "audio",
+      "sample_rate": "48000",
+      "channels": 2,
+      "duration": "17.000000",
+      "nb_read_frames": "793"
+    }
+  ],
+  "format": {
+    "duration": "17.000000",
+    "size": "2498385"
+  },
+  "effects": {
+    "crossfade_centres_seconds": [
+      2.375,
+      4.625,
+      6.875,
+      9.125,
+      11.375,
+      14.125
+    ],
+    "source": "Original synthesized effects; existing music preserved",
+    "video_stream": "Copied without re-encoding"
+  }
+}
