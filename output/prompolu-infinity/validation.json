@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 450,
+  "duration": 15,
+  "codec": "h264",
+  "pixel_format": "yuv420p",
+  "audio": false,
+  "full_decode": "passed",
+  "fast_start": true,
+  "sha256": "d81bc67c64549cb113103575c23655bce769a6977972d3c199243e9edd03780d"
+}
