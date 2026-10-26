@@ -1,0 +1,100 @@
+{
+  "status": "passed",
+  "file": "promark-story-sfx.mp4",
+  "sha256": "428d98c55e9974b29c5f40ed884ffea0ff79bba512b2dfe85815123bf824b5d6",
+  "duration": 20,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 600,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_sample_rate": "48000",
+  "full_decode": "passed",
+  "browser_playback_to_end": "passed",
+  "loop": {
+    "first_last_frame_mean_absolute_rgb_difference": 0.012550154320987654,
+    "max_rgb_difference": 22,
+    "tolerance_mean_rgb_levels": 1
+  },
+  "audio": {
+    "integrated_lufs": -20.99,
+    "true_peak_dbtp": -7.51,
+    "music": false,
+    "voice": false,
+    "voice_status": "Deferred at user request"
+  },
+  "motion_analysis": {
+    "frames": 600,
+    "consecutive_pairs": 599,
+    "largest_peaks": [
+      {
+        "frame": 63,
+        "time": 2.1,
+        "mean": 74.78100490196078
+      },
+      {
+        "frame": 62,
+        "time": 2.066666666666667,
+        "mean": 35.67285539215686
+      },
+      {
+        "frame": 242,
+        "time": 8.066666666666666,
+        "mean": 35.114889705882355
+      },
+      {
+        "frame": 64,
+        "time": 2.1333333333333333,
+        "mean": 32.68547794117647
+      },
+      {
+        "frame": 243,
+        "time": 8.1,
+        "mean": 31.832598039215686
+      },
+      {
+        "frame": 269,
+        "time": 8.966666666666667,
+        "mean": 31.144178921568628
+      },
+      {
+        "frame": 472,
+        "time": 15.733333333333333,
+        "mean": 27.789644607843137
+      },
+      {
+        "frame": 65,
+        "time": 2.1666666666666665,
+        "mean": 27.12843137254902
+      },
+      {
+        "frame": 241,
+        "time": 8.033333333333333,
+        "mean": 27.03449754901961
+      },
+      {
+        "frame": 244,
+        "time": 8.133333333333333,
+        "mean": 25.632230392156863
+      },
+      {
+        "frame": 473,
+        "time": 15.766666666666667,
+        "mean": 24.20863970588235
+      },
+      {
+        "frame": 521,
+        "time": 17.366666666666667,
+        "mean": 24.140502450980392
+      }
+    ]
+  },
+  "source_index_sha256": "4b9e29ad3596bea8f0f0a1c9fdaba5a80b2c24e579c3bc34764c22739e9773eb",
+  "notes": [
+    "Stylized social interface: counters and messages follow the requested storyboard, not live account statistics",
+    "Website plates captured from the repository bundled site; direct GitHub Pages request was denied",
+    "Short reading times and transition overlaps are reviewed against the explicit client timing"
+  ],
+  "delivered_file": "Promark-20s-effets-sonores.mp4"
+}

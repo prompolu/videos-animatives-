@@ -1,0 +1,16 @@
+{
+  "source": "capture/repository-source/public/logo.svg",
+  "operation": "Original negative-space vector retained as luminance mask; crop and palette recolor only; no paths redrawn",
+  "logo_crop_viewbox": [
+    171.52,
+    353.28000000000003,
+    1192.96,
+    282.88
+  ],
+  "k_crop_viewbox": [
+    1194.24,
+    353.28000000000003,
+    170.24,
+    282.88
+  ]
+}

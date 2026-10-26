@@ -157,3 +157,11 @@ python3 tools/validate_outputs.py
 ```
 
 Le dernier script contrôle les deux exports courts par décodage intégral, leur format, leur durée de 60 secondes et leurs 1 800 images, le ZIP et les empreintes des 17 images officielles de cette sélection. Son rapport reste `output/validation.json` ; il ne valide pas les exports longs du catalogue.
+
+## Promark — Marques remarquées
+
+Le nouveau film Promark est disponible en **20 secondes, 1080 × 1920, 30 images/s**, avec effets sonores et sans voix ni musique.
+
+- [Voir le film et les fichiers de livraison](output/promark-story/)
+- [Télécharger le MP4 avec effets sonores](https://github.com/prompolu/videos-animatives-/raw/refs/heads/main/output/promark-story/Promark-20s-effets-sonores.mp4)
+- [Télécharger le projet éditable](output/promark-story/Promark-projet-editable.zip)

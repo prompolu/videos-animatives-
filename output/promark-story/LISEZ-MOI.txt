@@ -1,0 +1,16 @@
+PROMARK — LIVRAISON
+
+Film : 20,0 secondes, 1080 × 1920, 30 images/s, boucle vérifiée.
+
+Promark-20s-effets-sonores.mp4 : export H.264/AAC prêt pour publication.
+Promark-20s-sans-son.mp4 : mêmes images, sans piste audio.
+effets-sonores-20s.wav : mix des effets séparé, stéréo 48 kHz.
+reperes-voix.json : départs prévus pour intégrer la voix Vivienne.
+Promark-projet-editable.zip : sources HyperFrames, médias locaux, polices, crédits et rapports.
+apercu-sequences.png : aperçu des séquences du MP4.
+signature.png : image de la signature finale.
+validation.json : mesures de durée, format, boucle, lecture et audio.
+
+La voix et la musique restent à intégrer, conformément à votre choix.
+Les repères sont des intentions de montage, pas une transcription mesurée.
+Après ajout de voix ou musique, adapter le ducking et refaire le contrôle du mix.

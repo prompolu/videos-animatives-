@@ -1,0 +1,12 @@
+{
+  "checked_file": "index.html",
+  "all_error_counts_zero": true,
+  "warnings_reviewed": {
+    "transition_overlap": "Scene containers intentionally overlap for the brief\u2019s short blur/push handoffs; hero frames reviewed",
+    "first_frame_empty": "The requested 9%-width glowing square is visibly present; text/image-based detector treats it as empty",
+    "line_unread": "Short interface glimpses and one-second closing hold are fixed by the client brief"
+  },
+  "voice": "User chose SFX-only; Vivienne is deferred",
+  "snapshots_inspected": 15,
+  "source": "capture/source.json"
+}

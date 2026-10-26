@@ -1,0 +1,32 @@
+{
+  "video_sha256": "428d98c55e9974b29c5f40ed884ffea0ff79bba512b2dfe85815123bf824b5d6",
+  "source_snapshots": 15,
+  "decoded_mp4_sampled_frames": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150,
+    180,
+    210,
+    240,
+    270,
+    300,
+    330,
+    360,
+    390,
+    420,
+    450,
+    480,
+    510,
+    540,
+    570
+  ],
+  "visually_inspected": "All scene snapshots/contact sheets, full-size search/share/end frames, and encoded MP4 overview/signature",
+  "source_loop_comparison": "Opening square and closing square have the same designed pose; decoded mean RGB difference is recorded in validation.json",
+  "voice": "Deferred at explicit user request",
+  "music": "None, as requested",
+  "sound_design": "36 cues from 14 existing library effects; 5 ms RMS peak alignment within each used trim",
+  "contrast_and_layout": "No check errors; remaining transition overlaps and short reading times reviewed against the client brief"
+}

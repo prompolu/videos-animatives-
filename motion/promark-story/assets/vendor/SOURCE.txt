@@ -1,0 +1,1 @@
+gsap.min.js is copied unchanged from gsap@3.14.2. The original copyright and licence header is retained. Package integrity and source are pinned in package-lock.json.

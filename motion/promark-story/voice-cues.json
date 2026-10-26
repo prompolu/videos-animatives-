@@ -1,0 +1,27 @@
+{
+  "status": "voice deferred by user",
+  "voice_requested": "Vivienne, French, female",
+  "timings": "User-requested cue starts, not measured speech timings",
+  "cues": [
+    {
+      "start": 2.6,
+      "text": "Vos clients vous cherchent déjà…"
+    },
+    {
+      "start": 6.4,
+      "text": "…encore faut-il qu’ils vous trouvent."
+    },
+    {
+      "start": 9.2,
+      "text": "Contenus, réseaux sociaux, sites web : Promark fait parler de votre marque."
+    },
+    {
+      "start": 12.6,
+      "text": "Et les demandes arrivent."
+    },
+    {
+      "start": 17.8,
+      "text": "Promark. Pour les entreprises qui veulent être vues."
+    }
+  ]
+}

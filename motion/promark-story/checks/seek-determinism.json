@@ -1,0 +1,65 @@
+{
+  "method": "Computed visible DOM state after repeated forward/backward seeking, no new screenshots",
+  "cases": [
+    {
+      "time": 0,
+      "passed": true,
+      "sha256": "426fd1d878375980036f45da2f2158058a37886e4db5359284b4a1fdfdfb6108"
+    },
+    {
+      "time": 0.7,
+      "passed": true,
+      "sha256": "28ea9e98d00104b9d3dc4cd129afba5c9b190203e82ee1bb6e07f99c2c80199b"
+    },
+    {
+      "time": 1.5,
+      "passed": true,
+      "sha256": "049b8f42f742ccc7a13519bf1a31638b98b3bf0de7d60c6780be9a733a0f826a"
+    },
+    {
+      "time": 2.9,
+      "passed": true,
+      "sha256": "b4820e10470d3c5191648b481cdeb2b525804997a196bc60eb9a6d107f2b7261"
+    },
+    {
+      "time": 5.3,
+      "passed": true,
+      "sha256": "66efd645077b761c9963b39f4de28c533eead4f5c435d1c61f08a55cde9f126a"
+    },
+    {
+      "time": 6.8,
+      "passed": true,
+      "sha256": "28895186363f192dc8cb5b802a395f4dcd824c5822c5a244719bc49832bea83b"
+    },
+    {
+      "time": 8.5,
+      "passed": true,
+      "sha256": "d7ce5f3dd9f3b2c481d26c40092aa3bc6450d6ec4ca768d93f3d044ae874e9e7"
+    },
+    {
+      "time": 10.4,
+      "passed": true,
+      "sha256": "c42e4d378e3844edb54de27e00f343295f0b2b517e172f4053994cd68bba684b"
+    },
+    {
+      "time": 13.8,
+      "passed": true,
+      "sha256": "9c38c5cc913d044f931f24a3c6c8dc22b4439b5480ac4f23dc5e636ff084801e"
+    },
+    {
+      "time": 17.1,
+      "passed": true,
+      "sha256": "9a5b1dd59b8f0e28b3342f3bb6c65f9999255003ca602a69b1351455f55ec282"
+    },
+    {
+      "time": 19.2,
+      "passed": true,
+      "sha256": "38f4901c8fec6ab40cb4120edd83e360ed1e82ebac9d63969909a7d3a1951caf"
+    },
+    {
+      "time": 19.966666667,
+      "passed": true,
+      "sha256": "1c5c74b4a46a12cd8f0c4875ac0595250a872ac56b977ccb4b8399f5f644beb9"
+    }
+  ]
+}

@@ -1,0 +1,1107 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 11,
+    "infoCount": 10,
+    "findings": [
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 3.625,
+        "selector": "div.phone-content > h1:nth-of-type(1) > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 54.85,
+          "top": 485.7,
+          "right": 931.18,
+          "bottom": 670.15,
+          "width": 876.33,
+          "height": 184.45
+        },
+        "containerSelector": "#search > div:nth-of-type(1) > h1:nth-of-type(1)",
+        "text": "remarquées.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 54.85,
+          "y": 485.7,
+          "width": 876.33,
+          "height": 184.45
+        },
+        "firstSeen": 3.625,
+        "lastSeen": 3.75,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          3.625,
+          3.75
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 6,
+        "selector": "div.suggestions > div:nth-of-type(1) > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 164,
+          "top": 854.63,
+          "right": 672.25,
+          "bottom": 902.63,
+          "width": 508.25,
+          "height": 48
+        },
+        "containerSelector": "#tile-1 > h2:nth-of-type(1)",
+        "text": "agence marketing digital à Fès",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 164,
+          "y": 854.63,
+          "width": 508.25,
+          "height": 48
+        },
+        "firstSeen": 6,
+        "lastSeen": 6.125,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          6,
+          6.125
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 6,
+        "selector": "div.search-signature > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 80,
+          "top": 1205.83,
+          "right": 418.05,
+          "bottom": 1301.83,
+          "width": 338.05,
+          "height": 96
+        },
+        "containerSelector": "h2.strategy > span:nth-of-type(1)",
+        "text": "Stratégie.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 80,
+          "y": 1205.83,
+          "width": 338.05,
+          "height": 96
+        },
+        "firstSeen": 6,
+        "lastSeen": 6.125,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          6,
+          6.125
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 6,
+        "selector": "div.search-signature > span:nth-of-type(2)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 80,
+          "top": 1281.3,
+          "right": 389.59,
+          "bottom": 1377.3,
+          "width": 309.59,
+          "height": 96
+        },
+        "containerSelector": "h2.strategy > span:nth-of-type(3)",
+        "text": "Création.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 80,
+          "y": 1281.3,
+          "width": 309.59,
+          "height": 96
+        },
+        "firstSeen": 6,
+        "lastSeen": 6.125,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          6,
+          6.125
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 9,
+        "selector": "span.muted",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 140.92,
+          "top": 1342.5,
+          "right": 456.55,
+          "bottom": 1382.5,
+          "width": 315.63,
+          "height": 40
+        },
+        "containerSelector": "p.profile-description",
+        "text": "#marketingdigital #fès",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 140.92,
+          "y": 1342.5,
+          "width": 315.63,
+          "height": 40
+        },
+        "firstSeen": 9,
+        "lastSeen": 9.125,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          9,
+          9.125
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 12,
+        "selector": "div.sheet-heading > h1:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 114,
+          "top": 873.89,
+          "right": 660.86,
+          "bottom": 971.89,
+          "width": 546.86,
+          "height": 98
+        },
+        "containerSelector": "#dm-1",
+        "text": "Commentaires",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 114,
+          "y": 873.89,
+          "width": 546.86,
+          "height": 98
+        },
+        "firstSeen": 12,
+        "lastSeen": 12.125,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          12,
+          12.125
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 14.25,
+        "selector": "#dm-1",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 148,
+          "top": 840.25,
+          "right": 740.41,
+          "bottom": 943.38,
+          "width": 592.41,
+          "height": 103.13
+        },
+        "containerSelector": "article.notification.n0 > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "text": "Bonjour ! Vous pouvez faire une vidéo pour ma boutique ?",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 148,
+          "y": 840.25,
+          "width": 592.41,
+          "height": 103.13
+        },
+        "firstSeen": 14.25,
+        "lastSeen": 14.375,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          14.25,
+          14.375
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 14.25,
+        "selector": "#dm-2",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 338.55,
+          "top": 1020.5,
+          "right": 932,
+          "bottom": 1074.5,
+          "width": 593.45,
+          "height": 54
+        },
+        "containerSelector": "article.notification.n1 > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "text": "Avec plaisir ! On en parle jeudi ?",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 338.55,
+          "y": 1020.5,
+          "width": 593.45,
+          "height": 54
+        },
+        "firstSeen": 14.25,
+        "lastSeen": 14.375,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          14.25,
+          14.375
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 14.25,
+        "selector": "#dm-3",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 148,
+          "top": 1151.63,
+          "right": 487.11,
+          "bottom": 1205.63,
+          "width": 339.11,
+          "height": 54
+        },
+        "containerSelector": "article.notification.n2 > div:nth-of-type(2) > span:nth-of-type(1)",
+        "text": "Parfait, jeudi 10 h !",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 148,
+          "y": 1151.63,
+          "width": 339.11,
+          "height": 54
+        },
+        "firstSeen": 14.25,
+        "lastSeen": 14.375,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          14.25,
+          14.375
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 15.875,
+        "selector": "article.notification.n0 > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 236,
+          "top": 800,
+          "right": 658.58,
+          "bottom": 875,
+          "width": 422.58,
+          "height": 75
+        },
+        "containerSelector": "div.sheet.share-sheet > h1:nth-of-type(1)",
+        "text": "Nouvel abonné",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 236,
+          "y": 800,
+          "width": 422.58,
+          "height": 75
+        },
+        "firstSeen": 15.875,
+        "lastSeen": 16,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          15.875,
+          16
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "warning",
+        "time": 15.875,
+        "selector": "span.mono.community-label",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 80,
+          "top": 1372.06,
+          "right": 753.2,
+          "bottom": 1411.06,
+          "width": 673.2,
+          "height": 39
+        },
+        "containerSelector": "div.share-contacts > div:nth-of-type(1) > p:nth-of-type(1)",
+        "text": "DES MARQUES QUI SE FONT REMARQUER.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 80,
+          "y": 1372.06,
+          "width": 673.2,
+          "height": 39
+        },
+        "firstSeen": 15.875,
+        "lastSeen": 16,
+        "occurrences": 2,
+        "heldMs": 125,
+        "times": [
+          15.875,
+          16
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 6,
+        "selector": "div.search-signature > span:nth-of-type(3)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 80,
+          "top": 1356.77,
+          "right": 339.2,
+          "bottom": 1452.77,
+          "width": 259.2,
+          "height": 96
+        },
+        "containerSelector": "h2.strategy > span:nth-of-type(3)",
+        "text": "Impact.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 80,
+          "y": 1356.77,
+          "width": 259.2,
+          "height": 96
+        },
+        "firstSeen": 6,
+        "lastSeen": 6,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          6
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 7.375,
+        "selector": "h2.strategy > span:nth-of-type(2)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 110,
+          "top": 1234.86,
+          "right": 340.11,
+          "bottom": 1305.86,
+          "width": 230.11,
+          "height": 71
+        },
+        "containerSelector": "p.post-caption",
+        "text": "Création.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 110,
+          "y": 1234.86,
+          "width": 230.11,
+          "height": 71
+        },
+        "firstSeen": 7.375,
+        "lastSeen": 7.375,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          7.375
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 7.375,
+        "selector": "#tile-4 > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 582,
+          "top": 1263.03,
+          "right": 819.61,
+          "bottom": 1302.03,
+          "width": 237.61,
+          "height": 39
+        },
+        "containerSelector": "p.post-caption",
+        "text": "RÉALISATIONS",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 582,
+          "y": 1263.03,
+          "width": 237.61,
+          "height": 39
+        },
+        "firstSeen": 7.375,
+        "lastSeen": 7.375,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          7.375
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 7.5,
+        "selector": "h2.strategy > span:nth-of-type(3)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 110,
+          "top": 1296.95,
+          "right": 302.66,
+          "bottom": 1367.95,
+          "width": 192.66,
+          "height": 71
+        },
+        "containerSelector": "p.post-caption",
+        "text": "Impact.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 110,
+          "y": 1296.95,
+          "width": 192.66,
+          "height": 71
+        },
+        "firstSeen": 7.5,
+        "lastSeen": 7.5,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          7.5
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 7.5,
+        "selector": "#tile-4 > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 582,
+          "top": 1309.03,
+          "right": 885.11,
+          "bottom": 1410.91,
+          "width": 303.11,
+          "height": 101.88
+        },
+        "containerSelector": "p.post-caption",
+        "text": "Découvrez nos réalisations.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 582,
+          "y": 1309.03,
+          "width": 303.11,
+          "height": 101.88
+        },
+        "firstSeen": 7.5,
+        "lastSeen": 7.5,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          7.5
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 8.5,
+        "selector": "img.scroll-site",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 82,
+          "top": -2148.93,
+          "right": 998,
+          "bottom": 11497.55,
+          "width": 916,
+          "height": 13646.48
+        },
+        "containerSelector": "div.site-window",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 80,
+          "top": 480.75,
+          "right": 1000,
+          "bottom": 1280.75,
+          "width": 920,
+          "height": 800
+        },
+        "overflow": {
+          "top": 2629.68,
+          "bottom": 10216.8
+        },
+        "dataAttributes": {
+          "data-hf-render-id": "hf-media-5",
+          "data-hf-authored-opacity": ""
+        },
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 82,
+          "y": -2148.93,
+          "width": 916,
+          "height": 13646.48
+        },
+        "firstSeen": 8.5,
+        "lastSeen": 8.5,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          8.5
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 10.75,
+        "selector": "p.profile-description",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 218.95,
+          "top": 1339.2,
+          "right": 861.05,
+          "bottom": 1384.2,
+          "width": 642.1,
+          "height": 45
+        },
+        "containerSelector": "#comment-1 > div:nth-of-type(2) > p:nth-of-type(1)",
+        "text": "Contenu, réseaux sociaux et sites web.",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 218.95,
+          "y": 1339.2,
+          "width": 642.1,
+          "height": 45
+        },
+        "firstSeen": 10.75,
+        "lastSeen": 10.75,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          10.75
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 10.875,
+        "selector": "div.profile-counters > div:nth-of-type(1) > span:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 106.19,
+          "top": 1073.2,
+          "right": 343.8,
+          "bottom": 1112.2,
+          "width": 237.61,
+          "height": 39
+        },
+        "containerSelector": "#comment-1 > div:nth-of-type(1)",
+        "text": "PUBLICATIONS",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 106.19,
+          "y": 1073.2,
+          "width": 237.61,
+          "height": 39
+        },
+        "firstSeen": 10.875,
+        "lastSeen": 10.875,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          10.875
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 15.75,
+        "selector": "article.notification.n1 > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 236,
+          "top": 1004.69,
+          "right": 658.58,
+          "bottom": 1079.69,
+          "width": 422.58,
+          "height": 75
+        },
+        "containerSelector": "div.sheet.share-sheet > h1:nth-of-type(1)",
+        "text": "Nouvel abonné",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 236,
+          "y": 1004.69,
+          "width": 422.58,
+          "height": 75
+        },
+        "firstSeen": 15.75,
+        "lastSeen": 16,
+        "occurrences": 2,
+        "heldMs": 250,
+        "times": [
+          15.75,
+          16
+        ]
+      },
+      {
+        "code": "content_overlap",
+        "severity": "info",
+        "time": 16,
+        "selector": "article.notification.n2 > div:nth-of-type(2) > h2:nth-of-type(1)",
+        "message": "Two text blocks overlap and may render unreadable.",
+        "rect": {
+          "left": 236,
+          "top": 1209.38,
+          "right": 658.58,
+          "bottom": 1284.38,
+          "width": 422.58,
+          "height": 75
+        },
+        "containerSelector": "div.share-contacts > div:nth-of-type(2) > span:nth-of-type(1)",
+        "text": "Nouvel abonné",
+        "fixHint": "Give each block its own zone, or put data-layout-allow-overlap on the text or on a container inside the scene. A marker on the scene root does not apply.",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 236,
+          "y": 1209.38,
+          "width": 422.58,
+          "height": 75
+        },
+        "firstSeen": 16,
+        "lastSeen": 16,
+        "occurrences": 1,
+        "heldMs": 0,
+        "times": [
+          16
+        ]
+      }
+    ],
+    "duration": 20,
+    "samples": [
+      0.7,
+      1.5,
+      2.9,
+      5.2,
+      6.8,
+      8.5,
+      10.4,
+      11.7,
+      13.8,
+      15.4,
+      17.1,
+      18,
+      19.2
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 21,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      0.7,
+      5.2,
+      10.4,
+      15.4,
+      19.2
+    ],
+    "checked": 55,
+    "passed": 55
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 15,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "first_frame_empty",
+        "severity": "warning",
+        "message": "Frame 0 shows only the background, and the first frame is the thumbnail on social players: have the title or key image already on screen at 0 s instead of entering from nothing; see references/review.md.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"@promark — Découvrez nos réalisations sur notre site Lien...\" (12 words) is on screen 1.90 s (±0.01 s), under its 3.07 s floor: hold it about 0.5 s + 0.3 s a word (4.10 s here) before it leaves or changes; see references/motion.md.",
+        "text": "@promark — Découvrez nos réalisations sur notre site Lien en bio · #marketingdigital #fès",
+        "selector": "p.post-caption",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 49.4,
+          "y": 1251.29,
+          "width": 832.09,
+          "height": 73.07999999999993
+        },
+        "time": 7.336,
+        "words": 12,
+        "seconds": 1.898,
+        "floorSeconds": 3.075
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"Vous faites aussi des sites web ?\" (6 words) is on screen 1.50 s (±0.01 s), under its 1.72 s floor: hold it about 0.5 s + 0.3 s a word (2.30 s here) before it leaves or changes; see references/motion.md.",
+        "text": "Vous faites aussi des sites web ?",
+        "selector": "#comment-2 > div:nth-of-type(2) > p:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 206,
+          "y": 1525.51,
+          "width": 590.98,
+          "height": 52
+        },
+        "time": 10.734,
+        "words": 6,
+        "seconds": 1.5,
+        "floorSeconds": 1.725
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"Ajouter un commentaire…\" (3 words) is on screen 0.80 s (±0.01 s), under its 1.05 s floor: hold it about 0.5 s + 0.3 s a word (1.40 s here) before it leaves or changes; see references/motion.md.",
+        "text": "Ajouter un commentaire…",
+        "selector": "div.comment-input",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 140,
+          "y": 1579.2,
+          "width": 372.95000000000005,
+          "height": 40
+        },
+        "time": 11.438,
+        "words": 3,
+        "seconds": 0.797,
+        "floorSeconds": 1.05
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "\"DES MARQUES QUI SE FONT REMARQUER.\" (6 words) is on screen 1.37 s (±0.01 s), under its 1.72 s floor: hold it about 0.5 s + 0.3 s a word (2.30 s here) before it leaves or changes; see references/motion.md.",
+        "text": "DES MARQUES QUI SE FONT REMARQUER.",
+        "selector": "span.mono.community-label",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 80,
+          "y": 1376.35,
+          "width": 673.2,
+          "height": 39
+        },
+        "time": 14.672,
+        "words": 6,
+        "seconds": 1.367,
+        "floorSeconds": 1.725
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Partager\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Partager",
+        "selector": "div.sheet.share-sheet > h1:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 114,
+          "y": 1007.49,
+          "width": 330.91,
+          "height": 98
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Découvreznos réalisations.\" (2 words) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Découvreznos réalisations.",
+        "selector": "div.share-post > p:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 151,
+          "y": 1237.4,
+          "width": 452.05999999999995,
+          "height": 135.88999999999987
+        },
+        "time": 15.734,
+        "words": 2,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"É\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "É",
+        "selector": "div.share-contacts > div:nth-of-type(2) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 526.63,
+          "y": 1465.68,
+          "width": 26.730000000000018,
+          "height": 57
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Équipe\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Équipe",
+        "selector": "div.share-contacts > div:nth-of-type(2) > p:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 491.58,
+          "y": 1561.18,
+          "width": 96.82999999999998,
+          "height": 39
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"C\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "C",
+        "selector": "div.share-contacts > div:nth-of-type(3) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 814.83,
+          "y": 1465.68,
+          "width": 31.649999999999977,
+          "height": 57
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Client\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Client",
+        "selector": "div.share-contacts > div:nth-of-type(3) > p:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 788.88,
+          "y": 1561.18,
+          "width": 83.56000000000006,
+          "height": 39
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Envoyer\" (1 word) is on screen 1.87 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Envoyer",
+        "selector": "div.button.send-button > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 417.56,
+          "y": 1658.31,
+          "width": 180.88000000000005,
+          "height": 62
+        },
+        "time": 15.734,
+        "words": 1,
+        "seconds": 1.867,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"A\" (1 word) is on screen 1.56 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "A",
+        "selector": "div.share-contacts > div:nth-of-type(1) > span:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 233.58,
+          "y": 1236.38,
+          "width": 31.47999999999999,
+          "height": 57
+        },
+        "time": 16.039,
+        "words": 1,
+        "seconds": 1.563,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Amina\" (1 word) is on screen 1.56 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Amina",
+        "selector": "div.share-contacts > div:nth-of-type(1) > p:nth-of-type(1)",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 204.67,
+          "y": 1331.88,
+          "width": 89.29999999999998,
+          "height": 39
+        },
+        "time": 16.039,
+        "words": 1,
+        "seconds": 1.563,
+        "floorSeconds": 2
+      },
+      {
+        "code": "line_unread",
+        "severity": "warning",
+        "message": "The film's last line \"Envoyé ✓\" (1 word) is on screen 0.60 s (±0.01 s), under the 2.00 s a closing line needs: hold it about 0.5 s + 0.3 s a word and at least 2 s before the film ends; see references/motion.md.",
+        "text": "Envoyé ✓",
+        "selector": "div.sent-pill",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 441.39,
+          "y": 1578.52,
+          "width": 197.19999999999993,
+          "height": 57.319999999999936
+        },
+        "time": 17,
+        "words": 1,
+        "seconds": 0.602,
+        "floorSeconds": 2
+      }
+    ],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 160
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "_meta": {
+    "version": "0.8.206",
+    "updateAvailable": false
+  }
+}

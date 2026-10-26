@@ -1,0 +1,66 @@
+{
+  "project": "Promark — Marques remarquées",
+  "duration_seconds": 20,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "frames": 600,
+  "voice_included": false,
+  "music_included": false,
+  "sfx_included": true,
+  "silent_version_video_stream_identical": true,
+  "source_archive_crc": "passed",
+  "source_archive_files": 117,
+  "files": [
+    {
+      "file": "LISEZ-MOI.txt",
+      "bytes": 868,
+      "sha256": "86c2fcf77d841018993bb84a811f7c68caf9c73088222f9a8b47663fb9d458dc"
+    },
+    {
+      "file": "Promark-20s-effets-sonores.mp4",
+      "bytes": 6412413,
+      "sha256": "428d98c55e9974b29c5f40ed884ffea0ff79bba512b2dfe85815123bf824b5d6"
+    },
+    {
+      "file": "Promark-20s-sans-son.mp4",
+      "bytes": 6095007,
+      "sha256": "f28c19dfbba58cd07ecb26cfd802ee698c1469818278322825a13c330dedc5ce"
+    },
+    {
+      "file": "Promark-projet-editable.zip",
+      "bytes": 23030321,
+      "sha256": "60ce896f623cc29df16675a329082c41597f6fb990d4492000942f8c04dad127"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1118,
+      "sha256": "85a9cfdcdad4e20e9d8b9a59d26e39262e77b81a409fff5157c531e902c84e9d"
+    },
+    {
+      "file": "apercu-sequences.png",
+      "bytes": 402066,
+      "sha256": "a6df805eaccbac210403baaf830c89b7c1a21391170410b09ba8613929ca44f8"
+    },
+    {
+      "file": "effets-sonores-20s.wav",
+      "bytes": 5760102,
+      "sha256": "e16879d836d519d8cd673801c6adc0c63b2ed029a3067a835b28bf439e44e290"
+    },
+    {
+      "file": "reperes-voix.json",
+      "bytes": 660,
+      "sha256": "e49e58735757fbee3cec791c5f19c72a9aa442e1717d22b70f85a6c56fe56b9e"
+    },
+    {
+      "file": "signature.png",
+      "bytes": 161031,
+      "sha256": "87c4ea0543026ad8480245cd41690ca2ddef5950f3ac547b6ec7cc13af58ded5"
+    },
+    {
+      "file": "validation.json",
+      "bytes": 2556,
+      "sha256": "3721b960ff6cbd0059b9a82bc4d915a81c344141e13f52f0ee82762d1f47675b"
+    }
+  ]
+}
