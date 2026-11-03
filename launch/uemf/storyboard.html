@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>UEMF storyboard</title>
+<style>
+@font-face{font-family:Geist;src:url(../prompolu/assets/fonts/Geist-Variable.woff2) format('woff2');font-weight:100 900}
+@font-face{font-family:Archivo;src:url(../prompolu/assets/fonts/Archivo-latin.woff2) format('woff2');font-weight:100 900;font-stretch:62% 125%}
+:root{--navy:#003882;--blue:#005696;--green:#53BC46;--paper:#F4F7FB;--ink:#0A1E3F}
+*{box-sizing:border-box}
+body{margin:0;background:#E9EEF5;font-family:Geist,sans-serif;color:var(--ink);width:2400px}
+header{display:flex;align-items:center;gap:48px;padding:56px 64px 36px}
+header img{height:120px}
+header h1{font:800 46px/1.05 Archivo;font-stretch:112%;margin:0;color:var(--navy)}
+header p{margin:10px 0 0;font-size:20px;color:#41506A;max-width:1100px;line-height:1.45}
+.sw{display:flex;gap:18px;margin-left:auto}
+.sw div{width:150px;font-size:15px;color:#41506A}
+.sw i{display:block;height:64px;border-radius:14px;margin-bottom:8px;box-shadow:inset 0 0 0 1px rgba(0,0,0,.08)}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:34px;padding:0 64px 64px}
+.p{background:#fff;border-radius:22px;overflow:hidden;box-shadow:0 8px 30px rgba(0,30,80,.08)}
+.f{position:relative;width:100%;aspect-ratio:1;background:var(--paper);overflow:hidden}
+.f img.ph{position:absolute;object-fit:cover}
+.c{padding:20px 24px 26px}
+.c .t{display:flex;gap:10px;align-items:baseline;margin-bottom:8px}
+.c b{font:800 22px Archivo;font-stretch:110%;color:var(--navy)}
+.c .tm{font-size:14px;color:#6B7A92;font-variant-numeric:tabular-nums}
+.c .tag{margin-left:auto;font-size:12px;font-weight:600;letter-spacing:.08em;color:#fff;background:var(--navy);border-radius:20px;padding:4px 10px}
+.c .tag.g{background:var(--green)}
+.c p{margin:0;font-size:15.5px;line-height:1.5;color:#33415A}
+.c .sfx{margin-top:8px;font-size:13px;color:#7A889E}
+.a{position:absolute}
+.pill{position:absolute;background:var(--navy);color:#fff;border-radius:999px;display:flex;align-items:center;justify-content:center;font-weight:600}
+.glass{position:absolute;background:rgba(255,255,255,.16);border-radius:999px;box-shadow:inset 0 1.5px 1px rgba(255,255,255,.7),inset 0 -1px 1px rgba(255,255,255,.25),0 10px 30px rgba(0,0,0,.2);backdrop-filter:blur(2px) saturate(1.3)}
+.cur{position:absolute;width:26px}
+.arrow{position:absolute;font-size:26px;color:var(--green);font-weight:800}
+.note{position:absolute;font-size:12px;color:var(--blue);font-weight:600;background:#fff;border-radius:8px;padding:3px 8px;box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.win{position:absolute;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 14px 40px rgba(0,30,80,.18)}
+.tb{height:26px;background:#14213A;display:flex;align-items:center;gap:5px;padding:0 9px}
+.tb i{width:7px;height:7px;border-radius:4px}
+.tb span{margin-left:10px;font-size:9px;color:#fff;background:rgba(255,255,255,.16);border-radius:5px;padding:3px 10px}
+.pole{position:absolute;border-radius:12px;color:#fff;padding:10px;font-size:11px;font-weight:700;overflow:hidden}
+.pole img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.35}
+.pole span{position:relative}
+.chip{display:inline-block;font-size:9.5px;border-radius:12px;padding:4px 8px;margin:3px 3px 0 0;background:#EEF3FA;color:var(--navy);font-weight:600}
+.chip.on{background:var(--green);color:#fff}
+.frame{position:absolute;background:var(--navy);padding:14px;box-shadow:0 24px 40px rgba(20,30,50,.3)}
+.frame .mat{background:#fff;padding:20px;height:100%}
+footer{padding:0 64px 60px;font-size:16px;color:#4A5873;line-height:1.6}
+footer b{color:var(--navy)}
+</style>
+</head>
+<body>
+<header>
+  <img src="assets/brand/uemf-logo-couleur.png" alt="Logo UEMF">
+  <div>
+    <h1>Euromed University of Fes — film de lancement</h1>
+    <p>Storyboard · carré 1440×1440 · 24,3 s · 54 temps à 133 BPM · un seul plan continu. Même grammaire que le film Prompolu : rien ne fond ni ne coupe. Chaque scène naît de la précédente : masques, ressorts, iris, verre liquide, aplats qui inondent puis se contractent. Interface bleu marine sur fond clair, feuille verte comme signature.</p>
+  </div>
+  <div class="sw">
+    <div><i style="background:#003882"></i>Bleu marine<br>#003882 · site</div>
+    <div><i style="background:#005696"></i>Bleu logo<br>#005696</div>
+    <div><i style="background:#53BC46"></i>Vert feuille<br>#53BC46</div>
+    <div><i style="background:#F4F7FB"></i>Fond<br>#F4F7FB</div>
+  </div>
+</header>
+
+<div class="grid">
+
+<!-- 1 -->
+<div class="p"><div class="f">
+  <img class="a" src="assets/brand/uemf-logo-couleur.png" style="left:60px;top:150px;width:420px;filter:none">
+  <div class="arrow" style="left:300px;top:340px">→ ←</div>
+  <div class="note" style="left:60px;top:400px">les lettres se compriment vers la feuille</div>
+</div><div class="c"><div class="t"><b>1 · Logo</b><span class="tm">temps 0–2 · 0,0–0,9 s</span><span class="tag">OUVERTURE</span></div>
+<p>Le logo officiel UEMF sur fond clair. « UEMF » et les lignes trilingues se compriment en accordéon vers le symbole aux deux feuilles. Il ne reste que la feuille verte.</p><div class="sfx">SFX : whoosh court · aspiration</div></div></div>
+
+<!-- 2 -->
+<div class="p"><div class="f">
+  <div class="pill" style="left:100px;top:220px;width:340px;height:96px;font-size:30px">Rentrée 2026</div>
+  <svg class="a" style="left:0;top:0" width="540" height="540"><circle cx="270" cy="268" r="44" fill="none" stroke="#53BC46" stroke-width="3" stroke-dasharray="6 6"/></svg>
+  <svg class="cur" style="left:300px;top:282px" viewBox="0 0 44 44"><path d="M7 4 L7 33 L14.2 26.3 L19 37.2 L23.6 35.2 L18.9 24.6 L28.6 24.6 Z" fill="#0A1E3F" stroke="#fff" stroke-width="2.2"/></svg>
+  <div class="note" style="left:100px;top:360px">clic → 6 lames d'iris → ouverture sur le campus</div>
+</div><div class="c"><div class="t"><b>2 · Pastille → iris</b><span class="tm">temps 3–7 · 1,35–3,15 s</span><span class="tag">OUVERTURE</span></div>
+<p>La feuille devient une pastille bleu marine, et « Rentrée 2026 » monte depuis sa ligne de masque. Au clic, six lames d'iris se ferment sur le texte, puis s'ouvrent d'un coup sur l'allée du campus.</p><div class="sfx">SFX : pop · clic · obturateur fermé / ouvert</div></div></div>
+
+<!-- 3 -->
+<div class="p"><div class="f">
+  <img class="ph" src="assets/photos/campus.jpg" style="left:40px;top:70px;width:220px;height:220px;border-radius:14px">
+  <img class="ph" src="assets/photos/grad.jpg" style="left:270px;top:70px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/lab.jpg" style="left:385px;top:70px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/med.jpg" style="left:270px;top:185px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/eng.jpg" style="left:385px;top:185px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/students.jpg" style="left:40px;top:300px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/violin.jpg" style="left:155px;top:300px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/pool.jpg" style="left:270px;top:300px;width:105px;height:105px;border-radius:12px">
+  <img class="ph" src="assets/photos/robot.jpg" style="left:385px;top:300px;width:105px;height:105px;border-radius:12px">
+  <div class="note" style="left:40px;top:430px">grille 3×3 dépliée (centre, croix, coins) → bento</div>
+</div><div class="c"><div class="t"><b>3 · La vie à l'Euromed</b><span class="tm">temps 8–13 · 3,6–5,85 s</span><span class="tag">OUVERTURE</span></div>
+<p>Le cercle devient un carré, rétrécit, et la grille se déplie derrière lui comme une carte : centre, croix, coins. Neuf photos du campus : allée, diplômés, labos, médecine, ingénierie, étudiants, musique, piscine, robotique. Elles se réorganisent en bento.</p><div class="sfx">SFX : papier qui se déplie ×2 · glissement</div></div></div>
+
+<!-- 4 -->
+<div class="p"><div class="f">
+  <img class="ph" src="assets/photos/campus.jpg" style="inset:0;width:100%;height:100%">
+  <div class="note" style="left:24px;top:24px">LE DROP · temps 16</div>
+</div><div class="c"><div class="t"><b>4 · Zoom sur le campus</b><span class="tm">temps 13–16 · 5,85–7,2 s</span><span class="tag g">DROP</span></div>
+<p>Le curseur clique sur la grande tuile. La caméra zoome façon Screen Studio, et le curseur grandit avec elle. L'allée du campus remplit le carré exactement sur le drop de la musique.</p><div class="sfx">SFX : clic · montée · impact</div></div></div>
+
+<!-- 5 -->
+<div class="p"><div class="f">
+  <img class="ph" src="assets/photos/campus.jpg" style="inset:0;width:100%;height:100%">
+  <div class="a" style="left:120px;top:150px;font:800 120px Archivo;font-stretch:125%;color:rgba(255,255,255,.35);-webkit-text-stroke:2px rgba(255,255,255,.85);text-shadow:0 8px 24px rgba(0,0,0,.25)">Fès</div>
+  <div class="glass" style="left:110px;top:420px;width:320px;height:56px"></div>
+  <div class="note" style="left:110px;top:380px">les lettres fondent → goutte → barre d'outils</div>
+</div><div class="c"><div class="t"><b>5 · Mot en verre</b><span class="tm">temps 17–20 · 7,65–9,0 s</span><span class="tag">VERRE</span></div>
+<p>« Fès » apparaît lettre par lettre, en verre liquide (champ de distance par glyphe, bords chromatiques). Les lettres fondent en une goutte, qui s'étire en barre d'outils de verre. Les icônes surgissent sur un ressort.</p><div class="sfx">SFX : bulles ×3 · goutte · ticks</div></div></div>
+
+<!-- 6 -->
+<div class="p"><div class="f">
+  <img class="ph" src="assets/photos/campus.jpg" style="inset:0;width:100%;height:100%">
+  <img class="ph" src="assets/photos/campus.jpg" style="inset:0;width:100%;height:100%;filter:sepia(.55) saturate(1.5) hue-rotate(-12deg) brightness(.92);clip-path:polygon(0 0,58% 0,72% 100%,0 100%)">
+  <div class="glass" style="left:60px;top:430px;width:420px;height:44px"></div>
+  <div class="a" style="left:290px;top:412px;width:80px;height:80px;border-radius:50%;box-shadow:inset 0 2px 2px rgba(255,255,255,.8),0 10px 24px rgba(0,0,0,.25);background:rgba(255,255,255,.12)"></div>
+  <div class="note" style="left:60px;top:390px">Jour ⟶ Heure dorée</div>
+</div><div class="c"><div class="t"><b>6 · Lumière du soir</b><span class="tm">temps 20–25 · 9,0–11,25 s</span><span class="tag">VERRE</span></div>
+<p>Le clic sur « Réglages » transforme la barre en curseur. Pendant qu'on le tient, le bouton devient une lentille de verre. Le glisser fait passer le campus du jour à l'heure dorée, avec deux images alignées.</p><div class="sfx">SFX : clic · appui · cliquetis du glisser</div></div></div>
+
+<!-- 7 -->
+<div class="p"><div class="f" style="background:#0E2246">
+  <img class="ph" src="assets/photos/grad.jpg" style="left:150px;top:30px;width:240px;height:480px;border-radius:34px">
+  <div class="a" style="left:150px;top:80px;width:240px;text-align:center;font:700 64px Archivo;font-stretch:80%;color:rgba(255,255,255,.55);-webkit-text-stroke:1.5px rgba(255,255,255,.9)">9:41</div>
+  <div class="glass" style="left:166px;top:400px;width:208px;height:66px;border-radius:18px"></div>
+  <div class="a" style="left:180px;top:414px;font-size:10px;color:#fff;font-weight:700">UEMF · Candidatures 2026<br><span style="font-weight:500;opacity:.8">Ouvertes jusqu'au 30 juin</span></div>
+</div><div class="c"><div class="t"><b>7 · Orbe → écran verrouillé</b><span class="tm">temps 25–28 · 11,25–12,6 s</span><span class="tag">VERRE</span></div>
+<p>La lentille se soulève en orbe de verre, et la photo des diplômés s'y ouvre en cercle. L'orbe s'étend en écran verrouillé : heure en verre, date, et une barre qui s'étire en widget de verre « Candidatures 2026 ouvertes ».</p><div class="sfx">SFX : zoom · pop · étirement</div></div></div>
+
+<!-- 8 -->
+<div class="p"><div class="f">
+  <div class="a" style="left:46px;top:110px;width:150px;height:310px;border-radius:26px;background:#0A1222;padding:7px"><img src="assets/photos/grad.jpg" style="width:100%;height:100%;object-fit:cover;border-radius:20px"></div>
+  <div class="a" style="left:96px;top:124px;width:50px;height:14px;border-radius:8px;background:#000"></div>
+  <svg class="a" style="left:0;top:0" width="540" height="540"><path d="M150 131 C 230 60, 300 80, 330 140" fill="none" stroke="#53BC46" stroke-width="3" stroke-dasharray="5 6"/><circle cx="330" cy="140" r="10" fill="#000"/></svg>
+  <div class="win" style="left:230px;top:160px;width:280px;height:220px"><div class="tb"><i style="background:#FF5F57"></i><i style="background:#FEBC2E"></i><i style="background:#28C840"></i><span>ueuromed.org</span></div>
+    <div style="height:194px;background:#14213A"></div></div>
+  <div class="note" style="left:230px;top:400px">le volet noir se roule → Safari</div>
+</div><div class="c"><div class="t"><b>8 · Téléphone → Mac</b><span class="tm">temps 29–33 · 13,05–14,85 s</span><span class="tag">SCÈNE</span></div>
+<p>L'écran recule dans un téléphone, dont le cadre pousse depuis le bord. La Dynamic Island s'étire comme un liquide, se détache, traverse l'écran et grandit en fenêtre Mac. Le volet se roule comme un store et révèle Safari sur ueuromed.org.</p><div class="sfx">SFX : whoosh · étirement · pop · store</div></div></div>
+
+<!-- 9 -->
+<div class="p"><div class="f">
+  <div class="win" style="left:30px;top:60px;width:480px;height:400px"><div class="tb"><i style="background:#FF5F57"></i><i style="background:#FEBC2E"></i><i style="background:#28C840"></i><span>ueuromed.org</span></div>
+    <div style="padding:10px 14px;display:flex;align-items:center;gap:8px;border-bottom:1px solid #EEF2F7"><img src="assets/brand/uemf-logo-couleur.png" style="height:22px"><span style="margin-left:auto;font-size:9px;background:var(--navy);color:#fff;border-radius:10px;padding:4px 10px">Candidater</span></div>
+    <img src="assets/photos/campus.jpg" style="display:block;width:452px;height:170px;object-fit:cover;margin:10px 14px;border-radius:10px">
+    <div style="margin:0 14px;font:800 24px/1.1 Archivo;font-stretch:110%;color:var(--navy)">Construis ta carrière<br>professionnelle à l'Euromed</div>
+  </div>
+  <div class="note" style="left:30px;top:480px">appui long sur le fond d'écran → glisser sur l'onglet → déposer</div>
+</div><div class="c"><div class="t"><b>9 · La page d'accueil</b><span class="tm">temps 34–36 · 15,3–16,2 s</span><span class="tag">SCÈNE</span></div>
+<p>Appui long sur le fond d'écran du téléphone, puis on le glisse sur l'onglet. La page arrive en poussant l'autre. Déposée, la photo devient le visuel principal de « Construis ta carrière professionnelle à l'Euromed ».</p><div class="sfx">SFX : appui · glissement · page · dépôt</div></div></div>
+
+<!-- 10 -->
+<div class="p"><div class="f" style="background:#fff">
+  <div class="a" style="left:28px;top:26px;font:800 22px Archivo;font-stretch:110%;color:var(--navy)">Choisis ta filière</div>
+  <div class="pole" style="left:28px;top:66px;width:154px;height:96px;background:#0E6E8C"><img src="assets/photos/med.jpg"><span>Pôle Santé</span></div>
+  <div class="pole" style="left:193px;top:66px;width:154px;height:96px;background:var(--navy);box-shadow:0 0 0 3px var(--green)"><img src="assets/photos/eng.jpg"><span>Ingénierie &amp;<br>Architecture</span></div>
+  <div class="pole" style="left:358px;top:66px;width:154px;height:96px;background:#2E3F73"><img src="assets/photos/students.jpg"><span>Sc. humaines,<br>sociales &amp; mgmt</span></div>
+  <div class="a" style="left:28px;top:178px;width:484px">
+    <span class="chip">Euromed Polytechnic School</span><span class="chip on">École d'Ingénierie Digitale et d'IA</span><span class="chip">École d'Architecture, de Design et d'Urbanisme</span>
+  </div>
+  <div class="a" style="left:28px;top:262px;width:484px;font-size:11px;color:#6B7A92;line-height:1.6">
+    <b style="color:var(--navy)">Santé</b> · Médecine · Médecine dentaire · Pharmacie · Sciences infirmières et techniques de santé · Ingénieur biomédical et biotechnologie<br>
+    <b style="color:var(--navy)">SHS &amp; Management</b> · Sciences humaines et sociales · Sciences juridiques et politiques · Euromed Business School · Institut Sorbonne-Euromed (droit des affaires)
+  </div>
+  <div class="pill" style="left:290px;top:420px;width:220px;height:48px;font-size:16px">Candidater en ligne</div>
+  <div class="note" style="left:28px;top:430px">le bouton du menu descend ↘</div>
+</div><div class="c"><div class="t"><b>10 · Choisis ta filière</b><span class="tm">temps 37–41 · 16,65–18,45 s</span><span class="tag g">FORMATIONS</span></div>
+<p>Au défilement, la photo devient la carte « Choisis ta filière » avec les trois pôles. Clic sur Ingénierie &amp; Architecture : ses établissements se déplient en puces, et on choisit l'École d'Ingénierie Digitale et d'IA. Les deux autres pôles listent leurs établissements. Le bouton « Candidater » du menu descend et devient « Candidater en ligne ».</p><div class="sfx">SFX : défilement · clic · déplié · clic · whoosh</div></div></div>
+
+<!-- 11 -->
+<div class="p"><div class="f">
+  <div class="pill" style="left:60px;top:80px;width:260px;height:56px;font-size:18px">Candidature envoyée ✓</div>
+  <div class="pill" style="left:200px;top:160px;width:280px;height:56px;font-size:18px">Admis·e en 1<sup>re</sup> année ✓</div>
+  <div class="a" style="left:60px;top:240px;width:420px;height:150px;border-radius:30px;background:var(--navy)">
+    <svg width="420" height="150"><path d="M40 110 C 120 110, 130 50, 210 70 S 320 110, 380 44" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="3" stroke-dasharray="2 9" stroke-linecap="round"/><circle cx="40" cy="110" r="6" fill="#fff"/><circle cx="210" cy="70" r="6" fill="#53BC46"/><circle cx="380" cy="44" r="8" fill="none" stroke="#fff" stroke-width="3"/>
+    <text x="22" y="138" fill="#fff" font-size="11" font-family="Geist">Licence</text><text x="190" y="100" fill="#fff" font-size="11" font-family="Geist">Master</text><text x="330" y="74" fill="#fff" font-size="11" font-family="Geist">Diplôme d'ingénieur</text></svg></div>
+  <div class="a" style="left:220px;top:410px;width:100px;height:100px;border-radius:50%;background:var(--navy);display:flex;align-items:center;justify-content:center;color:#fff;font-size:12px;font-weight:700;text-align:center">🎓<br>Diplômé·e</div>
+</div><div class="c"><div class="t"><b>11 · Un parcours</b><span class="tm">temps 42–45 · 18,9–20,25 s</span><span class="tag">PARCOURS</span></div>
+<p>Une seule forme bleu marine change de forme : Candidature envoyée ✓ → Admis·e ✓ → un parcours Licence → Master → Diplôme d'ingénieur, où un point avance sur la route → un cercle « Diplômé·e ».</p><div class="sfx">SFX : clic · validation · défilement · carillon</div></div></div>
+
+<!-- 12 -->
+<div class="p"><div class="f" style="background:#EDE7DD">
+  <div class="frame" style="left:150px;top:70px;width:240px;height:320px"><div class="mat"><img src="assets/photos/grads.jpg" style="width:100%;height:100%;object-fit:cover"></div></div>
+  <div class="a" style="left:150px;top:410px;width:240px;text-align:center;font-size:11px;color:#6B7A92">le diplôme encadré sur le mur réel (ombres de plantes)</div>
+  <img class="a" src="assets/brand/uemf-logo-couleur.png" style="left:380px;top:462px;width:130px">
+  <div class="arrow" style="left:330px;top:470px;font-size:20px">→</div>
+</div><div class="c"><div class="t"><b>12 · Le mur → retour au logo</b><span class="tm">temps 46–54 · 20,7–24,3 s</span><span class="tag">MUR</span></div>
+<p>Le cercle « Diplômé·e » inonde l'image, reste noir-bleu un temps, puis se contracte en diplôme encadré sur le mur. Le même iris s'ouvre sur les diplômés, se referme, et le cadre inonde à nouveau l'écran. Il se contracte en pastille, puis en feuille, d'où le logo UEMF revient sur le retour du beat. La dernière image est la première.</p><div class="sfx">SFX : souffle profond · obturateur ×2 · impact final</div></div></div>
+
+</div>
+<footer>
+<b>Sources :</b> logo, couleurs et photos du campus issus de ueuromed.org. Liste des établissements reprise de la page « Nos établissements ».
+<b>Musique :</b> le morceau du film Prompolu (lnplusmusic, 133 BPM), sauf si vous en fournissez un autre.
+<b>Mur :</b> le même mur généré, sauf si vous envoyez une vraie vidéo.
+<b>Textes :</b> en français, comme le site. Version anglaise possible.
+</footer>
+</body>
+</html>
