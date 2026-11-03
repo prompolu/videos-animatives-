@@ -298,7 +298,7 @@ class Iris {
       this.cr = sv('rect', cp); this.g.setAttribute('clip-path', `url(#${id})`);
     }
     this.blades = []; this.lines = [];
-    for (let i = 0; i < 6; i++) this.blades.push(sv('path', this.g, { fill: '#00296A' }));
+    for (let i = 0; i < 6; i++) this.blades.push(sv('path', this.g, { fill: '#003882' }));
     for (let i = 0; i < 6; i++) this.lines.push(sv('line', this.g, { stroke: 'rgba(255,255,255,.20)', 'stroke-width': 1.4 }));
   }
   set(on, cx, cy, R, open, rot, rect) {
@@ -319,7 +319,7 @@ class Iris {
       let d = `M${P1[0].toFixed(2)} ${P1[1].toFixed(2)}L${P2[0].toFixed(2)} ${P2[1].toFixed(2)}`;
       for (let k = 1; k <= 28; k++) { const a = b2 + dl * k / 28; d += `L${(cx + R * cos(a)).toFixed(2)} ${(cy + R * sin(a)).toFixed(2)}`; }
       att(this.blades[i], 'd', d + 'Z');
-      const L = this.lines[i]; att(L, 'x1', P1[0].toFixed(2)); att(L, 'y1', P1[1].toFixed(2)); att(L, 'x2', P2[0].toFixed(2)); att(L, 'y2', P2[1].toFixed(2)); att(L, 'stroke-opacity', 1);
+      const L = this.lines[i]; att(L, 'x1', P1[0].toFixed(2)); att(L, 'y1', P1[1].toFixed(2)); att(L, 'x2', P2[0].toFixed(2)); att(L, 'y2', P2[1].toFixed(2)); att(L, 'stroke-opacity', clamp(open * 5).toFixed(3));   // seams fade with the aperture so a closed iris is one flat shape
     }
   }
 }
@@ -669,10 +669,10 @@ function updStage(t) {
   const wr = lerp(28, 16, clamp((ww - 56) / 300));
   const wx = 1460 - ww / 2, wy = 720 - wh / 2;
   show(win, t >= 14.4); box(win, wx, wy, ww, wh); css(win, 'borderRadius', px(Math.min(wr, ww / 2, wh / 2)));
-  css(win, 'background', t < 14.85 ? INK : '#1C1C1E');
+  css(win, 'background', '#0B0B0C');
   const rp = seg(t, 14.85, .42, 'io');
   const ch = lerp(wh, WIN.tb, rp);
-  box(cover, 0, 0, ww, ch); css(cover, 'background', t < 14.85 ? INK : lerp(0, 1, rp) < 1 ? '#0B0B0C' : '#1C1C1E');
+  box(cover, 0, 0, ww, ch); css(cover, 'background', '#0B0B0C');
   const band = 18 * Math.min(1, rp * 6) * (1 - rp) ** .3;
   show(roll, rp > 0 && rp < 1); box(roll, 0, ch - band, ww, band);
   box(pageArea, 0, WIN.tb, ww, wh - WIN.tb);
