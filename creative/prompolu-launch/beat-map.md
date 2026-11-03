@@ -1,4 +1,4 @@
-# prompolu. — launch film beat map (draft for approval)
+# Prompolu — launch film beat map
 
 Square 1440×1440, 60 fps, one continuous take. 54 beats.
 
@@ -38,9 +38,9 @@ t = beat × 0.45 s. "Cam" is the screen-studio zoom (the cursor scales with it).
 
 | # | t | Event | Cursor / Cam | SFX |
 | --- | --- | --- | --- | --- |
-| 0 | 0.00 | `prompolu.` full wordmark, Archivo wdth 125 / 800, black on warm off-white (first frame) | cursor enters lower right · cam 1.0 | — |
-| 1 | 0.45 | accordion squeeze starts: every letter moves toward the period by one factor, wdth narrows, scaleX follows, letters stay touching | cam pushes 1.0→1.15 | short whoosh |
-| 2 | 0.90 | last letter folds into the dot | — | zip in |
+| 0 | 0.00 | the official PROMPOLU ALUMINIUM logo (from prompolu.com), black on warm off-white (first frame) | — · cam 1.0 | — |
+| 1 | 0.45 | accordion squeeze starts: every letter moves toward the centre by one factor, so the letters stay touching | cam 1.0 | short whoosh |
+| 2 | 0.90 | the squeezed ink gathers into a black dot | — | zip in |
 | 3 | 1.35 | dot springs into a black pill | — | pop |
 | 4 | 1.80 | label rises out of the pill's mask line | cursor glides onto pill | soft tick |
 | 5 | 2.25 | **click** on pill (press 0.96, release spring) | cam 1.4 on pill | click |
@@ -115,5 +115,5 @@ t = beat × 0.45 s. "Cam" is the screen-studio zoom (the cursor scales with it).
 
 | # | t | Event | Cursor / Cam | SFX |
 | --- | --- | --- | --- | --- |
-| 52 | 23.40 | **beat return**: letters spring back out of the dot | cam 1.0 | impact |
+| 52 | 23.40 | **beat return**: the logo springs back out of the dot | cam 1.0 | impact |
 | 53 | 23.85 | settles; t = 24.30 renders identical to t = 0 | cursor exits | — |
